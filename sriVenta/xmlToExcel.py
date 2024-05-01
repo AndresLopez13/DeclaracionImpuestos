@@ -133,11 +133,12 @@ if __name__ == '__main__':
             numDocSustento = rootRetencion.find('.//numDocSustento').text
             numDocSustento = int(numDocSustento[-9:])
 
-            if numDocSustento == secuencial: # TODO agregar caso donde no se encuentre el numDocSustento y en su lugar agregue un guion al Excel
+            if numDocSustento == secuencial:  # TODO agregar caso donde no se encuentre el numDocSustento y en su lugar agregue un guion al Excel
+                # new TEST for git master branch
                 # caso retencion con etiqueta docSustento y retencion con etiqueta impuesto
                 if rootRetencion.find('.//retencion') is not None:
                     etiquetaRetencion = 'retencion'
-                else: 
+                else:
                     etiquetaRetencion = 'impuesto'
 
                 for retencion in rootRetencion.iter(etiquetaRetencion):
@@ -152,10 +153,10 @@ if __name__ == '__main__':
                     else:
                         print(f'Existe otro codigo de retencion: {codigo}')
 
-        factura.append(codigo1) 
+        factura.append(codigo1)
         factura.append(codigo2)
         hoja_activa.append(factura)
-        sumatorias = add_totals(factura) 
+        sumatorias = add_totals(factura)
 
     hoja_activa.append(['TOTAL', '', '', '', '', '', *sumatorias])
 
