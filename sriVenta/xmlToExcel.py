@@ -133,7 +133,7 @@ if __name__ == '__main__':
             numDocSustento = rootRetencion.find('.//numDocSustento').text
             numDocSustento = int(numDocSustento[-9:])
 
-            if numDocSustento == secuencial:
+            if numDocSustento == secuencial: # TODO agregar caso donde no se encuentre el numDocSustento y en su lugar agregue un guion al Excel
                 # caso retencion con etiqueta docSustento
                 if rootRetencion.find('.//retencion') is not None:
                     etiquetaRetencion = 'retencion'
