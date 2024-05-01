@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1907202301176000333000120082000017769311438926219</numeroAutorizacion>
+<fechaAutorizacion>2023-07-19T16:11:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>GOBIERNO AUTONOMO DESCENTRALIZADO DE LA PROVINCIA DE PICHINCHA</razonSocial><ruc>1760003330001</ruc><claveAcceso>1907202301176000333000120082000017769311438926219</claveAcceso><codDoc>01</codDoc><estab>008</estab><ptoEmi>200</ptoEmi><secuencial>001776931</secuencial><dirMatriz>MANUEL LARREA N13-45, Quito, Ecuador</dirMatriz></infoTributaria><infoFactura><fechaEmision>19/07/2023</fechaEmision><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>STALIN NARCISO LOPEZ MONTIEL</razonSocialComprador><identificacionComprador>0914552849001</identificacionComprador><totalSinImpuestos>10</totalSinImpuestos><totalDescuento>0.0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>10</baseImponible><valor>0</valor></totalImpuesto></totalConImpuestos><propina>0.0</propina><importeTotal>10</importeTotal><pagos><pago><formaPago>01</formaPago><total>10</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>7</codigoPrincipal><descripcion>RECARGA FASTAG</descripcion><cantidad>1</cantidad><precioUnitario>10</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>10</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>10</baseImponible><valor>0</valor></impuesto></impuestos></detalle></detalles><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature408121" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo988940">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID797483" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature408121-SignedProperties432697">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>F1mwwz0GRvJLn+Pqqqlfv+muGKM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1307843">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>h5s8Q/9czMgeIRU6sT++a8HAFz0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1018989" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cHqMyNO8cVjFtMQs0eUDvzq4WQo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue887874">
+h9NBEFXOpJ0g+5zI+QtTF4MPduzeLk68rnoby6UFN+KNDkiEn7hfosvH1PYx5nzNTXCFlaJm/ZNK
+U6q1vYUTx21ASv797/mr6uVh32FzKPsks8v2qXvkYlBbIsHJcpL7jD5JypC11UAUlahD/SrD/1U+
+mIRs3KwB27IzpG4bw55zNwEJ11azP/6Lny+Z2X7HvCyneIN4C9HawvCshzjnr9dO56Y+5kZpqowT
+g7IBEnRpbUo0jnR3SPmzrsYSebNuTEN7dGzXfAYOUJKi207Ld93BkxfkY9Sv27xe+lVByujlZACm
+ShpBH3AmnsAP5ZRMT3XJl8oz+NVhK8eGCMHLvw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1307843">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKDDCCB/SgAwIBAgIEW2th/zANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIxMTIwODE0MjcxOFoXDTIzMTIwODE0NTcx
+OFowga0xCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzExMBEGA1UEBRMKMDAwMDI0NTIwNzAcBgNVBAMTFUFOQSBBREVMQSBHQVJD
+SUEgVkVHQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALzqKLzkkjj9I3gUL4SVnNXr
+QgW8Y9A/ZKiQlzXkLhn8X73jM0xrIK7IXvw1CrRY0o6omhqTVqFcr57KdoCcBjNBdwWcncYchNGr
+bKTHT3TuSCiUN/xAxAJChtNmy53wSUaEFIn2+wqhbmqpsfvZI1YiZapytzM4zfPxCcUkuHkov+Y1
+ttG8AES6sd+1lWgsGaqMXPe1jtr6INZsrmNx2D3+SCVfrKPlO/BZvD5it5FjNnivKGnJKxxlBQCJ
+oNn1dTd0FEcl6XY9U9wHkd1TnhEJVsRv5oQpfgUrohlXlL+6UNthwaIcG9/h7fYoB8QIptpfYbgS
+HEcl53ZXNQzTsLMCAwEAAaOCBTwwggU4MAsGA1UdDwQEAwIHgDBnBgNVHSAEYDBeMFwGCysGAQQB
+gqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9wb2xpdGljYS1jZXJ0
+aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQwgYEwPgYIKwYBBQUH
+MAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMD8G
+CCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwTgYKKwYBBAGCqDsDCgRAEz5HT0JJRVJOTyBBVVRPTk9NTyBERVNDRU5UUkFMSVpBRE8g
+REUgTEEgUFJPVklOQ0lBIERFIFBJQ0hJTkNIQTAdBgorBgEEAYKoOwMLBA8TDTE3NjAwMDMzMzAw
+MDEwGgYKKwYBBAGCqDsDAQQMEwoxNzA4NDc5NTUzMBkGCisGAQQBgqg7AwIECxMJQU5BIEFERUxB
+MBYGCisGAQQBgqg7AwMECBMGR0FSQ0lBMBQGCisGAQQBgqg7AwQEBhMEVkVHQTAgBgorBgEEAYKo
+OwMFBBITEENPTlRBRE9SIEdFTkVSQUwwLAYKKwYBBAGCqDsDBwQeExxNQU5VRUwgTEFSUkVBIFkg
+QU5UT05JTyBBTlRFMBkGCisGAQQBgqg7AwgECxMJMDIzOTk0NTA0MBUGCisGAQQBgqg7AwkEBxMF
+UXVpdG8wFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUt
+QVJDSElWTzAjBgNVHREEHDAagRhnYXJjaWFhQHBpY2hpbmNoYS5nb2IuZWMwggHhBgNVHR8EggHY
+MIIB1DCCAdCgggHMoIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAxLmJjZS5lYy9jbj1DUkwxMzkz
+LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElE
+QUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNP
+JTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0
+P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5j
+cmykgbYwgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9S
+MTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNF
+MQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEQ
+MA4GA1UEAxMHQ1JMMTM5MzArBgNVHRAEJDAigA8yMDIxMTIwODE0MjcxOFqBDzIwMjMxMjA4MTQ1
+NzE4WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4EFgQUaVK3iA7W9g00
+y2EVIU0NFqR+E14wCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIEsDANBgkqhkiG
+9w0BAQsFAAOCAgEACaOjn2/yTAywckTLccRyDfGTCT87qBjpyrsTcTd+5zABidgzyOSy6xbo69Xf
+g5SItZEsonspqkK/CIUPyG7nkpkIEXgaRsWlssrAWcZAPS6FWZjjYq8Mq89iNIwJ86QvQg0udGjf
+c6W22La5FbV5prTWG34zn0DLNKbd7dHVqHitfq4gYymV2ty1Nxa7K1/VeswVvSpI41XlFQu2LIpB
+5a0tDDo7LU1kipiyTWQyWuJEiWtso3njh6xPGOItbEZTzH285z3NkLZMceybHtRXedvqUX6hpTty
+pv2iNifAciUr7hCx6+XRr63pIyTOK8VafDJZ/OdmbGVvP/wR/oItUXXbPHsgf+T7X1o9fLkANwEn
+V4LeDjVuesn0ZDx4EcCoSqpaFqWc08v7IgT0sNcmisrfjPxD5C7YtLHYZT1r6lpX8gXnSSLEUJZw
+IqvTKxewWgZSgNpvkrVvuNJkmOm+M2ywN1KLYb0Veab0LoDaYtd+MqfPhEX7eK7JjrZ9f5tb+yoG
+Q8Ivsv5X4yTeC9Dto3vSt2KmycwKK6YHiqHLG2GCiSyY4uIv+PHmPd36ZD4OHeMg1PXqU3sI2j3t
+9bPPVSwswKtjK82vztM267xLcOFuiqJ+ytdQAUe5oNBAckygI3lRxb4ZBHUFbhu6Pmw7No4I8ZE+
+dMUUlH/hZPujO/Q=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+vOoovOSSOP0jeBQvhJWc1etCBbxj0D9kqJCXNeQuGfxfveMzTGsgrshe/DUKtFjSjqiaGpNWoVyv
+nsp2gJwGM0F3BZydxhyE0atspMdPdO5IKJQ3/EDEAkKG02bLnfBJRoQUifb7CqFuaqmx+9kjViJl
+qnK3MzjN8/EJxSS4eSi/5jW20bwARLqx37WVaCwZqoxc97WO2vog1myuY3HYPf5IJV+so+U78Fm8
+PmK3kWM2eK8oackrHGUFAImg2fV1N3QURyXpdj1T3AeR3VOeEQlWxG/mhCl+BSuiGVeUv7pQ22HB
+ohwb3+Ht9igHxAim2l9huBIcRyXndlc1DNOwsw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature408121-Object177280"><etsi:QualifyingProperties Target="#Signature408121"><etsi:SignedProperties Id="Signature408121-SignedProperties432697"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-19T16:11:33-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>9N+GEnOyai2klzPjFpZU+5G9lHU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533764095</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1018989"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

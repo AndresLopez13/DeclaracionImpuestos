@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3112202301010206100900120010060000616860006168612</numeroAutorizacion>
+<fechaAutorizacion>2023-12-31T15:33:55-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CARRASCO MUÑOZ GUIDO JAVIER</razonSocial>
+    <nombreComercial>HOSTERIA DOS CHORRERAS</nombreComercial>
+    <ruc>0102061009001</ruc>
+    <claveAcceso>3112202301010206100900120010060000616860006168612</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>006</ptoEmi>
+    <secuencial>000061686</secuencial>
+    <dirMatriz>KM 21 VIA AL CAJAS S/N - MOLLETURO</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>31/12/2023</fechaEmision>
+    <dirEstablecimiento>KM 21 VIA AL CAJAS S/N - MOLLETURO</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>STALIN LOPEZ</razonSocialComprador>
+    <identificacionComprador>0914552849001</identificacionComprador>
+    <totalSinImpuestos>56.13</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>56.13</baseImponible>
+        <tarifa>12</tarifa>
+        <valor>6.74</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>5.61</propina>
+    <importeTotal>68.48</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>68.48</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>10403,000000</codigoPrincipal>
+      <codigoAuxiliar>1,000000</codigoAuxiliar>
+      <descripcion>Trucha Ajillo</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>13.110000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.11</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>13.110000</baseImponible>
+          <valor>1.57</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>10202,000000</codigoPrincipal>
+      <codigoAuxiliar>1,000000</codigoAuxiliar>
+      <descripcion>Churrasco</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>13.110000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.11</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>13.110000</baseImponible>
+          <valor>1.57</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>20003,000000</codigoPrincipal>
+      <codigoAuxiliar>1,000000</codigoAuxiliar>
+      <descripcion>Agua Mineral</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.230000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.230000</baseImponible>
+          <valor>0.15</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>10406,000000</codigoPrincipal>
+      <codigoAuxiliar>1,000000</codigoAuxiliar>
+      <descripcion>Trucha Crocante</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>14.750000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>14.75</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>14.750000</baseImponible>
+          <valor>1.77</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>10209,000000</codigoPrincipal>
+      <codigoAuxiliar>1,000000</codigoAuxiliar>
+      <descripcion>Seco de Chivo</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>13.930000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.93</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>13.930000</baseImponible>
+          <valor>1.67</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="FECHA CIERRE">2023-12-31T15:33:30</campoAdicional>
+    <campoAdicional nombre="Persona Natural Obligada a Llevar Contabilidad">NAC-DNCRASC20-1</campoAdicional>
+    <campoAdicional nombre="FORMA DE PAGO">Diners Club: 68.480</campoAdicional>
+    <campoAdicional nombre="TRANSACCION">563152</campoAdicional>
+    <campoAdicional nombre="CHECK">3262</campoAdicional>
+    <campoAdicional nombre="CAJERO">333. Paola Arichavala</campoAdicional>
+    <campoAdicional nombre="Agente de Retencion">No. Resolucion: 1</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature257068">
+<ds:SignedInfo Id="Signature-SignedInfo478691">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID542271" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature257068-SignedProperties494058">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1thPGFuSU0pfIDgTaljSqamVaco=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1314199">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NU+Rlm8xWGPacbz3oY0ekS1svPY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-872974" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>JTZAtF/osO0nzecTxanQcGakyN0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue5264">
+UVRUKfb0R1lw/k3plbFMfU/xdCDgSIwE2OzhStVHqV5Lfh6TgYY/KEw03Kp/Y/Qfqqv+3gtrXHnr
+levDSiTFTk2epxg84TmSA9g2BdhPzo/My/oP6CC8C3sZM+j1roHYz77G1WhrsrrEktq7fPJecjda
+Ae9MRUUIuQA7gZdq051Rh5bgOarqueUZE68uG0Pi4GMABXEuPx1RUN/VZObP0XuNeyB6PppBn56/
+t7fnKE6fxVwII136kkCUEXacXcaF5SC7TCbPernVm+irEA7q0qlXc2YA69AQiLvirPI8rI674F/I
+uT/mbXa3anHyCp/eW+ND/h+3JnyZVXP7QeoUdA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1314199">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJSDCCCDCgAwIBAgIEXcvcNTANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0yMDAyMjExNDQ0NDBaFw0yNTAyMjExNTE0NDBaMIGXMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTATBgNVBAUTDDIxMDIyMDEwMTEzMTAiBgNVBAMT
+G0dVSURPIEpBVklFUiBDQVJSQVNDTyBNVU5PWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAOowhajlLVgj2zUXn5pH8GK5NGbqTck1Amki5XOiOPGtF2VrhYRaUCgamUrzyfPWOH+gvCB8
+arvMTJGsfeT1oZ4QMRxPMGNfJ8+lPmqlZhx5ZgfDnaar7PNfUeoYzIJDHgC1t1q3zlWcXwgP7bCh
+IQ8Vm542/jXlzmVmrS/pJ2tnzOhNDefP+A1tpbHd89GK/X1I85KslQeHD0a6iG1pxr68+sc3dhZZ
+vNkh6+5GEwzQWLVnObNH3P1eSf1bngwLs6Vof5wi8NBOo4jWi5xGm5LQNH56Bgs94nOcIdTteZEj
+oe45wVNbqFJc8elqihdsde01MGte8xHnYsWEb7snvQ0CAwEAAaOCBZwwggWYMAsGA1UdDwQEAwIF
+4DBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwgcQGA1UdIASBvDCBuTA8BgorBgEE
+AYKmcgIHMC4wLAYIKwYBBQUHAgIwIBoeQ2VydGlmaWNhZG8gZGUgUGVyc29uYSBOYXR1cmFsMHkG
+CisGAQQBgqZyAgEwazBpBggrBgEFBQcCARZdaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9sZXllc19ub3JtYXRpdmFzL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVy
+YWwucGRmMBoGCisGAQQBgqZyAwEEDBMKMDEwMjA2MTAwOTAcBgorBgEEAYKmcgMCBA4TDEdVSURP
+IEpBVklFUjAYBgorBgEEAYKmcgMDBAoTCENBUlJBU0NPMBUGCisGAQQBgqZyAwQEBxMFTVVOT1ow
+IAYKKwYBBAGCpnIDBwQSExBWSUEgQUwgQ0FKQVMgUy9OMBsGCisGAQQBgqZyAwgEDRMLNTkzNzQy
+MTU0MzAwFgYKKwYBBAGCpnIDCQQIEwZDVUVOQ0EwFwYKKwYBBAGCpnIDDAQJEwdFQ1VBRE9SMB0G
+CisGAQQBgqZyAwsEDxMNMDEwMjA2MTAwOTAwMTAfBgorBgEEAYKmcgMgBBETDzAwNDAwMjAwMDAw
+MTU0MzATBgorBgEEAYKmcgMhBAUTA1BGWDAlBgNVHREEHjAcgRpndWlkb2NhcnJhc2NvMUBob3Rt
+YWlsLmNvbTCCAnsGA1UdHwSCAnIwggJuMIICaqCCAmagggJihj1odHRwOi8vb2NzcGd3LnNlY3Vy
+aXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwhoHVbGRhcDovL2RpcmVj
+dC5zZWN1cml0eWRhdGEubmV0LmVjL2NuPUNSTDYzNCxjbj1BVVRPUklEQUQlMjBERSUyMENFUlRJ
+RklDQUNJT04lMjBTVUIlMjBTRUNVUklUWSUyMERBVEEsb3U9RU5USURBRCUyMERFJTIwQ0VSVElG
+SUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04sbz1TRUNVUklUWSUyMERBVEElMjBTLkEuLGM9RUM/
+Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhoGeaHR0cHM6Ly9kaXJlY3Quc2VjdXJpdHlk
+YXRhLm5ldC5lYy9+Y3JsL2F1dG9yaWRhZF9kZV9jZXJ0aWZpY2FjaW9uX3N1Yl9zZWN1cml0eV9k
+YXRhX2VudGlkYWRfZGVfY2VydGlmaWNhY2lvbl9kZV9pbmZvcm1hY2lvbl9jdXJpdHlfZGF0YV9z
+LmEuX2NfZWNfY3JsZmlsZS5jcmykgacwgaQxCzAJBgNVBAYTAkVDMRswGQYDVQQKExJTRUNVUklU
+WSBEQVRBIFMuQS4xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTjE1MDMGA1UEAxMsQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCIFNFQ1VSSVRZIERB
+VEExDzANBgNVBAMTBkNSTDYzNDArBgNVHRAEJDAigA8yMDIwMDIyMTE0NDQ0MFqBDzIwMjUwMjIx
+MTUxNDQwWjAfBgNVHSMEGDAWgBT3L0zgdedio3iWWwa2LnE7zGw/kDAdBgNVHQ4EFgQU3UDH2+rH
+06xEasrLz/G5hZb7m8EwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIDqDANBgkq
+hkiG9w0BAQsFAAOCAQEAZUQvXmI0KqvW4pCPSzg6R0lpp8n+omtTZWm5/GOQWU6OvZRJiQNnhp+x
+k1K4lenxmCkzwTOtoFYwCJ2WiIAoI0V6X/A5jyxSjH3xW1Sh0oeYJPIYl5lcdQKeEnmDrJW4V8Qh
+/RG8shyv0l9nWFOBwBXpglqFi7XLL3Frk5v8l8uDYQaDleURqogzoBpG0s8Oack6NLZU4bO6jugW
+a48nfcNwsiCns8c4gyEXiEMy9dcecDkJFD/e0/tp2fj43o16lExfQ5K2FavS3QfdKyIgl0ISA5jJ
+JpskDguy6Dnl3oUYK5rYFNp2SLfIsBgGQ5dRXdwatNTi81TQIlhq5cuckg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6jCFqOUtWCPbNRefmkfwYrk0ZupNyTUCaSLlc6I48a0XZWuFhFpQKBqZSvPJ89Y4f6C8IHxqu8xM
+kax95PWhnhAxHE8wY18nz6U+aqVmHHlmB8Odpqvs819R6hjMgkMeALW3WrfOVZxfCA/tsKEhDxWb
+njb+NeXOZWatL+kna2fM6E0N58/4DW2lsd3z0Yr9fUjzkqyVB4cPRrqIbWnGvrz6xzd2Flm82SHr
+7kYTDNBYtWc5s0fc/V5J/VueDAuzpWh/nCLw0E6jiNaLnEabktA0fnoGCz3ic5wh1O15kSOh7jnB
+U1uoUlzx6WqKF2x17TUwa17zEedixYRvuye9DQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature257068-Object110527"><etsi:QualifyingProperties Target="#Signature257068"><etsi:SignedProperties Id="Signature257068-SignedProperties494058"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-12-31T15:33:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>s+nLLPstjwmKTlekO3hsh/oafXw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1573641269</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-872974"><etsi:Description>SATCOM Servicios Profesionales</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

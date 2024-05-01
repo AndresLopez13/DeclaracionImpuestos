@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1807202301189180432200120010110000047340000473411</numeroAutorizacion>
+<fechaAutorizacion>2023-07-18T09:31:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>FABRICA DE PELUCHES HEART S.A.S</razonSocial>
+		<nombreComercial>FABRICA PELUCHES HEART S.A.S</nombreComercial>
+		<ruc>1891804322001</ruc>
+		<claveAcceso>1807202301189180432200120010110000047340000473411</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>011</ptoEmi>
+		<secuencial>000004734</secuencial>
+		<dirMatriz>JUAN MONTALVO 102 Y AV. INDOAMERICA</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>18/07/2023</fechaEmision>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>STALIN LOPEZ MONTIEL</razonSocialComprador>
+		<identificacionComprador>0914552849001</identificacionComprador>
+		<direccionComprador>ARTURO BORJA N2-08 Y MANOSALVAS</direccionComprador>
+		<totalSinImpuestos>96.13</totalSinImpuestos>
+		<totalDescuento>0</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>
+				<baseImponible>96.13</baseImponible>
+				<valor>11.54</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>107.66</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>107.66</total>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>MD-0462</codigoPrincipal>
+			<descripcion>CUELLO Y ANTIFAZ MINNIE</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>12.0000</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>12.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>12.00</baseImponible>
+					<valor>1.44</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>MD-2066</codigoPrincipal>
+			<descripcion>BOO 40CM</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>11.2054</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>11.21</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>11.21</baseImponible>
+					<valor>1.34</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>MD-2079</codigoPrincipal>
+			<descripcion>SULLY 30CM</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>10.5804</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>10.58</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>10.58</baseImponible>
+					<valor>1.27</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>RS4043R/6</codigoPrincipal>
+			<descripcion>OSA BUFANDA ROSA 15CM</descripcion>
+			<cantidad>4.0000</cantidad>
+			<precioUnitario>2.7768</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>11.11</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>11.11</baseImponible>
+					<valor>1.33</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>MCH-4261</codigoPrincipal>
+			<descripcion>VACA PATITAS 20CM</descripcion>
+			<cantidad>2.0000</cantidad>
+			<precioUnitario>4.0179</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>8.04</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>8.04</baseImponible>
+					<valor>0.96</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>MCH-4296</codigoPrincipal>
+			<descripcion>ELEFANTE PATITAS 20CM</descripcion>
+			<cantidad>2.0000</cantidad>
+			<precioUnitario>4.0179</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>8.04</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>8.04</baseImponible>
+					<valor>0.96</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>MCH-4266</codigoPrincipal>
+			<descripcion>PANDA PATITAS 20CM</descripcion>
+			<cantidad>2.0000</cantidad>
+			<precioUnitario>4.0179</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>8.04</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>8.04</baseImponible>
+					<valor>0.96</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>GC20833/6"</codigoPrincipal>
+			<descripcion>OSO RAYAS /6</descripcion>
+			<cantidad>6.0000</cantidad>
+			<precioUnitario>2.1875</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>13.13</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>13.13</baseImponible>
+					<valor>1.58</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>MH-3241</codigoPrincipal>
+			<descripcion>OSO MARCO 44 CM</descripcion>
+			<cantidad>2.0000</cantidad>
+			<precioUnitario>7.0000</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>14.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>14.00</baseImponible>
+					<valor>1.68</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="CORREOELECTRONICO">stalin.lopez@hotmail.com</campoAdicional>
+		<campoAdicional nombre="CONTROL">2701E0004734</campoAdicional>
+		<campoAdicional nombre="REFERENCIA">0,00</campoAdicional>
+		<campoAdicional nombre="VENDEDOR">00002 GUEVARA CASTILLO YOLANDA </campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature231748">
+<ds:SignedInfo Id="Signature-SignedInfo5025">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID586588" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature231748-SignedProperties65257">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>22JuPUOP80EJ0fu5EhraX45q4us=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1962088">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>JO8RCiEffF8+DmNc2YX4j4zhj4g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-966709" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>GVPETOHwqvTleKHyEzuWFUoYDl0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue686736">
+ETw0stqhPNii5So5jY4LL5r3NEt3SVZGyBHE+S7gd+/p+ds+3jI5ancWsdB23BEYIZrYVDxWigBL
+4/5DuHY8gWP/S79XnFERc48bmmxUgVP02YFFEPRmdpYISaluQcC/R5LxNWFr5dZq74gXLp9JhLv+
+fv3qcUtOersYVlz58hiz2wZLRSXlo7IAtoEdi5vlxpsoE+Dr7IK8CtUc1KzqndEiNjHkK4WZ88Is
+tnKh9aBdNw06m6tYH5Wu3wKs/muo3kpKfCvNrnp5nOqXEe6Fi/wvVymvkuKEWrvgFjwePkQlfPAn
+cb+o7hfEnG9vn/jzgj2R0esa3ZCoqJWKnOGjgg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1962088">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ3TCCB8WgAwIBAgIIFUem1Rb7wg4wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDIxNDE3MjkwMFoXDTI0MDIxNDE3MjkwMFowgesxCzAJBgNVBAYTAkVDMSkwJwYDVQQKDCBG
+QUJSSUNBIERFIFBFTFVDSEVTLUhFQVJUIFMuQS5TLjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFM
+MRkwFwYDVQQEDBBPUlRFR0EgR0FWSUxBTkVTMRgwFgYDVQQqDA9XSUxMSUFNIEFVR1VTVE8xGTAX
+BgNVBAUTEElEQ0VDLTE4MDM5MzQ4MzMxKTAnBgNVBAMMIFdJTExJQU0gQVVHVVNUTyBPUlRFR0Eg
+R0FWSUxBTkVTMRwwGgYDVQRhDBNWQVRFQy0xODkxODA0MzIyMDAxMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAjbZ4i8b00Oagq32uCMx0sPaUuJ1m37kgzWz6Ogva/E/qy8ZeZK1wx6k/
+66a4zcCC8Sbicr9B/I+JrJimIjJHqzaka1WucD9icqZD/K9KqQAk4vF7pCwzWJ23BDDkck+w60SF
+HZfEb0n7oOcHou4p07nZrWfdILlDHOEAiA6DAAh077ng5Qn+nk9VQ3Me8916/aIM+7PkXyMTgt5Y
+Fe32ZLPaQwaeYCq9Amz+EZlCLraEs72qxkbw6gmlN7s81yOoWBCCFwGrln5HAApmp+LQguAanBkP
+57MbmUEs7vnw01Xf3ZVq8Ww0IDV7/IsGwl6mMAZ5HwZju0zoj9oGsprpYwIDAQABo4IEtDCCBLAw
+GwYLKwYBBAGC8TZmAwEEDAwKMTgwMzkzNDgzMzAeBgsrBgEEAYLxNmYDCwQPDA0xODkxODA0MzIy
+MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5j
+b20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2Bggr
+BgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsG
+AQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0O
+BBYEFKsGlEl4Ckshjjh3SLPG3lTmRc6oMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPO
+B0ap4qNo8OERsnSSc/0wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUH
+AgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUH
+AgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcw
+gYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJv
+cmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2Ny
+bC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMC
+BggrBgEFBQcDBDCCAfUGA1UdEQSCAewwggHogSBmaW5hbmNpZXJvQGZhYnJpY2FkZXBlbHVjaGVz
+LmNvbaAbBgsrBgEEAYLxNmYDAaAMDAoxODAzOTM0ODMzoCAGCysGAQQBgvE2ZgMCoBEMD1dJTExJ
+QU0gQVVHVVNUT6AXBgsrBgEEAYLxNmYDA6AIDAZPUlRFR0GgGgYLKwYBBAGC8TZmAwSgCwwJR0FW
+SUxBTkVToCAGCysGAQQBgvE2ZgMFoBEMD0dFUkVOVEUgR0VORVJBTKBMBgsrBgEEAYLxNmYDB6A9
+DDtDQUxMRTogSlVBTiBNT05UQUxWTyBOTUVSTzogMTAyIElOVEVSU0VDQ0lOOiBBVi5JTkRPQU1F
+UklDQaAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5OTcyMzAxOKAXBgsrBgEEAYLxNmYDCaAIDAZB
+TUJBVE+gMQYLKwYBBAGC8TZmAwqgIgwgRkFCUklDQSBERSBQRUxVQ0hFUy1IRUFSVCBTLkEuUy6g
+HgYLKwYBBAGC8TZmAwugDwwNMTg5MTgwNDMyMjAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsr
+BgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJ
+Vk8wDQYJKoZIhvcNAQELBQADggIBAAC3djUpM4Bct4btvIK28CEEu9jYgn+y1YlKt25uFu0Ag4gt
+m2qUaBl7V0JiX+bsGfFEn41DXdVP/cU6R8XSqaaZbSYeBwznPBp6HA+tUS7i6v+473ib0F4QRHZm
+JQ2fAxnH6kVxmdlqqiMUX89+6g7JmebVwjq2KtVd7p4uEZHdjceA7ghO5L8/FYDwvyeZJ/Q9xtXO
+1a/bSFKxtOy9a5RpRIAgq9HGoxKgvgss/M4telF5NhubLx8NCaY1KXTj89Sri/FXj3eTO6ABrfO8
+XOHxSZpYytsnEbslFEED8ypNXdUVXdrkaNOLSRJHpUxkELMap9leKESDt6v4qQT1RKU1l3ul6rJ1
+2r7dGZCUfUO0SgDEE1Jcmtt58xCGgCjZvIefM0AsnX5wbSFFvGn9Cv/16kYJC/jbhWFJV01FPLkT
+UYPPFNkENK85TAevAb1ltauLKQns4KKMWMkq2goRhV3/AFxz/3mTWvPPOeJB6pWG1p9VlRrZ4scq
+U/urfOoLFAGfUFpKaB5rG9vNUZqhCfnn+1nASeN9d6IQ1FXNwlLDuoVzqfjUjkKfVD3pTafaCQWC
+jGXElv6muJialdzqs6KCf8mJ1lc5itNv0n1ThM8QRMuIGbxg0yWl3ioPLzkkeY56vsMQrtn1jv2q
+/I/6H1nU2K2Y8s+AhxQ19j+TPzKX
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+jbZ4i8b00Oagq32uCMx0sPaUuJ1m37kgzWz6Ogva/E/qy8ZeZK1wx6k/66a4zcCC8Sbicr9B/I+J
+rJimIjJHqzaka1WucD9icqZD/K9KqQAk4vF7pCwzWJ23BDDkck+w60SFHZfEb0n7oOcHou4p07nZ
+rWfdILlDHOEAiA6DAAh077ng5Qn+nk9VQ3Me8916/aIM+7PkXyMTgt5YFe32ZLPaQwaeYCq9Amz+
+EZlCLraEs72qxkbw6gmlN7s81yOoWBCCFwGrln5HAApmp+LQguAanBkP57MbmUEs7vnw01Xf3ZVq
+8Ww0IDV7/IsGwl6mMAZ5HwZju0zoj9oGsprpYw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature231748-Object935673"><etsi:QualifyingProperties Target="#Signature231748"><etsi:SignedProperties Id="Signature231748-SignedProperties65257"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-18T09:31:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>vBVDEWMzl8xtGsQIVa9EdxjMJ+o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1533377632286786062</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-966709"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

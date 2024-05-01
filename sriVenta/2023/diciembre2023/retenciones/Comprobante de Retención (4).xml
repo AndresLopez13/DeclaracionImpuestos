@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2012202307179130042400120010040000011270000176918</numeroAutorizacion>
+<fechaAutorizacion>2023-12-20T16:37:11-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><comprobanteRetencion id="comprobante" version="2.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>IDIOMAS SUDAMERICA IDISUD CIA LTDA</razonSocial><nombreComercial>IDIOMAS SUDAMERICA IDISUD CIA LTDA</nombreComercial><ruc>1791300424001</ruc><claveAcceso>2012202307179130042400120010040000011270000176918</claveAcceso><codDoc>07</codDoc><estab>001</estab><ptoEmi>004</ptoEmi><secuencial>000001127</secuencial><dirMatriz>Santa Maria N732 y Reina Victoria</dirMatriz></infoTributaria><infoCompRetencion><fechaEmision>20/12/2023</fechaEmision><dirEstablecimiento>Santa Maria N732 y Reina Victoria</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido><parteRel>SI</parteRel><razonSocialSujetoRetenido>LOPEZ MONTIEL STALIN NARCISO</razonSocialSujetoRetenido><identificacionSujetoRetenido>0914552849001</identificacionSujetoRetenido><periodoFiscal>12/2023</periodoFiscal></infoCompRetencion><docsSustento><docSustento><codSustento>01</codSustento><codDocSustento>01</codDocSustento><numDocSustento>001100000000186</numDocSustento><fechaEmisionDocSustento>20/12/2023</fechaEmisionDocSustento><fechaRegistroContable>20/12/2023</fechaRegistroContable><numAutDocSustento>2012202301091455284900120011000000001868287000819</numAutDocSustento><pagoLocExt>01</pagoLocExt><totalSinImpuestos>80.0000</totalSinImpuestos><importeTotal>80.0000</importeTotal><impuestosDocSustento><impuestoDocSustento><codImpuestoDocSustento>2</codImpuestoDocSustento><codigoPorcentaje>2</codigoPorcentaje><baseImponible>80.0000</baseImponible><tarifa>12</tarifa><valorImpuesto>9.6000</valorImpuesto></impuestoDocSustento></impuestosDocSustento><retenciones><retencion><codigo>1</codigo><codigoRetencion>332</codigoRetencion><baseImponible>80.0000</baseImponible><porcentajeRetener>0.00</porcentajeRetener><valorRetenido>0.0000</valorRetenido></retencion><retencion><codigo>2</codigo><codigoRetencion>7</codigoRetencion><baseImponible>9.6000</baseImponible><porcentajeRetener>0.00</porcentajeRetener><valorRetenido>0.0000</valorRetenido></retencion></retenciones><pagos><pago><formaPago>20</formaPago><total>80.0000</total></pago></pagos></docSustento></docsSustento><infoAdicional><campoAdicional nombre="Email">stalin.lopez@hotmail.com</campoAdicional><campoAdicional nombre="Telefono">09997699575</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature180633">
+<ds:SignedInfo Id="Signature-SignedInfo914504">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID72557" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature180633-SignedProperties698571">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NUYx0p799JKm4etZHMNEd34XQ3w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate60304">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>+O5QZSWAUjlceWvjEvs4sXqL5Z0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-313040" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>v9pGo7u0Wu6QmFYH53phRdovnUY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue275058">
+YAr/UWJrAsoiikwQLnmaDpzi+qdkMLzW7CSb9Xk7xzrf6ipUuvdG0YTzU01+a8sZuoV24F94smBK
+R62+l6SCyQ+Qv7/+//iSCU/YKevuq3be/vmubhkW1Ni5idSS4oCFdn6sHt+xB3f/a7MwSoOrceoP
+UVUN0JxOdjdgAFQQCKXq96TxoppGgoxniVDLD219sbPchZVlC8b9bm8B1h4yVtDWbD8f8EfZ5gVq
+yU5vppGeOlMGH2mc4VCULhiniVMKk6T/OYgnE58V0/gK53DDK0ZDYEMCmRLCiu70+XxIMDWS1bcf
+tb4CbszbhOtZsjj54vCCzAfrz4+t6/ZGAPJFKg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate60304">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMDzCCCfegAwIBAgIEJuwsdDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA1MTExNTM0MjJaFw0yNzA1MTExNTM0MjJaMIGeMScw
+JQYDVQQDDB5HQUxPIE1BUkNFTE8gQVJCT0xFREEgQkFUQUxMQVMxFTATBgNVBAUTDDExMDUyMjEw
+NDQwMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDqGqC9VAyeniRgUugPrvh9jqz5gYuRenKL9vNxAJrLeC4Hl1TeQk1l
+IgJMiONmsPSRShiKQq9BLQDxLsxQiaNtZBQ1PZsZdbIfTQObG0sgbWTelFbvvPQ51BVtUEqawtoJ
+CRttvZlXsAHGzePs3qbjZ285sMY1iKFTy2hcjpqzK1A7TNsgpL5D5rcSFDdq7Eoy7PDta3XEr24e
+k9R7se1jaTq+cjzdk8NR7E/nYjsfm29fuBjDaBvuVvmRWW5dPwdwCQ7UJQOaxn3HmvITkyPlQdru
++FKiLLU7uBkI8rstYHtDBieJQrBulqTR1xT0Ri14cjLhR9kN34PjuAEV+yt7AgMBAAGjggdWMIIH
+UjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTAhBgNVHREEGjAYgRZnYWxvYXJib2xlZGFAZ21haWwuY29tMIIBFQYDVR0gBIIBDDCC
+AQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8A
+IABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKm
+cgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3At
+Y29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMg
+ZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB
+5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0
+YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3Qv
+Y2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFGJrXGA+HEMJRdFOHpDF
+klIguo00MCsGA1UdEAQkMCKADzIwMjIwNTExMTUzNDIyWoEPMjAyNzA1MTExNTM0MjJaMAsGA1Ud
+DwQEAwIF4DAYBgorBgEEAYKmcgMFBAoMCEdFUkVOVEUgMBoGCisGAQQBgqZyAwEEDAwKMTcwNzk5
+NTc5OTAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZyAyIEAwwBLjAzBgorBgEEAYKm
+cgMHBCUMIyBTQU5UQSBNQVJJQSBONy0zMiBZIFJFSU5BIFZJQ1RPUklBMBwGCisGAQQBgqZyAwIE
+DgwMR0FMTyBNQVJDRUxPMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwMzUzODExMBMGCisGAQQB
+gqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAYBgorBgEEAYKmcgMDBAoMCEFS
+Qk9MRURBMDQGCisGAQQBgqZyAwoEJgwkSURJT01BUyBTVURBTUVSSUNBIElESVNVRCBDSUEuIExU
+REEuMB0GCisGAQQBgqZyAwsEDwwNMTc5MTMwMDQyNDAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBgG
+CisGAQQBgqZyAwQECgwIQkFUQUxMQVMwGgYKKwYBBAGCpnIDCAQMDAowOTk0MjM1MjgwMA0GCSqG
+SIb3DQEBCwUAA4ICAQBbYqIvrgb5RKEF6CLxIq+0oyAiseP1eAuP8ZT4b0h4AhKROhlDvrfthuSE
+qf28JV69YQOQwE6vr6wkah2FU7jdWthbfXjiZNwm3IwkO9RHZtvUGtkjSLw/JbXIdHA9EXvBzb9C
+YZss3ESzficut+Kmid9StlLlPkyanWrIT3DJPbkAI+PPiJKXVHSL8wFv1FQDsjLtLZ4+f0vDmOFO
+LJfUtS4wp2DIlhUzVOz3+Zrel0XimZHhXk314d4hY+nuOpPRXAd6cocYKfuDl6pn14u5a2C8LINq
+sstGgNTyayDwfvNqsXKjxKNYd93BOU+EFDDr0OGYm8JhPGSrCwdicQraiRmoldVBBeps7V9+oTgv
+CQNSUMB5L2EvPDdCX1DjjS4g8reVtM5Le8aDS52oK2qM7x4O8u9slNGJHXaVtOpsEPo0wQjRqEgX
+BYRr+U+lqnifmtm0x1S7ePl3AMJGc51NMS238PikHHxt3QVjMvmbkjF8b3N87AOmudZzA7ZBFecY
+TaGFmw9/R5ADSCwC13Likru4YW4JxRzDQOJb2uIlJrf3TzaCOzPQS1FargsdkYWEgR+bz6jCrKVz
+K5niRPKhMFNuAuJtuLPbLHlGj9QvAf/0QWqCxr6jZw7lhfvpvwTr0n1+pISj3izL8HbBBDtO0gZ8
+gXReJf3ZorfrMSlqIA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6hqgvVQMnp4kYFLoD674fY6s+YGLkXpyi/bzcQCay3guB5dU3kJNZSICTIjjZrD0kUoYikKvQS0A
+8S7MUImjbWQUNT2bGXWyH00DmxtLIG1k3pRW77z0OdQVbVBKmsLaCQkbbb2ZV7ABxs3j7N6m42dv
+ObDGNYihU8toXI6asytQO0zbIKS+Q+a3EhQ3auxKMuzw7Wt1xK9uHpPUe7HtY2k6vnI83ZPDUexP
+52I7H5tvX7gYw2gb7lb5kVluXT8HcAkO1CUDmsZ9x5ryE5Mj5UHa7vhSoiy1O7gZCPK7LWB7QwYn
+iUKwbpak0dcU9EYteHIy4UfZDd+D47gBFfsrew==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature180633-Object985449"><etsi:QualifyingProperties Target="#Signature180633"><etsi:SignedProperties Id="Signature180633-SignedProperties698571"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-12-20T16:37:07-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>hCZOm0uQd+WFCLEBBuue4PQi7aE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>653012084</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-313040"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></comprobanteRetencion>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

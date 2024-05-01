@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0509202301019043973900120010500000624581234567811</numeroAutorizacion>
+<fechaAutorizacion>2023-09-05T16:47:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ESTACION DE SERVICIOS QUECHECO CIA. LTDA.</razonSocial>
+        <nombreComercial>ESTACION DE SERVICIO QUECHECO</nombreComercial>
+        <ruc>0190439739001</ruc>
+        <claveAcceso>0509202301019043973900120010500000624581234567811</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>050</ptoEmi>
+        <secuencial>000062458</secuencial>
+        <dirMatriz>VIA CUENCA NARANJAL S/N TAMARINDO</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>05/09/2023</fechaEmision>
+        <dirEstablecimiento>VIA CUENCA NARANJAL S/N TAMARINDO</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>STALIN LOPEZ</razonSocialComprador>
+        <identificacionComprador>0914552849001</identificacionComprador>
+        <direccionComprador>Dir</direccionComprador>
+        <totalSinImpuestos>26.79</totalSinImpuestos>
+        <totalSubsidio>8.64</totalSubsidio>
+        <totalDescuento>0.0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>26.79</baseImponible>
+                <valor>3.21</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.0</propina>
+        <importeTotal>30.0</importeTotal>
+        <moneda>Dolar</moneda>
+        <placa>PCB6634</placa>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>30.0</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>0174</codigoPrincipal>
+            <codigoAuxiliar>1</codigoAuxiliar>
+            <descripcion>Ecopais</descripcion>
+            <cantidad>12.5</cantidad>
+            <precioUnitario>2.14286</precioUnitario>
+            <precioSinSubsidio>2.83426</precioSinSubsidio>
+            <descuento>0.0</descuento>
+            <precioTotalSinImpuesto>26.79</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12</tarifa>
+                    <baseImponible>26.79</baseImponible>
+                    <valor>3.21</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Imprime">Advantech</campoAdicional>
+        <campoAdicional nombre="Direccion">Dir</campoAdicional>
+        <campoAdicional nombre="Email">stalin.lopez@hotmail.cpm</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature984840">
+<ds:SignedInfo Id="Signature-SignedInfo908559">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID741725" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature984840-SignedProperties167004">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PErRdn5yCva0BwxiOdM4XYDB8RU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1878210">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vPRlWnzIji9nI2qrb7TBQ4zmKvE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-170556" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cwPAGHSUqojvC/d1nzzf6HPH1IE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue116915">
+f/nbOJYrj3rwU96W3bLcMt6+4BmPiGZ5aHwKkWbjkguGV7R2McYBge0Bc+gA4gjVKHOtmyeW99lX
+eXdISJB1n+tbGWhfF5xvkeMRhm4czUeAYicfLmbnZdCC7Wdt1uqggvaS3Kl/uOadk133MW2PR4tM
+KxbSt9A7LYRXgmbw3o28xYgEUpmtMPQvvQJp0eUXXwetGsr1DuXQ5X1FuGfikEH1mhdq5Q1IuE5l
+cwBXgARJ/ycQizLMdUMFVAG6npYCMsHnqW7ZMe7B3h+bLOzxB8RWrmQBq3i3etS4PGEtZLNHOVQs
+X1SSDjkSin/nQWmSB1uSZvKO1SYlXOjhPMpcKA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1878210">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKOjCCCCKgAwIBAgIEW3FYHTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIyMTIzMDE0NDAxOVoXDTI0MTIzMDE1MTAx
+OVowgbkxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE9MBEGA1UEBRMKMDAwMDU5ODAzNDAoBgNVBAMTIUFORFJFQSBHRU5PVkVW
+QSBFU0NBTkRPTiBFU0NBTkRPTjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ6XkKlY
+ekUyzvQiXgO1Iti4BrHxE7ptBbNZsjtwlAwatR2VrZhzLYUfkK9i4LcX8oFelMH0EQtU/hty64Sq
+oNxMIFyVqZPuJVJfqZIv67l7hk2BmYkm0sXV1mmyBKr63RDihJGF5P2JxGwlU9LSUP3Wl86jFG9w
+Thep8mRlzNpXf/EY+8Hortkx28UI88Y6AayQNN6RcaIbsT1m4O5uUww8pKjyo+RFmG0H2DoUpFuC
+Et62pjZDoxLv7S0+VxcjmgJZPT2h7tcGdCpiaXNHA4sUrDBRGt5mRQaq3p9ReQTjSwh2ntb2PBLl
+YmPgRTHK/vKn45H6FXrUof08LBimIG0CAwEAAaOCBV4wggVaMAsGA1UdDwQEAwIHgDBnBgNVHSAE
+YDBeMFwGCysGAQQBgqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9w
+b2xpdGljYS1jZXJ0aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQw
+gYEwPgYIKwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJs
+aWN3ZWIvc3RhdHVzL29jc3AwNwYKKwYBBAGCqDsDCgQpEydFU1RBQ0lPTiBERSBTRVJWSUNJT1Mg
+UVVFQ0hFQ08gQ0lBIExUREEwHQYKKwYBBAGCqDsDCwQPEw0wMTkwNDM5NzM5MDAxMBoGCisGAQQB
+gqg7AwEEDBMKMDEwMjMyNDA4NDAfBgorBgEEAYKoOwMCBBETD0FORFJFQSBHRU5PVkVWQTAYBgor
+BgEEAYKoOwMDBAoTCEVTQ0FORE9OMBgGCisGAQQBgqg7AwQEChMIRVNDQU5ET04wHQYKKwYBBAGC
+qDsDBQQPEw1BRE1JTklTVFJBRE9SMFYGCisGAQQBgqg7AwcESBNGVklBIENVRU5DQSBOQVJBTkpB
+TCBTRUNUT1IgVEFNQVJJTkRPIENPT1BFUkFUSVZBIExPUyBVTklET1MgVkVOQ0VSRU1PUzAaBgor
+BgEEAYKoOwMIBAwTCjA5OTgxNzg4MjkwGAYKKwYBBAGCqDsDCQQKEwhOYXJhbmphbDAXBgorBgEE
+AYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCUGA1Ud
+EQQeMByBGmFuZ2llX2VzY2FuZG9uQGhvdG1haWwuY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIB
+zKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTcxNyxjbj1BQyUyMEJB
+TkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBD
+RVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwl
+MjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRw
+Oi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQsw
+CQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMu
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMF
+UVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NS
+TDE3MTcwKwYDVR0QBCQwIoAPMjAyMjEyMzAxNDQwMTlagQ8yMDI0MTIzMDE1MTAxOVowHwYDVR0j
+BBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYEFBBP24r+C1tp7BAjZRz7JjqM458X
+MAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIB
+ACzq1Mm6gjdcnsrDzjtlha7cLapgZzvrWFFTebC2PJuV8s12gtvxykhB8AfRilxj2gzs+KK7Z2Gh
+3hBCzQs9ncePYJd0lgykXlYBwGg1yglDGKRDxFocbG3BIaEueMPatsr1CY8FNsF8GJ/RaMjq54Ub
+Ml/vSBULjwR5bjumxlbcs6nhmib+nFY4nSwicBzaiRfJAKjxBg7wj6BByAXZB8DTlJSulGvS75Vv
+dKsD5BFBw8BwBuOAylYL6ZhPBITdVCe30KK78UFLcrTecoJsKDUO4ZY2dYWoYbc1nofBPEx4Cbtp
+b+DNRz+5ZenIQR9UtWEGFKWnuetOlc3qrsDQDHqCBnd38+m+iPsGaC5ROQDmsjtv8eR11C3W5nYF
+nh99ZAHxv4DgEjJs0rbOjhddyXtV3mpqUGAW90QNzvQdEsWkJ3WHW+peVFSbaqEDo4grZlRG+GyG
+vJ7UTHB5+0I0Lom/R5cvgl30NcX5rem4Vl8c1vvdGrEnEBXWk9YcUejStrznWnb5L69M1dBYjyWT
+d5HVwJYZmYOdIMIRlKzEno3eYnKmR8UMGq4u2K7+q/soi//xDVjC520hpwMjA4d1j8gM0FmFngEj
+rFGbUhMwgq6H1BszuB1CJeREtATRgIJr9EegewX7WLPJ4fqxUICsAScnwwh4FWW0PNZX91Cbk+n2
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+npeQqVh6RTLO9CJeA7Ui2LgGsfETum0Fs1myO3CUDBq1HZWtmHMthR+Qr2LgtxfygV6UwfQRC1T+
+G3LrhKqg3EwgXJWpk+4lUl+pki/ruXuGTYGZiSbSxdXWabIEqvrdEOKEkYXk/YnEbCVT0tJQ/daX
+zqMUb3BOF6nyZGXM2ld/8Rj7weiu2THbxQjzxjoBrJA03pFxohuxPWbg7m5TDDykqPKj5EWYbQfY
+OhSkW4IS3ramNkOjEu/tLT5XFyOaAlk9PaHu1wZ0KmJpc0cDixSsMFEa3mZFBqren1F5BONLCHae
+1vY8EuViY+BFMcr+8qfjkfoVetSh/TwsGKYgbQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature984840-Object735415"><etsi:QualifyingProperties Target="#Signature984840"><etsi:SignedProperties Id="Signature984840-SignedProperties167004"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-09-05T16:39:24-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>gW8/wdKMOFJtfPM4wpMZAA9LRz0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1534154781</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-170556"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

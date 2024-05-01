@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2212202301090662154500120060020001875410018754112</numeroAutorizacion>
+<fechaAutorizacion>2023-12-22T22:00:15-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>KRONFLE KRONFLE JUAN ANTONIO</razonSocial>
+    <nombreComercial>TODO TIPICO</nombreComercial>
+    <ruc>0906621545001</ruc>
+    <claveAcceso>2212202301090662154500120060020001875410018754112</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>006</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000187541</secuencial>
+    <dirMatriz>AV. JOAQUIN ORRANTIA S/N Y AV. JUAN TANCA MARENGO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>22/12/2023</fechaEmision>
+    <dirEstablecimiento>AV. JOAQUIN ORRANTIA S/N Y AV. JUAN TANCA MARENGO</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>STALIN LOPEZ</razonSocialComprador>
+    <identificacionComprador>0914552849</identificacionComprador>
+    <direccionComprador>CONSUMIDOR FINAL</direccionComprador>
+    <totalSinImpuestos>12.49</totalSinImpuestos>
+    <totalSubsidio>0</totalSubsidio>
+    <totalDescuento>0.0000</totalDescuento>
+    <totalComprobantesReembolso>0</totalComprobantesReembolso>
+    <totalBaseImponibleReembolso>0</totalBaseImponibleReembolso>
+    <totalImpuestoReembolso>0</totalImpuestoReembolso>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>12.49</baseImponible>
+        <tarifa>12</tarifa>
+        <valor>1.50</valor>
+        <valorDevolucionIva>0</valorDevolucionIva>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <fleteInternacional>0</fleteInternacional>
+    <seguroInternacional>0</seguroInternacional>
+    <gastosAduaneros>0</gastosAduaneros>
+    <gastosTransporteOtros>0</gastosTransporteOtros>
+    <importeTotal>13.9900</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>13.99</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+    <valorRetIva>0</valorRetIva>
+    <valorRetRenta>0</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>042 - BANDERA</codigoPrincipal>
+      <codigoAuxiliar>1</codigoAuxiliar>
+      <descripcion>BANDERA</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>8.03</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>8.03</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Código" valor="042 - BANDERA"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>8.03</baseImponible>
+          <valor>0.96</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>009 - CALSAL</codigoPrincipal>
+      <codigoAuxiliar>2</codigoAuxiliar>
+      <descripcion>CALDO SALCHICHA</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>4.46</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>4.46</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Código" valor="009 - CALSAL"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>4.46</baseImponible>
+          <valor>0.54</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">STALIN.LOPEZ@HOTMAIL.COM</campoAdicional>
+    <campoAdicional nombre="Info Adicional ">22/12/2023 21:57:39</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature498514">
+<ds:SignedInfo Id="Signature-SignedInfo485546">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID607286" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature498514-SignedProperties198502">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>REUprCZWrOOnzaYkL3rm4XNMpaM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1640302">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>wMRcYIuB8QbysGhxobBTTCQDFHM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-955264" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1icprsgiIzh+ccrKfVv1vNbw+aQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue119342">
+WyTw/Injw/V+IX7uKu7AquKrVXLHvjolSvwu94NpPgeCyNYQm7pc7kYgnXkG8t2HmxAbgVstKYJF
+42jzMdVuS5WMpfXzrZK/eY7Hb0wr+eOuosaYcjZHPixVfZHjeOcLZZl0Sn07fQd6Oevex1BBBV/o
+Rh81USK0+m53x1VisEr4Pwkp2kEBU+bjqV0lTkLWuF87VCPQt1shHPPlrtJ5PEW+F3qyOjRRHRIY
+kGn95P6PJ5BFJ6VkBGZEIgfUK0alVscbAokF03DSDZcSqfEQRcD+rp9Ck+oddQFdCc0PLszJqUrt
+jcDVsMjF7hf2SNebAU7rbAaB9Oa4IjlWQe2UAg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1640302">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL3zCCCcegAwIBAgIEcApL0TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjExMjQxOTE3MzBaFw0yNDExMjMxOTE3MzBaMIGcMSUw
+IwYDVQQDDBxKVUFOIEFOVE9OSU8gS1JPTkZMRSBLUk9ORkxFMRUwEwYDVQQFEwwyNDExMjIxNDI3
+MTAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEArJGBP3c5PkD8fS4qNC5h6igrPL6v/RF+JryxhAK59azjfxgWufst7LdQ
+7Vu76H7PHWGE9yCJz5c0jZiWjoqj+U6rlJ6gizBQKU/IXLtQPmAMg487ZvSWIjNfOMpNay0r/5Gy
+CpCTvMorV3H3D7V9LC9GVWo8YnWHGXfbFWOfRXLLfLOXQHelTjvc+Mw6gAYp/dqZjK1cNh6DwB6q
+QjfapHpdYUNxA+Chaa8vciZT+CRm/K7oGrXgvs+6+rYP3Zbq4+YB0PttdwX0DX6ZDNCbw342KZXP
+DM1S36eHW1PNNIFoVcLU8psuTf2S+QJgBB+fDszXXIFiuX82R7ATBMQ3RQIDAQABo4IHKDCCByQw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwHwYDVR0RBBgwFoEUamtyb25mbGVAaG90bWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYK
+KwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUA
+IABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYB
+BQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9h
+ZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8g
+UGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bn
+dy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCB
+mTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE
+QVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6
+Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9j
+YXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU/Kr8uTEBDTAalvD/TIxYGbtp+C8wKwYDVR0QBCQwIoAP
+MjAyMjExMjQxOTE3MzBagQ8yMDI0MTEyMzE5MTczMFowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZy
+AwEEDAwKMDkwNjYyMTU0NTAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDARBgorBgEEAYKmcgMi
+BAMMAS4wPwYKKwYBBAGCpnIDBwQxDC9BViBKT0FRVUlOIE9SUkFOVElBIFMgTiBZIEFWIEpVQU4g
+VEFOQ0EgTUFSRU5HTzAcBgorBgEEAYKmcgMCBA4MDEpVQU4gQU5UT05JTzAfBgorBgEEAYKmcgMg
+BBEMDzAwMTAwMjAwMDI5NjYzMjARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQ
+RlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHS1JPTkZMRTARBgor
+BgEEAYKmcgMeBAMMAS4wHQYKKwYBBAGCpnIDCwQPDA0wOTA2NjIxNTQ1MDAxMBEGCisGAQQBgqZy
+Ax0EAwwBLjAXBgorBgEEAYKmcgMEBAkMB0tST05GTEUwGgYKKwYBBAGCpnIDCAQMDAowOTgwNzgy
+MzQ1MA0GCSqGSIb3DQEBCwUAA4ICAQCwjSr2+DVUVg3+Qw6+ctPI6m1okNwyxkKf4e5yQttBBkSA
+zRf7gcEvv0BfD0UVs5kK2dbd4E9UIr8k4LjKaK/CWNEUURL8Dve+aWw77KwAm28kE1CzOjymeCWz
+Sg3IUqL6c+hFvlJ2XBPAGyY2QE2dqIUN1qHuR9X5ZKVw2ydc3cGve754sGimyzR09xHG0Ca7CGsP
+NvBYwbSEkZj1sj4+ojndfDwb1CtvGDhkd3Sfri1lXaTr7tpD9kGyu/r5LBpd2zQyVYYPSdWBHIcl
+JlVqdepvgj6bYRKoS4vKh7k6fzw93vRNiTXELh0IHnRS3JDMqiELsZ2RtWaEDDB4J16rU8Xxin/+
+07N6YntALfGXQBseFjtj0UGT/FpyLhG/xX6T7AeGd+XhxFspnHsw+s+hk6EqRDLgHwNY+EqMCjfd
+SWD/trFwrAMR+3glayruUnGffRFJ5NA3mQFVp1Ze4jVmFiU+gqlPCDkyHcHowCoXv1Qd09xkeHUN
+I0dcoudEClzRBPnhkAe3oQFH5j2gX2JSvc+2W8r0YpzZ0xDJIu65gEzmKxS5QHkN33gyvMTUlnbg
+7SOKP8A/BdjEMJti0waCpEJvm2e1u+GmRFgn4R+c2BcSbL7Y3uByoV987zVhY30V98Oa7fGvbSTm
+Cn9G0VaDIxe42HjM8PLadGUVi76WYA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rJGBP3c5PkD8fS4qNC5h6igrPL6v/RF+JryxhAK59azjfxgWufst7LdQ7Vu76H7PHWGE9yCJz5c0
+jZiWjoqj+U6rlJ6gizBQKU/IXLtQPmAMg487ZvSWIjNfOMpNay0r/5GyCpCTvMorV3H3D7V9LC9G
+VWo8YnWHGXfbFWOfRXLLfLOXQHelTjvc+Mw6gAYp/dqZjK1cNh6DwB6qQjfapHpdYUNxA+Chaa8v
+ciZT+CRm/K7oGrXgvs+6+rYP3Zbq4+YB0PttdwX0DX6ZDNCbw342KZXPDM1S36eHW1PNNIFoVcLU
+8psuTf2S+QJgBB+fDszXXIFiuX82R7ATBMQ3RQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature498514-Object459284"><etsi:QualifyingProperties Target="#Signature498514"><etsi:SignedProperties Id="Signature498514-SignedProperties198502"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-12-22T22:00:14-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>3DMXl8e5VHnjqsbIBR47yNIvMb8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1879722961</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-955264"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

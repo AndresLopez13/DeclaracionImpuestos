@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1703202401179200388100120650010000853737551085616</numeroAutorizacion>
+<fechaAutorizacion>2024-03-18T07:24:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>MB MAYFLOWER BUFFALOS S.A.</razonSocial><nombreComercial>MAYFLOWER</nombreComercial><ruc>1792003881001</ruc><claveAcceso>1703202401179200388100120650010000853737551085616</claveAcceso><codDoc>01</codDoc><estab>065</estab><ptoEmi>001</ptoEmi><secuencial>000085373</secuencial><dirMatriz>Leonidas Plaza N24-73 y Mariscal FOCH - QUITO - ECUADOR</dirMatriz></infoTributaria><infoFactura><fechaEmision>17/03/2024</fechaEmision><dirEstablecimiento>Av. 6 de Diciembre S/N y Julio Moreno Megamaxi-- -- --Quito--PICHINCHA--Ecuador</dirEstablecimiento><contribuyenteEspecial>745</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>STALIN LOPEZ</razonSocialComprador><identificacionComprador>0914552849001</identificacionComprador><totalSinImpuestos>3.79</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>3.79</baseImponible><tarifa>12.00</tarifa><valor>0.46</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>4.25</importeTotal><moneda>DOLLAR</moneda><pagos><pago><formaPago>19</formaPago><total>4.25</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>RC97</codigoPrincipal><codigoAuxiliar>RC97</codigoAuxiliar><descripcion>RAPI SALTARIN POLLO + GASEOSA 12 ONZ</descripcion><cantidad>1.00</cantidad><precioUnitario>3.79</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.79</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="detadicional" valor="08"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>3.79</baseImponible><valor>0.46</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>RAA02V</codigoPrincipal><codigoAuxiliar>RAA02V</codigoAuxiliar><descripcion>ARROZ SALTEADO GUARNICION SALT</descripcion><cantidad>1.00</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>BMBB</codigoPrincipal><codigoAuxiliar>BMBB</codigoAuxiliar><descripcion>1.   GASEOSA 12 OZ</descripcion><cantidad>1.00</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="detadicional" valor="S"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>DMM02</codigoPrincipal><codigoAuxiliar>DMM02</codigoAuxiliar><descripcion>MESA_M_02</descripcion><cantidad>1.00</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="NombreComercialTercero">STALIN LOPEZ</campoAdicional><campoAdicional nombre="Descripción1">Relacionado con el pedido: M10_C1/0085827;</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature989115">
+<ds:SignedInfo Id="Signature-SignedInfo849192">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID756654" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature989115-SignedProperties286382">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>e+kyopcbiD4N0WL/hJdQ4fK19+I=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1911688">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rUYRtEBI2qibcVKZlO+scLLmuLo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-224452" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>K3deEFyJQ56vc9AYmiu2bULYagY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue836624">
+j+o37g0ASqsgM2aZVZ9sNptKh9UhDw994JCntILV6PDq/M3TiFtqjoKqbVdaT/VxeBQc9Objj5WO
+gSvzab7dBeAnllKK0b1oKqnzhI8b+op+tnHA1Q8DXfoptnBCCqxLlShqsg+zHcwCs+ZKjW4E10tl
+xE85+oo8bXYxFgdCw0HwZzmTPCQMnpzl095q5W5ea8EzpM1bAosAVPXDph/z8camP9HqTidHcQBU
+Vv0kQOFmuPWIrDCGj2PHRiXdJKwJ7F2HRdzo1OehbXz9II82ONuZV7MOkKatTXlg8D7hZyv58RxC
+PI/8UOaqUzfN7KUwKk0y+tMC30tSNIrw3tIryw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1911688">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKAjCCB+qgAwIBAgIEW2zFQDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIyMDUxNjE2MzgyOVoXDTI0MDUxNjE3MDgy
+OVowgbgxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE8MBEGA1UEBRMKMDAwMDQ1OTgyODAnBgNVBAMTIE1BVVJJQ0lPIEdFUk1B
+TiBBUlJBVEEgTUFMRE9OQURPMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2Dba0SwR
+QNZKyXYNIf5ttpWh9mTP/5r4eBdlylKDNykAy/NeB5v9Osx3/rGGEafpK0qgNN7VkOAw7vJKfUgb
+TdkckwhrFi+VsXw4g/4DE6JZl9k0sduMuP0mXUaZ+zjAl+K8g7XrppLqYHvh0R2RhovzEgk2po/x
+BzhZPTQkQ/nbsUSJODAo5kmOajLtoKH8nhgHxFZETrr0Pjga9per8NxTwJ5IG15TXSILb2lHv3tG
+MlPkgnxVl7RVUdoNsZ4s99mi0Deo2tCsn0yMpO+JqAlL+qvtBdbmDwr/fC3fnKVGA0lFo1MRG4E1
+xAs3Z+MKVedL1ZJMRyFlnOczGGxmDwIDAQABo4IFJzCCBSMwCwYDVR0PBAQDAgeAMGcGA1UdIARg
+MF4wXAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3Bv
+bGl0aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCB
+gTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDAoBgorBgEEAYKoOwMKBBoTGE1CIE1BWUZMT1dFUiBCVUZGQUxPUyBT
+QTAdBgorBgEEAYKoOwMLBA8TDTE3OTIwMDM4ODEwMDEwGgYKKwYBBAGCqDsDAQQMEwoxNzA2NDYy
+OTczMB8GCisGAQQBgqg7AwIEERMPTUFVUklDSU8gR0VSTUFOMBYGCisGAQQBgqg7AwMECBMGQVJS
+QVRBMBkGCisGAQQBgqg7AwQECxMJTUFMRE9OQURPMB8GCisGAQQBgqg7AwUEERMPR0VSRU5URSBH
+RU5FUkFMMDMGCisGAQQBgqg7AwcEJRMjREUgTE9TIEVVQ0FMSVBUT1MgRTQ5IFkgRUxPWSBBTEZB
+Uk8wGQYKKwYBBAGCqDsDCAQLEwkwMjM5NDQ2NDAwFQYKKwYBBAGCqDsDCQQHEwVRdWl0bzAXBgor
+BgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCMG
+A1UdEQQcMBqBGG1hcnJhdGFAbWF5Zmxvd2VyLmNvbS5lYzCCAeEGA1UdHwSCAdgwggHUMIIB0KCC
+AcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDE0NjcsY249QUMlMjBC
+QU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIw
+Q0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0
+cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszEL
+MAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsT
+LkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcT
+BVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdD
+UkwxNDY3MCsGA1UdEAQkMCKADzIwMjIwNTE2MTYzODI5WoEPMjAyNDA1MTYxNzA4MjlaMB8GA1Ud
+IwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBSFe36QQePAB4oF7grTpVFrIzIw
+JzAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4IC
+AQAkrddq56oqn9UnK6mR9hY4J4iNDDX145wOGRnJlWctTLRKPkEObQj0El9R7IVsBPHlVMd7FVDa
+KqOf/df0/4RiPzMstlud1gcT8NarrlmOsoqRgNppcwW4MP6ItImbu5ZWdMljVKwnEy1Im9a0/AF9
+SLiiNYpJWiHEn/8LfT7WClypXscQg/tjUuwWVbw36yebhRkWmdv+/Uy/OphR441Od/aO099iVZrB
+a/WT1qj5v0qohGmtWaXXAFtkUJr6hcKHqB1yjTS7bRb6u8IaK1UObMfGP8DBy+tgmTNLZIusWOpl
++AOVuRYhb9FYs05GFueM+7XX0FwdOwGHUDabQ0xVKtcFPI80S5xXJpC277yMWbZAY5BCnjyXhEz2
+KQ1wyMPyZxakmpzTwzMA6lFAs7h3sUrcD2AJ7lsxDau2nGZw5jsHwylpZj5fWCqtipDI90rFYS1l
+V2PlHfAmWt8tRiiIGHUc2COSYht0hNGR1fwp1Pt1V9YTUHLf9sYQlOe6MlboyFnyauUH54AmM2cL
+CCt663y2dRPQVoe/0Nlv5kU6BuQiSsf356Tuwf+jCgVDmGtY8+226c89QkTjVYPjdy5gTT0jodS3
+ktsEZvGxUsTnfWZRjCsHR8gCjz+JI8rsdjVfi+o2JRBi+rTANfyrfRP69Ygx4c3NOoLdZGPhW6X1
+HQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+2Dba0SwRQNZKyXYNIf5ttpWh9mTP/5r4eBdlylKDNykAy/NeB5v9Osx3/rGGEafpK0qgNN7VkOAw
+7vJKfUgbTdkckwhrFi+VsXw4g/4DE6JZl9k0sduMuP0mXUaZ+zjAl+K8g7XrppLqYHvh0R2Rhovz
+Egk2po/xBzhZPTQkQ/nbsUSJODAo5kmOajLtoKH8nhgHxFZETrr0Pjga9per8NxTwJ5IG15TXSIL
+b2lHv3tGMlPkgnxVl7RVUdoNsZ4s99mi0Deo2tCsn0yMpO+JqAlL+qvtBdbmDwr/fC3fnKVGA0lF
+o1MRG4E1xAs3Z+MKVedL1ZJMRyFlnOczGGxmDw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature989115-Object294544"><etsi:QualifyingProperties Target="#Signature989115"><etsi:SignedProperties Id="Signature989115-SignedProperties286382"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-03-18T04:05:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>OPdMj5+0eaOI9tqO8jg4Km1QOQg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533855040</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-224452"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1904202301179215520700120010030000013360000000115</numeroAutorizacion>
+<fechaAutorizacion>2023-04-19T12:10:48-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>IMAGENCOLOR CIA LTDA</razonSocial>
+        <nombreComercial>IMAGENCOLOR CIA LTDA</nombreComercial>
+        <ruc>1792155207001</ruc>
+        <claveAcceso>1904202301179215520700120010030000013360000000115</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>003</ptoEmi>
+        <secuencial>000001336</secuencial>
+        <dirMatriz>AV AMAZONAS N 35 13 JUAN PABLO SANZ</dirMatriz>
+        
+        </infoTributaria>
+        <infoFactura>
+        <fechaEmision>19/04/2023</fechaEmision>
+        <dirEstablecimiento>AV AMAZONAS N3513 Y JUAN PABLO SANZ</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>LOPEZ MONTIEL STALIN NARCISO</razonSocialComprador>
+        <identificacionComprador>0914552849001</identificacionComprador>
+        <direccionComprador>ARTURO BORJA N2-08 Y MANOSALVAS</direccionComprador>
+        <totalSinImpuestos>116.37</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos> 
+                    <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>116.37</baseImponible>
+                <valor>13.96</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>130.33</importeTotal>
+        <moneda>DOLAR</moneda>
+        
+        <pagos>
+          <pago>    
+          <formaPago>20</formaPago>
+          <total>130.33</total>
+          <plazo>0.00</plazo>
+          <unidadTiempo>DIAS</unidadTiempo>
+          </pago>         </pagos>
+         </infoFactura>
+         <detalles>
+        <detalle>
+            <codigoPrincipal>005R00704</codigoPrincipal>
+            <codigoAuxiliar>005R00704</codigoAuxiliar>
+            <descripcion>DEVELOPER FOR D125</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>116.370000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>116.37</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>116.37</baseImponible>
+                    <valor>13.96</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+    </detalles>    <infoAdicional>
+        <campoAdicional nombre="eMail">stalin.lopez161@gmail.com</campoAdicional>
+        <campoAdicional nombre="Sistema">FenixPRO</campoAdicional>
+        <campoAdicional nombre="Vendedor">YVONNE SYLVA</campoAdicional>
+        <campoAdicional nombre="Telefono">022469411</campoAdicional>
+        <campoAdicional nombre="Correo">info@megadocucentro.com</campoAdicional>
+        <campoAdicional nombre="Plazo">0 DIAS</campoAdicional>
+        <campoAdicional nombre="Forma Pago">USD-130.33</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature227145"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-410422" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>8Qs6C4Aa6qoATc5reNldR81rTHk=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate545160"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>uP6XXJn+YtBOPqw/hzvXiFl1DKc=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID307662" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature227145-SignedProperties122504"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>/ZHowkQ+Te7Yg/CyMRv+zIXB/sM=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue383230">0tAN4Sej+t/RHHAKH63LiPSJjDTE62wvZDNkWs6V375/1xj3IMBZxgp+b3IZddZVSVkKrEAq/Ouodw1Kx1at3yhBmRapS9CkgMGEsgasInM0pwdrEkXCwa/3aGLCwW8to8yM+5+K8jHtOc0AdhKOaYOeYiE7ITnowwvvh82q3iEKt4KsmZkIt2cnMLVk3g+PKQExAIE4EelyVKuma7GXtq8Z1krkYU68EyGmrSQDd0JGZxOHnoWfMHXAzQSJgLr5Ao2BOXqVtn9p7BRQILx1K/WXGdqoBBoW1FGXbrJz1/+tNohtP2i8xsiICjPNp5A7tfw6YoBNR7jtlQ6z1bVUZA==</ds:SignatureValue><ds:KeyInfo Id="Certificate545160"><ds:X509Data><ds:X509Certificate>MIIJ+zCCB+OgAwIBAgIEW2uyqzANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIyMDExMjE1NDAwNloXDTI0MDExMjE2MTAwNlowgbcxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzE7MBEGA1UEBRMKMDAwMDcwMDc3MDAmBgNVBAMTH0dPTlpBTE8gUEFUUklDSU8gQ0FSREVOQVMgQVJJQVMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDYai+ZHsHVdp9oANZ3LH/b7zkxuCuA91g8rn7D05SyXKQpt7MjODANzyRPx/85OQ0A5rwnyIvV3BA+4G9Ag20WCGuJGMLRV1kP9qHGX6cAVOGj8/IN22zdfP9Z5bGpc1zQpx8sSxLrt4H9IVn0HJqCjzMrGKUptEq2BPmj/DoNeVPJfnSGSAntgqPz+7Kufb7oWzJkp174M7UmX/WqIvrtb/dhABTR7Pl+tkGrJcdtqrbei63yXMA4oWqyplVfiV6XptktoIN9ozFMnWrY/T06Ir16Lch+zKr2xfAAWcTbI3pYnaq841y1UB7E5OBe0T6M/cbKGwD712NCX/4dQsDpAgMBAAGjggUhMIIFHTALBgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBcBgsrBgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRpY2EtY2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCQGCisGAQQBgqg7AwoEFhMUSU1BR0VOQ09MT1IgQ0lBIExUREEwHQYKKwYBBAGCqDsDCwQPEw0xNzkyMTU1MjA3MDAxMBoGCisGAQQBgqg7AwEEDBMKMTcxNjUzODU5ODAgBgorBgEEAYKoOwMCBBITEEdPTlpBTE8gUEFUUklDSU8wGAYKKwYBBAGCqDsDAwQKEwhDQVJERU5BUzAVBgorBgEEAYKoOwMEBAcTBUFSSUFTMB8GCisGAQQBgqg7AwUEERMPR0VSRU5URSBHRU5FUkFMMDMGCisGAQQBgqg7AwcEJRMjQVYgQU1BWk9OQVMgTjM1MTMgWSBKVUFOIFBBQkxPIFNBTlowGQYKKwYBBAGCqDsDCAQLEwkwMjI0Njk0MTEwFQYKKwYBBAGCqDsDCQQHEwVRdWl0bzAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCIGA1UdEQQbMBmBF2luZm9AbWVnYWRvY3VjZW50cm8uY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMTQwOSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDE0MDkwKwYDVR0QBCQwIoAPMjAyMjAxMTIxNTQwMDZagQ8yMDI0MDExMjE2MTAwNlowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYEFDVjHUQLMSs2JBvngw+bBi5+7roTMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBAI7lvRB/ipyHVQkBBRC7nHjoaQOZiW+QG82ErMsiJu57slfxu7/pWzq6nJhJj+QF4yGLSQT8cYsr8+tRNv3bO1E9YEN2V5uS1fwcP++F/2Si0N8RHJ36/6L4UsBpiBAsabBTZDRDOlNUWdV2kfJIsexmMd59mvHBToI3qeNjLN83objsuGrH7NqaMpF4puCshPzap441MqxqYDbypC9IRLZeCZTLXsHcgxCGS0v04ooGBITHvzVOXrx/PMAF+7xDItfv20KW0r9E/fnNVfJhDM3kMJxd0IIfEqtuvqVORAhrrKkApUdYAlHyDDeWoDzdIXTjD/N34NYOcTkKzVHrQVTvfQyt2oesq/BJ8bNx+8fcvcjG1Vw4SR7LJFthvXSsY2uyrOSW7svC48+o4npfUk22P2QXmf4tJcE+bozjjqQTwbE1moDYZ78/7v7EG5SiPew+zzDwiWuRTZXEekoa6x3XXFXPot2J9194du7n2W1BJqstBmeKfwxc6kMnighZ2vDof++UgEaBc/LeCrtWuXkMxnrU2w39krZjpA4YaY6VSPPyatwKdOyVWlAWlqDXsz0dmZXem22HHRp5YO9f3Ika4rlXPqFiQMSx0ni3jIujyWbtDRV24GuAP4/gy8XhLu+pMACCpC1bCBKVoOVzNYbNBuRVqiCvY9p8IwFZCVQQ</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>2GovmR7B1XafaADWdyx/2+85MbgrgPdYPK5+w9OUslykKbezIzgwDc8kT8f/OTkNAOa8J8iL1dwQPuBvQINtFghriRjC0VdZD/ahxl+nAFTho/PyDdts3Xz/WeWxqXNc0KcfLEsS67eB/SFZ9Byago8zKxilKbRKtgT5o/w6DXlTyX50hkgJ7YKj8/uyrn2+6FsyZKde+DO1Jl/1qiL67W/3YQAU0ez5frZBqyXHbaq23out8lzAOKFqsqZVX4lel6bZLaCDfaMxTJ1q2P09OiK9ei3Ifsyq9sXwAFnE2yN6WJ2qvONctVAexOTgXtE+jP3GyhsA+9djQl/+HULA6Q==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature227145-Object113874"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature227145"><etsi:SignedProperties Id="Signature227145-SignedProperties122504"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-04-19T12:10:14-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>h7CdNmshDzKM/uJHszpOeGsu3+8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533784747</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-410422"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+
+<mensajes/>
+</autorizacion>
+

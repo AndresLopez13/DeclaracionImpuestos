@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2503202301171316003200120011000001026050010260519</numeroAutorizacion>
+<fechaAutorizacion>2023-03-25T12:29:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>MALLITASIG SINMALEZA MARIA CARLOTA</razonSocial>
+		<nombreComercial>MALLITASIG SINMALEZA MARIA CARLOTA</nombreComercial>
+		<ruc>1713160032001</ruc>
+		<claveAcceso>2503202301171316003200120011000001026050010260519</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>100</ptoEmi>
+		<secuencial>000102605</secuencial>
+		<dirMatriz>AMERICA N35-101 Y MANOSCA</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>25/03/2023</fechaEmision>
+		<dirEstablecimiento>AMERICA N35-101 Y MANOSCA</dirEstablecimiento>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>STALLIN LOPEZ</razonSocialComprador>
+		<identificacionComprador>0914552849001</identificacionComprador>
+		<direccionComprador>ARTURO BORJA N2-08</direccionComprador>
+		<totalSinImpuestos>60.71</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>
+				<baseImponible>60.71</baseImponible>
+				<valor>7.29</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>68.00</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>68.00</total>
+				<plazo>0</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>2P11750</codigoPrincipal>
+			<descripcion>TRANSFER CON RESPALDO 1*50MTS</descripcion>
+			<cantidad>50.00000</cantidad>
+			<precioUnitario>1.21428</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>60.71000</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>60.71</baseImponible>
+					<valor>7.29</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Direccion">ARTURO BORJA N2-08</campoAdicional>
+		<campoAdicional nombre="Email">stallinlopez@hotmail.com</campoAdicional>
+		<campoAdicional nombre="Forma de pago">Otros Con Utilizacion Del Sistema Financiero US$68.00</campoAdicional>
+		<campoAdicional nombre="AGENTE DE RETENCION">RESOLUCION No. NAC-DNCRASC20-00000001</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-64bab67c-a825-468c-a63b-29bd45f20a9d"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-3b02b145-7af8-4f64-89f5-db06f97c0d07" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>wnNRa0lg+CpAepc4M8K7UcrlZcEi4mbzL5CYp2JBm9E=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-64bab67c-a825-468c-a63b-29bd45f20a9d"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>C8fhLf1QbVKTyFDSxSbiLEw2BtZRFfxF9TYW6PqoU7A=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-64bab67c-a825-468c-a63b-29bd45f20a9d"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>7voYcjvJzVTWdyuyemj5pshf3sFa906DfMGPYPqnmig=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-64bab67c-a825-468c-a63b-29bd45f20a9d">So/CZk/9zoGrmyU3u8X27iWL61/1hmw1x3hauIlSQH4vub3+fJkR0Eu8bkE0LbsE4qjreNdtEvbNK78EtZ7pmVXlOuGXillirIO+9OPc+lz1DFXW4YQvUr2MgRO0WOrsHHVboFysqo9juhX9uqZxQlR5sWybFWGsjuHmPZcsT9DOQPNIu4qWDRy/vhYl+u2+LMLMVe6dxGfHIFBTdjDagZkHZNVjDchexE/0EjQLjNSxguPfivF8qQypS+8FzBF2PTYZD/OocKG2H685wZASYMjlkmIqMEiiCZggSJ+POK1viMJ3fbsuWrtJ7TY1PsY9YafgW/ojPeZuDuzyipRijg==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-64bab67c-a825-468c-a63b-29bd45f20a9d"><ds:X509Data><ds:X509Certificate>MIIL1zCCCb+gAwIBAgIEPYs9gzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAzMTQxNTI2NDdaFw0yODAzMTMxNTI2NDdaMIGiMSswKQYDVQQDDCJNQVJJQSBDQVJMT1RBIE1BTExJVEFTSUcgU0lOTUFMRVpBMRUwEwYDVQQFEwwxNDAzMjMxMDM2MjQxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoOhR5TsKPm9Q33Xy3mdZFrhAnl7GTCz6RdcWxm9v0oQyy8hFOxDfT67zjD3FU7ODI3QzjnwUA2AsM5opFEaG6T9/wZW6n/krsgnZwVjvRFhZgTFmdUCJlQI9cyVWEK02oSTJu6aT/LP9s13PB7WDhFQ37wQgwAOI7HrFgzicykSlcG8oGV1XHMDoESDo477iO3Ni34MTa2TVCtSK4nJfmMjsstvOY8i2O5f6DrnMlUlu9JkyZggWMpLyMrcdNJSyPQX6W59E07XpnaX4UXedwBsGhbhyBdc/ysSgx4jCfhHBBXBBM997T4pJw0eRUAsxoJfrE40/BSWoGRioOZZudwIDAQABo4IHGjCCBxYwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwHgYDVR0RBBcwFYETY2FybGFjbXNAaG90bWFpbC5lczCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQT3iGbZLSPof8igK7j9ZTsTj8LATArBgNVHRAEJDAigA8yMDIzMDMxNDE1MjY0N1qBDzIwMjgwMzEzMTUyNjQ3WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxNzEzMTYwMDMyMBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQDDAEuMDAGCisGAQQBgqZyAwcEIgwgQVZFTklEQSBBTUVSSUNBIE4zNTEwMSBZIE1BTk9TQ0EwHQYKKwYBBAGCpnIDAgQPDA1NQVJJQSBDQVJMT1RBMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNTg3NjQ4MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGgYKKwYBBAGCpnIDAwQMDApNQUxMSVRBU0lHMBEGCisGAQQBgqZyAx4EAwwBLjAdBgorBgEEAYKmcgMLBA8MDTE3MTMxNjAwMzIwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBkGCisGAQQBgqZyAwQECwwJU0lOTUFMRVpBMBoGCisGAQQBgqZyAwgEDAwKMDk5ODUyMzc2MTANBgkqhkiG9w0BAQsFAAOCAgEAo9qOKRfe7w2O1SWjfq/bTCBRE6YC747EhKlM9XBado0fYudTjLVmyhJxJzIOm4U3USXbkYSYnc6vzDV/GJ2EKm6MCBIoGRUx7gQm03bJuCJaPK2zv5qRWc7BOonStTAU0kc+jXV+QrILeIzvDxpslNjU1YA+0izI3/zfO/HxzCgFTSTPND1enqX7PUy5rNqmzxB46eu+WLWlGSR3WeEDoDs1MxLsJ+IvqXhGCmM8p1NRQZt02XDR/Ml5HXw5wrh4LOXxyNsWXBAVZZDQUTI0eiHnVwP3HwdqLWnwniX8siJz93jG1IjlkYUc6hSdrOR7QJSZh5bcKFbnfGBYR76w4dz8kKsKeEs04KyCfRcdTWQkP7DKqtJwAenNo1J9X8Y6qHIMFIi5mX1jgPjXtAGWRyFehUjGoNtWjPkPzE+CUo2EXwZaPXjmTGEb8AnKWnAPzh2VXiQ3qsa7VjeTtj1OwdEXYY/MybUt/oOxkG/K5k4GNX0I4We6BCwN3P2I+eOzSgmS0n0b5+VZ4M4JuyU7GoITfKu6wBm0vlHCa9/sryRcPWz8359+i56e2cspg81oJ0S4JHAE9aW6yaqkgsfY1TciFaiuY737tSuvLk9LpUcp40cqo4fnrylNN537i/W6SRv38q/jR2eFsUUgc/cmW2R7QQTbfFiXq52c1UDFRDU=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>oOhR5TsKPm9Q33Xy3mdZFrhAnl7GTCz6RdcWxm9v0oQyy8hFOxDfT67zjD3FU7ODI3QzjnwUA2AsM5opFEaG6T9/wZW6n/krsgnZwVjvRFhZgTFmdUCJlQI9cyVWEK02oSTJu6aT/LP9s13PB7WDhFQ37wQgwAOI7HrFgzicykSlcG8oGV1XHMDoESDo477iO3Ni34MTa2TVCtSK4nJfmMjsstvOY8i2O5f6DrnMlUlu9JkyZggWMpLyMrcdNJSyPQX6W59E07XpnaX4UXedwBsGhbhyBdc/ysSgx4jCfhHBBXBBM997T4pJw0eRUAsxoJfrE40/BSWoGRioOZZudw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-3827959c-04c9-4999-85f0-13906a60cae5"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-4f3483a5-2700-44f1-8bbb-0575b17cc070" Target="#Signature-64bab67c-a825-468c-a63b-29bd45f20a9d"><xades:SignedProperties Id="SignedProperties-Signature-64bab67c-a825-468c-a63b-29bd45f20a9d"><xades:SignedSignatureProperties><xades:SigningTime>2023-03-25T12:29:07-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>t83XBhu4/7nm+sHKbH7sZBPGLEW66yn39FmLrWy9yAQ=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1032535427</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-3b02b145-7af8-4f64-89f5-db06f97c0d07"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>
+
+<mensajes/>
+</autorizacion>
+

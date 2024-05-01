@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3105202301099000573700120270030311839518946660016</numeroAutorizacion>
+<fechaAutorizacion>2023-06-02T17:57:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>BANCO DEL PACIFICO S.A.</razonSocial><nombreComercial>BANCO DEL PACIFICO S.A.</nombreComercial><ruc>0990005737001</ruc><claveAcceso>3105202301099000573700120270030311839518946660016</claveAcceso><codDoc>01</codDoc><estab>027</estab><ptoEmi>003</ptoEmi><secuencial>031183951</secuencial><dirMatriz>FRANCISCO DE PAULA ICAZA #200 Y PICHINCHA</dirMatriz></infoTributaria><infoFactura><fechaEmision>31/05/2023</fechaEmision><dirEstablecimiento>FCO DE PAULA ICAZA 200 Y PEDRO CARBO</dirEstablecimiento><contribuyenteEspecial>06925</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>STALIN LOPEZ MONTIEL</razonSocialComprador><identificacionComprador>0914552849</identificacionComprador><totalSinImpuestos>16.62</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>3.38</baseImponible><valor>0.42</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><baseImponible>13.24</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>17.04</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>17.04</total><plazo>15</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>GAD PICHINCHA KS</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="QUITO"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>KUSHKI PAGO CON TARJETA</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="QUITO"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>TRANS EXPRESSWEB_EC</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="30559208"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>PAYPAL *ALIPAY EUR</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="35314369"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>31</codigoPrincipal><descripcion>N/D COMISION CONSUMO EXT I</descripcion><cantidad>1</cantidad><precioUnitario>1.69</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.69</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="35314369"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>1.69</baseImponible><valor>0.21</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>NETFLIX.COM</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="844-5052"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>TRANS EXPRESSWEB_EC</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="30559208"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>TRANS EXPRESSWEB_EC</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="30559208"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>TRANS EXPRESSWEB_EC</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="30559208"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>TRANS EXPRESSWEB_EC</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="30559208"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>41</codigoPrincipal><descripcion>DIFERIDO SALDO ACTUAL WEB</descripcion><cantidad>1</cantidad><precioUnitario>13.24</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>13.24</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="07/12"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>13.24</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10</codigoPrincipal><descripcion>PAYPAL *ALIPAY EUR</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="35314369"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>6</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>31</codigoPrincipal><descripcion>N/D COMISION CONSUMO EXT I</descripcion><cantidad>1</cantidad><precioUnitario>1.69</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.69</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="CIUDAD" valor="35314369"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>1.69</baseImponible><valor>0.21</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Ciudad">QUITO</campoAdicional><campoAdicional nombre="Cifcod">894666</campoAdicional><campoAdicional nombre="Direccion">CLL ARTURO BORJA N2 08 Y MANOSALVAS CS 2 PS CLR AMARILLO          JUNTO A GUARDERIA GUAGUA</campoAdicional><campoAdicional nombre="Telefono1">2573854</campoAdicional><campoAdicional nombre="Telefono2">0</campoAdicional><campoAdicional nombre="Email">Stalin.Lopez@Hotmail.Com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature94525">
+<ds:SignedInfo Id="Signature-SignedInfo104614">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID808494" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature94525-SignedProperties322672">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>1JMi9RULzHziCKtI3zth2ZC1MB4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1694452">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CgkNckqVyBCL/Ca3Di2RT5Ybo9M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1023692" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>A4iMTJuSLqfJE/8EqzVfXA9Etg8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue487874">
+SSttOK4QWqpidP3Qu42rIh/KKm09k+rvymuH+Iogyg5ouO+eoa1eRuAiOgmkTmusgQkZL8py068F
+8Wdyf+Nrg3vzEXziLsjovKOAUmoSCn3+K2EdNIUSU+ZbsXNzxQfqja1Gzu94n8GiQJi4lKXjqiOn
+kly8yhY+K2mYuSxxcIl2D4FaEHYVzAML+rH90P9Lfaso8OzfG+GEOoFmH7mkOMhM3OdIwqSECdOZ
+et5QIhy0R7vUrvp63DMX0fZMT61VAkDk6noaRtiOO3SsorO3gtPigmTrTmLAW/bZb+E+sU76gWIu
+L//opM712VGBsw3UDDeWw6wZ5P8SU2sYoSCc+Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1694452">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ6jCCB9KgAwIBAgIEW2wUqjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIyMDIxODE1MjcxNVoXDTI0MDIxODE1NTcx
+NVowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDI2NTIyMjAkBgNVBAMTHVdBTFRFUiBGRVJOQU5E
+TyBCQU5DSE9OIE1VTk9aMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyqqlNDs5GDYr
+aDlMdGj9kO4XWlU5mXlKbEs5SCJryra7JpKeNeDg8Np6FRivSLvXeMtlccp/h5hIf1FXMJ9i3Ftk
+shIjbY4Jr6cnfgFhVRbv7Ln6I/8DC6Ze3HW6s6WlCka158UCEPlaG03qR20bJLHKBCDT/wwRsxxU
+RsFt04NEk2r2U+sViIEx/m17hhyQFf5pJPclX0ELjYWYY9V0lhCSaeE7lyXOdjIj8LrcKNMAk6vv
+hOKMwLgVDFVgAJDoyTBVVIuW+gfxZV1HmFe5IkjPOhvUNOdZFHN8mbcNs+NicnZ0kmpO7ghp91jq
+cntRA5oHSZah2fr+HjHzzcU3/wIDAQABo4IFEjCCBQ4wCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4w
+XAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDAlBgorBgEEAYKoOwMKBBcTFUJBTkNPIERFTCBQQUNJRklDTyBTQTAdBgor
+BgEEAYKoOwMLBA8TDTA5OTAwMDU3MzcwMDEwGgYKKwYBBAGCqDsDAQQMEwowOTA3ODg3NTc0MB8G
+CisGAQQBgqg7AwIEERMPV0FMVEVSIEZFUk5BTkRPMBcGCisGAQQBgqg7AwMECRMHQkFOQ0hPTjAV
+BgorBgEEAYKoOwMEBAcTBU1VTk9aMBgGCisGAQQBgqg7AwUEChMIQ09OVEFET1IwJwYKKwYBBAGC
+qDsDBwQZExdQIElDQVpBIDIwMCBZIFBJQ0hJTkNIQTAZBgorBgEEAYKoOwMIBAsTCTA0MzczMTUw
+MDAZBgorBgEEAYKoOwMJBAsTCUd1YXlhcXVpbDAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYK
+KwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCMGA1UdEQQcMBqBGHdiYW5jaG9uQHBhY2lm
+aWNvLmZpbi5lYzCCAeEGA1UdHwSCAdgwggHUMIIB0KCCAcygggHIhoHWbGRhcDovL2JjZXFsZGFw
+c3VicDEuYmNlLmVjL2NuPUNSTDE0MzEsY249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBF
+Q1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5G
+T1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2Nl
+cnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9l
+Y2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJB
+TkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5D
+TyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdDUkwxNDMxMCsGA1UdEAQkMCKADzIwMjIw
+MjE4MTUyNzE1WoEPMjAyNDAyMTgxNTU3MTVaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJ
+wZSrMB0GA1UdDgQWBBRxizVn7WNy7MbNqOQvt8MV8DR7mjAJBgNVHRMEAjAAMBkGCSqGSIb2fQdB
+AAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQCILYQ7Yf4vV1CT1eChUsD56dehcB5h
+YrzQBA8zzbo+JqGcvhJ0HdkYwJS4cAYdeb3FR289qegDvEJ296yrNGr/+S9D3HbiIJCIjnfFS+co
+WxoZShjej1Z+p1dTZwc4cbweRcLvoR1lhInPaN1IG99go9kIsVaBZEfsDfvq9uW05AoYrFm7CHuP
+TnCJ6RljBJGHoRXjfnACOAJu+Pwa/rFd6TBA5HEVIXo5x7yRZzN6P5sIUrrHDPU43RvHfJAY1+07
+k9DtZ3scPQV50bCHlZvDmbW+K8W9/kLS0m4jFmzdSOaaTuk11OmVeTWN0HoSfKxmqfnSkLwaMb00
+C1OQoDKsctA2v850eaLbU7qdmIJmSJeAncHgEEf1QhoVwwbVkggL9GfEELniI+9CwYRnhNnNgk8n
+58ZGb9iQ64af/JrtX0jQOqQrjZG28Q078iSZn2eIA+2efTnPxoE6zZiAC8IvCm38N01YndIxEokp
+8IR+IC/1tGg8Hu3T5DKsOCDoqHRORLjcYiB+/eZfhSZejQVWsdUU/MlG5w2+tVPcg7/56sYfleAP
+8ax7y2oc1J+D0u19RMfeuVcGOpUido7/TXbKBmsDELqaE+7vgQB/5MUjIg+JrusjgNo1T6yssBVS
+lWe0lBBc3h6A+CypcT/RODrolzGJJy2EGdM/VB+p+GMjvQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yqqlNDs5GDYraDlMdGj9kO4XWlU5mXlKbEs5SCJryra7JpKeNeDg8Np6FRivSLvXeMtlccp/h5hI
+f1FXMJ9i3FtkshIjbY4Jr6cnfgFhVRbv7Ln6I/8DC6Ze3HW6s6WlCka158UCEPlaG03qR20bJLHK
+BCDT/wwRsxxURsFt04NEk2r2U+sViIEx/m17hhyQFf5pJPclX0ELjYWYY9V0lhCSaeE7lyXOdjIj
+8LrcKNMAk6vvhOKMwLgVDFVgAJDoyTBVVIuW+gfxZV1HmFe5IkjPOhvUNOdZFHN8mbcNs+NicnZ0
+kmpO7ghp91jqcntRA5oHSZah2fr+HjHzzcU3/w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature94525-Object560390"><etsi:QualifyingProperties Target="#Signature94525"><etsi:SignedProperties Id="Signature94525-SignedProperties322672"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-06-02T15:49:02-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ONaDoh2xEdpsjZIir1AkZcfQ3N8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533809834</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1023692"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

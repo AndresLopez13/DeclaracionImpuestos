@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0807202301179002779100120111810000091050000910510</numeroAutorizacion>
+<fechaAutorizacion>2023-07-08T18:13:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Manufacturas Americanas Cía. Ltda.</razonSocial><nombreComercial>Manufacturas Americanas Cía. Ltda.</nombreComercial><ruc>1790027791001</ruc><claveAcceso>0807202301179002779100120111810000091050000910510</claveAcceso><codDoc>01</codDoc><estab>011</estab><ptoEmi>181</ptoEmi><secuencial>000009105</secuencial><dirMatriz>Calle Los Ciruelos Oe1-127 N67 entre Av. La Real Audiencia y Panamericana Norte. Km 5 1/2</dirMatriz></infoTributaria><infoFactura><fechaEmision>08/07/2023</fechaEmision><dirEstablecimiento>AV. MALDONADO Y LAURO GUERRERO, CIUDAD COMERCIAL EL RECREO, LOCAL Q110</dirEstablecimiento><contribuyenteEspecial>281</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>STALIN LOPEZ</razonSocialComprador><identificacionComprador>0914552849</identificacionComprador><totalSinImpuestos>324.06</totalSinImpuestos><totalDescuento>78.57</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>324.06</baseImponible><valor>38.89</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>362.95</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>362.950000</total><plazo>0</plazo><unidadTiempo>Días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>CI15.00949-5B-145</codigoPrincipal><codigoAuxiliar>1000000861792</codigoAuxiliar><descripcion>CAMISA PICAL SLIM LILA 145</descripcion><cantidad>1.00</cantidad><precioUnitario>26.7768</precioUnitario><descuento>5.36</descuento><precioTotalSinImpuesto>21.42</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>21.42</baseImponible><valor>2.57</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CI63.00001-7J</codigoPrincipal><codigoAuxiliar>7861145652690</codigoAuxiliar><descripcion>PORTATERNOS -PICAL</descripcion><cantidad>5.00</cantidad><precioUnitario>0.0000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CL30.00001-8C-M</codigoPrincipal><codigoAuxiliar>1000000449532</codigoAuxiliar><descripcion>FUNDAS DE PAPEL PICAL MEDIANAS.</descripcion><cantidad>1.00</cantidad><precioUnitario>0.0000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CS66.00031</codigoPrincipal><codigoAuxiliar>1000001311937</codigoAuxiliar><descripcion>PANT - ENTALLAR PIERNA</descripcion><cantidad>1.00</cantidad><precioUnitario>7.1429</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.14</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>7.14</baseImponible><valor>0.86</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CI15.00957-7J-150</codigoPrincipal><codigoAuxiliar>1000000862522</codigoAuxiliar><descripcion>CAMISA PICAL SLIM NEGRO 150</descripcion><cantidad>1.00</cantidad><precioUnitario>26.7768</precioUnitario><descuento>5.36</descuento><precioTotalSinImpuesto>21.42</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>21.42</baseImponible><valor>2.57</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CL30.00001-8C-G</codigoPrincipal><codigoAuxiliar>1000000449525</codigoAuxiliar><descripcion>FUNDAS DE PAPEL PICAL GRANDES</descripcion><cantidad>1.00</cantidad><precioUnitario>0.0000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CS66.00033</codigoPrincipal><codigoAuxiliar>1000001309316</codigoAuxiliar><descripcion>PANT - ENTALLAR CINTURA</descripcion><cantidad>1.00</cantidad><precioUnitario>2.6786</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.68</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>2.68</baseImponible><valor>0.32</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CI69.00859-7H-35</codigoPrincipal><codigoAuxiliar>1000001400907</codigoAuxiliar><descripcion>TERNO HOMBRE PICAL SLIM FIT GRIS OSCURO 35</descripcion><cantidad>1.00</cantidad><precioUnitario>142.8482</precioUnitario><descuento>28.57</descuento><precioTotalSinImpuesto>114.28</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>114.28</baseImponible><valor>13.71</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CP.FLYER.001</codigoPrincipal><codigoAuxiliar>1000000107173</codigoAuxiliar><descripcion>FLYER PICAL</descripcion><cantidad>1.00</cantidad><precioUnitario>0.0000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CP.FLYER.001</codigoPrincipal><codigoAuxiliar>1000000107173</codigoAuxiliar><descripcion>FLYER PICAL</descripcion><cantidad>1.00</cantidad><precioUnitario>0.0000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CI69.00894-7D-36</codigoPrincipal><codigoAuxiliar>1000001405551</codigoAuxiliar><descripcion>TERNO HOMBRE PICAL SLIM FIT GRIS CLARO 36</descripcion><cantidad>1.00</cantidad><precioUnitario>160.7054</precioUnitario><descuento>32.14</descuento><precioTotalSinImpuesto>128.57</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>128.57</baseImponible><valor>15.43</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CI28.02035-0I-70</codigoPrincipal><codigoAuxiliar>1000001407531</codigoAuxiliar><descripcion>CORBATA PICAL  VINO 7CM</descripcion><cantidad>1.00</cantidad><precioUnitario>17.8482</precioUnitario><descuento>3.57</descuento><precioTotalSinImpuesto>14.28</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>14.28</baseImponible><valor>1.71</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CI28.01998-0I-80</codigoPrincipal><codigoAuxiliar>1000001406787</codigoAuxiliar><descripcion>CORBATA PICAL AZUL MARINO 8CM</descripcion><cantidad>1.00</cantidad><precioUnitario>17.8482</precioUnitario><descuento>3.57</descuento><precioTotalSinImpuesto>14.28</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>14.28</baseImponible><valor>1.71</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email">stalin.lopez@hotmail.com</campoAdicional><campoAdicional nombre="Telefono">2573854</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature318802">
+<ds:SignedInfo Id="Signature-SignedInfo765689">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID219027" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature318802-SignedProperties1020841">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NmSGzYVVP77G3tj2bo5cqF/i5ng=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1305338">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Lr7jL6+gb48/y1aEYtW7R1mTt2Q=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-151003" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>kM2y394+/aWA+y9sYd2sty0GII0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue764216">
+hmavOV0hNIHRbjhOOQrgj1sV5P+lT9bOhbs5HQLl9MQ+n5ebhGtV/8eEByuojSgeESW8XCVE59ov
+RBPxAkBT+lI9eppH5bDwk8T1EgCyMS+WL2eOiPexeEaFmtrBtMFm4AxvyMzyw3PjOiF/sLlbeD9B
+5l1fGBXi9dgKY9CtWss7zIkUNSznHEGTJMOFvlBBI3eUT1kgQIX8hZSrxvaYfMfFc7JxTXYEp9Oj
+EuXRrZPWsWgMwOizFv5kqfJwxUCews1KnhtE2+IdOC3xFqM5cYmlJ+wxU3WOx99Xr0jprcnSf74W
+SdIek2hpRgP1MFVeCwA/UYvsyGoi/g5+lmghnQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1305338">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMIDCCCgigAwIBAgIEEiGhCjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA1MzEyMjU4MzlaFw0yODA1MzAyMjU4MzlaMIGgMSkw
+JwYDVQQDDCBEQU5JRUwgRURVQVJETyBFSFJFTkZFTEQgU0NIT0xFTTEVMBMGA1UEBRMMMzEwNTIz
+MTgwODExMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKRxNGbctQMYSyvsgv/GuU65s/OyezjFBJ0UHXjyOYxTUYDrHUIE
+0oFnlJHqoQnQHxtfafJmiwm5qi+yNrhNKrvq6XwBdqXzyiulyGmCXLke/4tqkxQzRJMW5KL75l1F
+vpuphA1GJwMNIrQvveaqynXuPdjkjtYlbr4q2OYC6Yt6JnAXebu0FqGS4lYtcZFJs/yaUchGffRV
+OepHGN+CSmRBW5B5Pw2C5lZGVnGsaLJN4+UAYujXOa6h5gXs+NxMgEqu9DyUPUm6WcM1E6oijzUb
+gra2cSakVO1vAAWTDBe8/h6B0P3thBgecS+j4HzdU/oC8AbhBu1DdR9yM44yimsCAwEAAaOCB2Uw
+ggdhMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMB0GA1UdEQQWMBSBEmRhbmllbEBtYW5hbWVyLmNvbTCCARUGA1UdIASCAQwwggEI
+MGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAA
+ZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnIC
+AzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNv
+bnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRl
+IENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWg
+QaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9S
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERF
+IENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVD
+P2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFs
+LW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2Nl
+cnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQsFoito6/k4KuRXj8uSpX7
+czavuDArBgNVHRAEJDAigA8yMDIzMDUzMTIyNTgzOVqBDzIwMjgwNTMwMjI1ODM5WjALBgNVHQ8E
+BAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAox
+NzA4NTk3MjcxMBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQDDAEuMEEGCisG
+AQQBgqZyAwcEMwwxTjY3IERFIExPUyBDSVJVRUxPUyBPRTEgMTI3IFkgQVYgR0FMTyBQTEFaQSBM
+QVNTTzAeBgorBgEEAYKmcgMCBBAMDkRBTklFTCBFRFVBUkRPMB8GCisGAQQBgqZyAyAEEQwPMDAy
+MDAxMDAwNjMxMjQzMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURP
+UjAZBgorBgEEAYKmcgMDBAsMCUVIUkVORkVMRDAwBgorBgEEAYKmcgMKBCIMIE1BTlVGQUNUVVJB
+UyBBTUVSSUNBTkFTIENJQSBMVERBMB0GCisGAQQBgqZyAwsEDwwNMTc5MDAyNzc5MTAwMTASBgor
+BgEEAYKmcgMdBAQMAk5vMBcGCisGAQQBgqZyAwQECQwHU0NIT0xFTTAaBgorBgEEAYKmcgMIBAwM
+CjA5OTk2NjQxNDEwDQYJKoZIhvcNAQELBQADggIBAL1/QcsLM/0m1QocTuxQFbOxmvY3EvWC1nw8
+ZGQmSEfvHeqbQmJVUBn4Iwj5ZAToVcw4r/s+mpJ7aCk0JxZjh8BaRjf4PG/6GB6D6N5gtkQXHj6i
+Z4Hs/4RPBI5zsyA2lmTcYo7syrlyRJov7G2vdrBjE/8nMwBH3ugxn4rPEhjpJZyeOggN7N9Zrmbm
+NKViUQ0h5pcWIoKNcafb3ZLte023+YtOsnX6ZeYPQjdLa27s0urY/aJRc1oh8PtNPYoIuNfXlpCI
+E3EqMyfGC4mCjYc7sXIp3Cw99jsEZ8uWfgYK8y8LxPsq06TuRJiNfYBwxlqA42jPLdXkByds3gOy
+Vwq3fgO7W7XpCQR9Vj13Mo0NIS9ipRKmSNIytW4+SNs7OVXMTyW+E59bqA+BQddZgMsKspqpdMN4
+J0VyomgdY40rXXSFOzvB+giAIW8n7w6xAFk4Rg/0ps4tFZuc9IPpK+C3J2ns8sYHLClTWFaOSgcl
+CNczbNYzBDEIGlOEwG64sdfD/yiucj52NDraIla9z2v2VxUdQlUtNQbXsq5+EWnwFytX28XJ+6oS
+/w7y/3navc4CLK6VJBSWgW5Z3aDDw8GvsYW2tbeAMmkPAcy31uv5Lnz9U32XnegvZUJRZSVBWZ6X
+NmdrrZ//EpEyZlpFBzpPUa2DDkTr6vo0YJlFEaqm
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pHE0Zty1AxhLK+yC/8a5Trmz87J7OMUEnRQdePI5jFNRgOsdQgTSgWeUkeqhCdAfG19p8maLCbmq
+L7I2uE0qu+rpfAF2pfPKK6XIaYJcuR7/i2qTFDNEkxbkovvmXUW+m6mEDUYnAw0itC+95qrKde49
+2OSO1iVuvirY5gLpi3omcBd5u7QWoZLiVi1xkUmz/JpRyEZ99FU56kcY34JKZEFbkHk/DYLmVkZW
+caxosk3j5QBi6Nc5rqHmBez43EyASq70PJQ9SbpZwzUTqiKPNRuCtrZxJqRU7W8ABZMMF7z+HoHQ
+/e2EGB5xL6PgfN1T+gLwBuEG7UN1H3IzjjKKaw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature318802-Object34195"><etsi:QualifyingProperties Target="#Signature318802"><etsi:SignedProperties Id="Signature318802-SignedProperties1020841"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-08T18:13:39-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>JRBWDjWkX9Y+QC0G+Lz2W90Q118=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>304193802</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-151003"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

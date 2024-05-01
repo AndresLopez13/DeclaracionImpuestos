@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2410202301179234626600120051020002946450029464512</numeroAutorizacion>
+<fechaAutorizacion>2023-10-24T21:07:13-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>COMERCIALIZADORA BAGUETTE SCP</razonSocial>
+<nombreComercial>BAGUETTE</nombreComercial>
+<ruc>1792346266001</ruc>
+<claveAcceso>2410202301179234626600120051020002946450029464512</claveAcceso>
+<codDoc>01</codDoc>
+<estab>005</estab>
+<ptoEmi>102</ptoEmi>
+<secuencial>000294645</secuencial>
+<dirMatriz>AV. ELOY ALFARO N72-86 Y CHEDIAK</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>24/10/2023</fechaEmision>
+<dirEstablecimiento>AV AMAZONAS</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>STALIN LOPEZ</razonSocialComprador>
+<identificacionComprador>0914552849</identificacionComprador>
+<direccionComprador>ARTURO BORJAN2-08</direccionComprador>
+<totalSinImpuestos>23.05</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>23.05</baseImponible>
+<valor>0</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>23.05</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>19</formaPago>
+<total>23.05</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>5330000064</codigoPrincipal>
+<descripcion>OP EMPAQUE PAPEL FUNDA X 12  UND </descripcion>
+<cantidad>4</cantidad>
+<precioUnitario>   0.00000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5613000042</codigoPrincipal>
+<descripcion>PAN GUAGUAS DE SAL FRUTILLA 150 G</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>   2.75000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>5.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>5.5</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5613000043</codigoPrincipal>
+<descripcion>PAN GUAGUAS DE SAL GUAYABA 150 G</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   2.75000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2.75</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>2.75</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5613000046</codigoPrincipal>
+<descripcion>INTEGRAL DE DULCE 70 G</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>   0.35000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.7</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>0.7</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5613000069</codigoPrincipal>
+<descripcion>PAN TRENZA DULCE RELLENA 440 G</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>   3.30000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>6.6</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>6.6</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5613000114</codigoPrincipal>
+<descripcion>CROISSANT VAINILLA Y  CHOCOLATE 90 G</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   1.50000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>1.5</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>5613000119</codigoPrincipal>
+<descripcion>PAN GUAGUA DE QUESO 100 G</descripcion>
+<cantidad>4</cantidad>
+<precioUnitario>   1.50000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>6</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>6</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">ARTURO BORJAN2-08</campoAdicional>
+<campoAdicional nombre="EmaiL">stalin.lopez@hotmail.com</campoAdicional>
+<campoAdicional nombre="NumDocumento">FR0295359A-0304-F</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature891550">
+<ds:SignedInfo Id="Signature-SignedInfo386008">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID66833" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature891550-SignedProperties317395">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nfUHNcGXRAmnJXxcYTqpmT/mI48=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1266547">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rrKqhrRKKV7blrWfDiSogPK5RSw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-359477" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>l6xkwDXeKUSmiZonrQmEg0g8p2c=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue509606">
+upBGLmwChGgcgxmRymYaswS7jJCH96mT3rZ04dZXethaRHVA9YnqNEcNToX43/gUE5ETh8hRPNvL
+NV5CyDA/M54xpqNxkxw8Ziz21Rgqy1uGVRa7fd3KztQ6gY2idbJ7q3Z+V6LWkwB0EaJCxudJewXh
+gASds/54zNrsfBcdpdh3uEaFJF0+/+K+PLn8fOTDoXCN65G50T6D68sEhl9L2HNaRh5ABoTRBZvr
+tJrDECEisOY2re99B6TjjAiDsU43Ko1tVby4CYc81akW4m0eYYUrV/9SKZcwYv/HkeyeX9dwEHGs
+m77Y7/+8TBE5pZ7J/UElEdILNtDVuffcVyejMg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1266547">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMETCCCfmgAwIBAgIEdP0lgjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEyMzAyMDUzNDhaFw0yNDEyMjkyMDUzNDhaMIGeMScw
+JQYDVQQDDB5FU1RFQkFOIE1BUklBTk8gTklDSE9MTFMgUlVTU08xFTATBgNVBAUTDDMwMTIyMjE2
+MDMyODEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDMyLvbTV8tM6l8IDAlwAmE4U9Xkox60MeVErBujPzcgYrTPUMnLVk4
+mieSH18+Zr7eZqxvXaIOsNyLvwv1eOS9JI0v7tbsI7B9GXDi2zwSBCEljZ1yWHqBbBPcwgD3mouS
+hfXL31lvZxwzg0O6KykvzQAQCXA7LRGUmbNRA7QbTPxeaCi7Mc15YkkODu87pjPbs/0xrqUiQSzI
+ZJJiPnYmlprJdFCv/qz2s6GA+dKpJZXfY5Gqxarz/3yAyqqftkhepTUe157k5QPeG5DK4mQshdoQ
+w5dqJ70USH9MPnsnt4xggR+pLu/6awt9GkEUFvxR8GiSXz+SxBy5Ycd8BHcpAgMBAAGjggdYMIIH
+VDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTAkBgNVHREEHTAbgRllbmljaG9sbHNAYmFndWV0dGUuY29tLmVjMIIBFQYDVR0gBIIB
+DDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEE
+AYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIC
+lTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3
+ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UE
+BhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9w
+b3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRp
+c3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFPFDDfKfqauzfRP1
+YWw5Yfnsr2RGMCsGA1UdEAQkMCKADzIwMjIxMjMwMjA1MzQ4WoEPMjAyNDEyMjkyMDUzNDhaMAsG
+A1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMB
+BAwMCjE3MDMwMDg5MTAwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4w
+MAYKKwYBBAGCpnIDBwQiDCBBVi4gRUxPWSBBTEZBUk8gTjcyLTY2IFkgQ0hFRElBSzAfBgorBgEE
+AYKmcgMCBBEMD0VTVEVCQU4gTUFSSUFOTzAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDUzNDg2
+NTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYKKwYBBAGC
+pnIDAwQKDAhOSUNIT0xMUzAvBgorBgEEAYKmcgMKBCEMH0NPTUVSQ0lBTElaQURPUkEgQkFHVUVU
+VEUgUyBDIFAwHQYKKwYBBAGCpnIDCwQPDA0xNzkyMzQ2MjY2MDAxMBIGCisGAQQBgqZyAx0EBAwC
+Tm8wFQYKKwYBBAGCpnIDBAQHDAVSVVNTTzAaBgorBgEEAYKmcgMIBAwMCjA5NjMwOTQ5MjAwDQYJ
+KoZIhvcNAQELBQADggIBAATK9bSFvOrkH5H0FHqQr0SnEFU/1GbCb5D+CWL8BDMTkh0q7ho7MyH4
+Bl2Er2v5m5+Bv9Jtz0zSY8eHxGyltSVT/nr1YS2dmESv3uB6fsuaoufvk/koVvN6KHmWj4YsRFv4
+Wz1TrrPKLJwSyKRzpDoUjngvXcU5kNePYuWnTkaMsFj/K9+hTG83RizVefPnh5meoSzBKmEaeBs0
+rP4+IhIWBFT2a9jdRqZdB91GdttA9tzZqiL3n1X245JovU+4n35xPeEHscENe9Z1q5x6177FJPsM
+Rklm4D/OG0wmz4t5XBXA0G+Fq6hwEC0yUqfWEfyrmZAHJodapaQUX+mxqsy/VktdBkEanbOLg1kn
+FWY43q22iZgMSDuy6FhrfGv0EOKQX47DhUJYEpzSV0AUyAlzcDcN4vY+/FRrfE7F4fxokoN4NGo7
+rZeciveoQqwQqMuTyYoIW6xJSRAjMYtpx7Va9OZfzk2lbRAL0If6S6W8wclbf4HjD/kfg0f+S6Co
+4D0o36EQPq7WTjTh+b6b257zKZgXtPWR1efjHx0wAdiJZ+wmFeuJgUt//gVxvYGWr1M+VnpjluGb
+sttirp43bIs5Ra9mYZKFCMk3mKkoCnc0zeZhXvYWYgl4qQEYbpGPmZPtmZPrnyh04lPjmhP+XKU2
+54pmM76GZNlXKvPOlaTF
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zMi7201fLTOpfCAwJcAJhOFPV5KMetDHlRKwboz83IGK0z1DJy1ZOJonkh9fPma+3masb12iDrDc
+i78L9XjkvSSNL+7W7COwfRlw4ts8EgQhJY2dclh6gWwT3MIA95qLkoX1y99Zb2ccM4NDuispL80A
+EAlwOy0RlJmzUQO0G0z8XmgouzHNeWJJDg7vO6Yz27P9Ma6lIkEsyGSSYj52JpaayXRQr/6s9rOh
+gPnSqSWV32ORqsWq8/98gMqqn7ZIXqU1Htee5OUD3huQyuJkLIXaEMOXaie9FEh/TD57J7eMYIEf
+qS7v+msLfRpBFBb8UfBokl8/ksQcuWHHfAR3KQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature891550-Object671667"><etsi:QualifyingProperties Target="#Signature891550"><etsi:SignedProperties Id="Signature891550-SignedProperties317395"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-10-24T21:07:14-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>k1bgANuQA9uTcXuehZ5JQwYUpzI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1962747266</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-359477"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

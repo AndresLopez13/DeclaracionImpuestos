@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1402202401179272366300120011000001595020015950213</numeroAutorizacion>
+<fechaAutorizacion>2024-02-14T17:47:56-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>LIMDUL CIA. LTDA.</razonSocial>
+    <nombreComercial>FRUTERIA MONSERRATE LIMDUL</nombreComercial>
+    <ruc>1792723663001</ruc>
+    <claveAcceso>1402202401179272366300120011000001595020015950213</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000159502</secuencial>
+    <dirMatriz>La Alameda calle Sodiro N 14-20 Luis SAA Daniel Cadena Diagonal Maternidad Isidro Ayora</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>14/02/2024</fechaEmision>
+    <dirEstablecimiento>Sodiro N14-20 y Luis Saa</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>stalin lopez</razonSocialComprador>
+    <identificacionComprador>0914552849</identificacionComprador>
+    <totalSinImpuestos>18.32</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>18.32</baseImponible>
+        <tarifa>12.000000</tarifa>
+        <valor>2.20</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>20.52</importeTotal>
+    <moneda>USD</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>20.5</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>301004</codigoPrincipal>
+      <descripcion>EMPANADA MOROCHO CARNE</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.01</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.01</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MAJOR GROUP" valor="11"></detAdicional>
+        <detAdicional nombre="FAMILY GROUP" valor="20002"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.01</baseImponible>
+          <valor>0.24</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>301002</codigoPrincipal>
+      <descripcion>EMPANADA DE VERDE CON QUESO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.01</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.01</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MAJOR GROUP" valor="11"></detAdicional>
+        <detAdicional nombre="FAMILY GROUP" valor="20002"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.01</baseImponible>
+          <valor>0.24</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>400007</codigoPrincipal>
+      <descripcion>CHOCOLATE CALIENTE</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.23</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.23</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MAJOR GROUP" valor="20"></detAdicional>
+        <detAdicional nombre="FAMILY GROUP" valor="40002"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.23</baseImponible>
+          <valor>0.27</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>201001</codigoPrincipal>
+      <descripcion>ENSALADA DE FRUTAS COMPETA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>3.53</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3.53</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MAJOR GROUP" valor="12"></detAdicional>
+        <detAdicional nombre="FAMILY GROUP" valor="30002"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.53</baseImponible>
+          <valor>0.42</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>300002</codigoPrincipal>
+      <descripcion>BOLON VERDE QUESO</descripcion>
+      <cantidad>3</cantidad>
+      <precioUnitario>2.1</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.3</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MAJOR GROUP" valor="11"></detAdicional>
+        <detAdicional nombre="FAMILY GROUP" valor="20001"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>6.3</baseImponible>
+          <valor>0.76</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>400005</codigoPrincipal>
+      <descripcion>CAFE NEGRO</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>1.12</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.24</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MAJOR GROUP" valor="20"></detAdicional>
+        <detAdicional nombre="FAMILY GROUP" valor="40002"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.24</baseImponible>
+          <valor>0.27</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="FPVISA MEDIANET">20.5</campoAdicional>
+    <campoAdicional nombre="CHECKNUMBER">158786</campoAdicional>
+    <campoAdicional nombre="Documento">FACTURA ELECTRONICA</campoAdicional>
+    <campoAdicional nombre="Direccion Matriz">Sodiro N14-20 y Luis Saa</campoAdicional>
+    <campoAdicional nombre="Telefono">0969901205</campoAdicional>
+    <campoAdicional nombre="CalcularTotales">True</campoAdicional>
+    <campoAdicional nombre="Local">ALAMEDA</campoAdicional>
+    <campoAdicional nombre="Descuento">0.00</campoAdicional>
+    <campoAdicional nombre="Timestamp">2024-02-14T17:46:57.2632427-05:00</campoAdicional>
+    <campoAdicional nombre="Guid">5e354d18f32146ceaa23a7691c05d0a800007905</campoAdicional>
+    <campoAdicional nombre="RVC">CLASICA</campoAdicional>
+    <campoAdicional nombre="CAJERO">ADRIANA LUCIA  MOREJON SOLIS</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature699055">
+<ds:SignedInfo Id="Signature-SignedInfo533297">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID379682" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature699055-SignedProperties772057">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>0SMQolFGKK95HD/70Dm+rvmRgSI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1139805">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>3miL1E/Spj+AGzymat+jgQ/EXvU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-387320" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2qiyYdMq8FJMfg2o4hhPu0yWovY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue909133">
+dGy1zQQRksE5HD+IGAVHXdwv3E3vrxfRkAviyyC3S63S5LJkVobEZqsJu5L1m6hhMDq+whl7ZXBs
+AUG11VEMttVJUyhcnTm6WIOJEd5WVvE+ZeRel1S7Ozr/GAH+GFc8FRbeOiyi4fRig+G+YOFsXe33
+kjLtyhS1/4L+rw1wTmOjJv9K/Ot5TfJnp5g3JskEf7YLPaCEtBqQ7inoDI41VI3CiIz1lehs7Lyh
+RMUnQTGkI1mtEE+HNxpKBiaBw2k4cFBddlA+SguF2TqQpXYtXRwPd6VRWyj5YkoUil/lWSKP9MVy
+q3insJ50xBp03YVsA3/fTlcV8guuHtFSJCUUPw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1139805">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL+TCCCeGgAwIBAgIEdgS0LTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzEyMDYyMDU3MTNaFw0yNTEyMDUyMDU3MTNaMIGeMScw
+JQYDVQQDDB5KT1JHRSBMVUlTIFFVSVNBR1VBTk8gR1VBTkdBSkUxFTATBgNVBAUTDDA2MTIyMzE2
+MDcwMDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDxdbxqWY+OHQ0s/TNPMS37xglged4P2yRiaA82H4RH7T2sJzjNbf/7
+waD6gae6hh5X09AeLqzrB8JHGLuljsZ0RSlniGm/g/mLfZ6gh1vedMC+tBxHbBtiFvjIisTbo0BA
+H66cscEOZqX6vxMoDi8RHWBRl5xtMMRSzXP0tWZhAn3hDkTbnSeOHHulXyPLKIBRNS12hSUMzEfC
+1XhxpzVUoqrWVRHnYPo9KY0P4mMcpktuZk+4s3cPH0yBLRJejRGwpWhRAPgDv0BAq3CooCclN2Ga
+N0Do5w1L5EXrfKbMQCJSn9ivUZR7ZloieawQb4LzreCzd/3CMAieOr5vkZ8fAgMBAAGjggdAMIIH
+PDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTAkBgNVHREEHTAbgRlqb3JnZWx1aXMxNzIxQGhvdG1haWwuY29tMIIBEgYDVR0gBIIB
+CTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGC
+pnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dw
+LWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2Fz
+IGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8EggKZMIIClTCB
+5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0
+YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3Qv
+Y2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFPWPmeUNCtMwvoqrDiY8
+9AX9NBSTMCsGA1UdEAQkMCKADzIwMjMxMjA2MjA1NzEzWoEPMjAyNTEyMDUyMDU3MTNaMAsGA1Ud
+DwQEAwIF4DAiBgorBgEEAYKmcgMFBBQMEkFTSVNURU5URSBDT05UQUJMRTAaBgorBgEEAYKmcgMB
+BAwMCjE3MjE4MTUwOTgwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4w
+KAYKKwYBBAGCpnIDBwQaDBhTT0RJUk8gTjE0IDIwIFkgTFVJUyBTQUEwGgYKKwYBBAGCpnIDAgQM
+DApKT1JHRSBMVUlTMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNzI2OTc1MBMGCisGAQQBgqZy
+AyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAaBgorBgEEAYKmcgMDBAwMClFVSVNB
+R1VBTk8wHwYKKwYBBAGCpnIDCgQRDA9MSU1EVUwgQ0lBIExUREEwHQYKKwYBBAGCpnIDCwQPDA0x
+NzkyNzIzNjYzMDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wGAYKKwYBBAGCpnIDBAQKDAhHVUFOR0FK
+RTAaBgorBgEEAYKmcgMIBAwMCjA5OTUzODI4MzQwDQYJKoZIhvcNAQELBQADggIBABIDsUC3nVFe
+s9rbtxhLS7+QVT0iyVXfXSHyt97PARCXlfC8P2UikZBOc2tuK/Qv5vnOjQkVzxL1wFcLIiz5y8pn
+5fzeIaQXeFFACB9P04CeEIf/Mu+n71LOL62Fp4fRuS4u7jgpPukkQW7OO8afQaJNu+LzwZyTDQeH
+beapNLr9gAzi8vh++kT9zSXvFLd4qm+XGhD8mibhRj2o9cR6i1ZfCgJdJjEiRXWwZzA2yBPishTO
+JIwu1cpJbw8CogrsmTE00sMCGqcWIPVME6mwD9wqnaOU6QLgOor6q9W3Bc/GmbMFp1ES8mEGw4Nk
+cYHOa34Gf0+EnaHYB1UPwSWVe/q68Q4950MiGlgQaZoRMtbv9UdQ4BfyzmKxk4G7pGzAr/AMZBXm
+3zyqkwbXX7tNFe6RXW+v9uMiygW0dm902p/Xc1fkIIU9hlAYya3DJkx2WhsZ5qtjoChkmSngmr3Q
+AEMX8wgoj2Ur7JYPgGuoF6YQdruNPFg0ygSwVsFR94Fn/WFEhqbn89av5a3oireU5PUXwsX4BnNJ
+6ty0X71cZb3FkhuBYNWlpunWN+nGFXTJsaAQvpfBHkZcFiNejdmkuwumnq4NFGkIIEoqRdG8p+RP
++GtGyvcPky9wnSt0CMZ4jUIHLqGiSVvuppGbDj5Y7VwCwpLN3AGkqRTo7pofyTii
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+8XW8almPjh0NLP0zTzEt+8YJYHneD9skYmgPNh+ER+09rCc4zW3/+8Gg+oGnuoYeV9PQHi6s6wfC
+Rxi7pY7GdEUpZ4hpv4P5i32eoIdb3nTAvrQcR2wbYhb4yIrE26NAQB+unLHBDmal+r8TKA4vER1g
+UZecbTDEUs1z9LVmYQJ94Q5E250njhx7pV8jyyiAUTUtdoUlDMxHwtV4cac1VKKq1lUR52D6PSmN
+D+JjHKZLbmZPuLN3Dx9MgS0SXo0RsKVoUQD4A79AQKtwqKAnJTdhmjdA6OcNS+RF63ymzEAiUp/Y
+r1GUe2ZaInmsEG+C863gs3f9wjAInjq+b5GfHw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature699055-Object776827"><etsi:QualifyingProperties Target="#Signature699055"><etsi:SignedProperties Id="Signature699055-SignedProperties772057"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-02-14T17:47:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>dBnNrUxHOaKL1SaJmM3rpksHsxY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1980019757</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-387320"><etsi:Description>SATCOM Servicios Profesionales</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

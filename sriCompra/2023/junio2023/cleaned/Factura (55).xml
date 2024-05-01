@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3006202301099215640600120150030003735820037358212</numeroAutorizacion>
+<fechaAutorizacion>2023-06-30T21:14:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>DEGEREMCIA SA</razonSocial>
+		<nombreComercial>NATURISSIMO</nombreComercial>
+		<ruc>0992156406001</ruc>
+		<claveAcceso>3006202301099215640600120150030003735820037358212</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>015</estab>
+		<ptoEmi>003</ptoEmi>
+		<secuencial>000373582</secuencial>
+		<dirMatriz>LOT INMACONSA S 7 MZ 32 VIA DUALE KM 115 JUNTO PLASTIMET</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>30/06/2023</fechaEmision>
+		<dirEstablecimiento>AV 25 DE JULIO N SN CC RIOCENTRO SUR PISO 1 LOCAL C4</dirEstablecimiento>
+		<contribuyenteEspecial>577</contribuyenteEspecial>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		<razonSocialComprador>STALYN LOPEZ MONTIEL</razonSocialComprador>
+		<identificacionComprador>0914552849</identificacionComprador>
+		<direccionComprador>GUAYAQUIL</direccionComprador>
+		<totalSinImpuestos>6.42</totalSinImpuestos>
+		<totalDescuento>0.38</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>
+				<baseImponible>0.65</baseImponible>
+				<valor>0.08</valor>
+			</totalImpuesto>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<baseImponible>5.77</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>6.50</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>01</formaPago>
+				<total>6.50</total>
+				<plazo>0</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>0004</codigoPrincipal>
+			<codigoAuxiliar>0004</codigoAuxiliar>
+			<descripcion>Y DURAZNO PQ</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>2.250000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>2.25</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>2.25</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>1087</codigoPrincipal>
+			<codigoAuxiliar>0012</codigoAuxiliar>
+			<descripcion>Y MORA MD</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>2.400000</precioUnitario>
+			<descuento>0.20</descuento>
+			<precioTotalSinImpuesto>2.20</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>2.20</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>1087</codigoPrincipal>
+			<codigoAuxiliar>0088</codigoAuxiliar>
+			<descripcion>PAN DE YUCA</descripcion>
+			<cantidad>3.00</cantidad>
+			<precioUnitario>0.480000</precioUnitario>
+			<descuento>0.12</descuento>
+			<precioTotalSinImpuesto>1.32</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>1.32</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>1087</codigoPrincipal>
+			<codigoAuxiliar>1075</codigoAuxiliar>
+			<descripcion>TORTILLA DE YUCA CON CARNE</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.714286</precioUnitario>
+			<descuento>0.06</descuento>
+			<precioTotalSinImpuesto>0.65</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12</tarifa>
+					<baseImponible>0.65</baseImponible>
+					<valor>0.08</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Direccion">GUAYAQUIL</campoAdicional>
+		<campoAdicional nombre="Telefono">0</campoAdicional>
+		<campoAdicional nombre="Email">SINCORREO@DEGEREMCIA.COM</campoAdicional>
+	</infoAdicional>
+<ds:Signature Id="Signature673909" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo776625">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID168920" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature673909-SignedProperties864338">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oXhlMMcffVbYmqAHnYN6jJQCrSs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1851284">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5Ycmsu6MDMxf80JDHRDXYeN0Bbc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-830606" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>sqUfiiQD4K99NDeee/iEG+/Bdjw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue407543">
+h8p6KJKUL7UV8FFoPY/IsA4qCdt6ftF0ffwVUIt7EbsCgXZBdrZGQkFL6SQgW3Q5XHiwyWJ0IGHh
+RGhwminKxcs6VW2N6/IVhw1aoGdon5nYOjVhvVNilNJKwe40rpB2QjJx2loTrjqsz4Tq79/5jdqg
+Mn7zBaI4XpwMcf5BGuD8cP4TitKwT0Tv4R0W5FCU7A8+LtIYGMRxvDrL9REUwWJUBTNmIGwnGY8H
+ktFTPP4bU5DFbJX8TPiGJ7S3UQSYzp+gZqFl+9yUQHyr0tin66nRKY6HDMnn4JDkqxmSSAKs4rJV
+a8HV06leXHUy1TtuE5mDuv95pJraC/XdrV/YUg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1851284">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL3TCCCcWgAwIBAgIEBxrmcTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA1MzAxODAwMTNaFw0yODA1MjkxODAwMTNaMIGaMSMw
+IQYDVQQDDBpKQUlNRSBST0JFUlRPIERBTE1BVSBZRVBFWjEVMBMGA1UEBRMMMzAwNTIzMTMwOTQ2
+MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALPN4BFZpqV239caBPdHsD+SO4FsAo036eTxHZNb/9bOEKHWFatprdBbcjeS
+x9ki0fRJ3TWAgXI5+kUngO10Tz9QSB7Y82+0Imj+W/1Y0pYlS5oiRBmwgR1hV1KkkLoyP3msTn+E
+5gSGsYdyo/6UlnqfxJI8BkDTyTLY63zXY9GH3lQ7xw9+C1e8iTOp6A6m4yts3BE8JcfT5gxNoBB8
+2N8CW08kpcQMpthLudA26HvlPGyRuDIwgocZAc34IBEF7NbYvoOavynZa56AqSIqoYBCqGDl2dRi
+L8n1CuJUs4oldK1Q/Jp/V3lCXG7ZGfKtQyyCCHOZxHzqY0dwL+b9FssCAwEAAaOCBygwggckMAwG
+A1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEE
+TTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRh
+cHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9i
+YXNlMB4GA1UdEQQXMBWBE2phZGF5ZS41MkBnbWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgor
+BgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAg
+AFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIw
+gY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50
+L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0
+aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9
+aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CB
+xKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0
+aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVy
+YWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlz
+dD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89
+U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU+/KdO0JcTkmsH8kUHGLDZKOP43Yw
+KwYDVR0QBCQwIoAPMjAyMzA1MzAxODAwMTNagQ8yMDI4MDUyOTE4MDAxM1owCwYDVR0PBAQDAgXg
+MB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMDkwMTMy
+NDExMTAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDARBgorBgEEAYKmcgMiBAMMAS4wFwYKKwYB
+BAGCpnIDBwQJDAdTT0xBUiA3MB0GCisGAQQBgqZyAwIEDwwNSkFJTUUgUk9CRVJUTzAfBgorBgEE
+AYKmcgMgBBEMDzAwMTAwMjAwMDQwMzI5ODATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKm
+cgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZEQUxNQVUwHgYKKwYBBAGCpnIDCgQQDA5E
+RUdFUkVNQ0lBIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTIxNTY0MDYwMDEwEgYKKwYBBAGCpnID
+HQQEDAJObzAVBgorBgEEAYKmcgMEBAcMBVlFUEVaMBoGCisGAQQBgqZyAwgEDAwKMDkzOTM4NDU1
+MjANBgkqhkiG9w0BAQsFAAOCAgEANQ5V0RFUUcn5Afw/KnsQijECi4fUyJZzOql+TzNq9vbC/F0i
+86v3JX6vfi977uwjE7VG+5y6OhGY5DJqMGdPyuVpqcZmordLVWxpxWXE2sTDNNXVOL0Eh/qVVQQ1
+PBNSLYogr6pb0Wm8/HaMYJD+4XXU+Q6lDje/y4vI72n+NiVmdixfj3CIIAdq/IQeN8esU8xPmccF
+YfWNGOpFQbESRlkJEzXvSF55U8emeEULadacNLIGiTxFddGfXhJUHN1cNOhkX4DqWuUOAKOzfQc8
+AeFzycPCV7BTbAwDDAqAjL7soCRFP+DFuxWDxhQKO951aWsxOP4HsgxDF5qkDMlnSycXswZ3ujtp
+iB/G5CDSJhs1U60WNA8DLKrY2ZjQJtxKSaBTqZQfIkU8zwqLjfHt3iUuQThgOfcuwAWZG13lcNwi
+5O3yZ7Eg5FRPbIb5WWQLMnHwcPB3xERQRhg02r/sPEXpMu5gY0f8C5hqZzybyEVxl3SNbN7hP+XC
+vtaQ9Z/6/1P28iOQwmFBtT2ltgpdbxymYbWPMJej2Th2cb5KgWC/x/q6ha8tVo5Kh21ZZf4FQmnO
+RsHkLOR0RD3PvydF5WxmG8AlZW14eiW3yi92/acb+38rQQV1lDyd6AWhDmkpv3aICpOkgnsbRoVv
+A6jfDrwq+YKBntdAQ5g2abGFOqw=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+s83gEVmmpXbf1xoE90ewP5I7gWwCjTfp5PEdk1v/1s4QodYVq2mt0FtyN5LH2SLR9EndNYCBcjn6
+RSeA7XRPP1BIHtjzb7QiaP5b/VjSliVLmiJEGbCBHWFXUqSQujI/eaxOf4TmBIaxh3Kj/pSWep/E
+kjwGQNPJMtjrfNdj0YfeVDvHD34LV7yJM6noDqbjK2zcETwlx9PmDE2gEHzY3wJbTySlxAym2Eu5
+0Dboe+U8bJG4MjCChxkBzfggEQXs1ti+g5q/KdlrnoCpIiqhgEKoYOXZ1GIvyfUK4lSziiV0rVD8
+mn9XeUJcbtkZ8q1DLIIIc5nEfOpjR3Av5v0Wyw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature673909-Object776143"><etsi:QualifyingProperties Target="#Signature673909"><etsi:SignedProperties Id="Signature673909-SignedProperties864338"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-06-30T21:14:44-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>rb5mViLsBpLeai1Ms1ogPpDU//Q=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>119203441</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-830606"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+
+<mensajes/>
+</autorizacion>

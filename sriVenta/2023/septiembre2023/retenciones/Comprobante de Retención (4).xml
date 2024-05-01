@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2109202307179082273700120010020000011095546848911</numeroAutorizacion>
+<fechaAutorizacion>2023-09-22T11:32:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><comprobanteRetencion id="comprobante" version="2.0.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>CARRERA FELIX BUCHELI CIA. LTDA.</razonSocial>
+	    <nombreComercial>CARRERA FELIX</nombreComercial>
+	    <ruc>1790822737001</ruc>
+	    <claveAcceso>2109202307179082273700120010020000011095546848911</claveAcceso>
+	    <codDoc>07</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000001109</secuencial>
+	    <dirMatriz>LA VICENTINA Y IBERIA</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoCompRetencion>
+	    <fechaEmision>21/09/2023</fechaEmision>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+	    <tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+		
+		<parteRel>NO</parteRel>
+		<razonSocialSujetoRetenido>LOPEZ MONTIEL STALIN NARCISO</razonSocialSujetoRetenido>
+	    <identificacionSujetoRetenido>0914552849001</identificacionSujetoRetenido>
+	    <periodoFiscal>09/2023</periodoFiscal>
+  	</infoCompRetencion>
+  	<docsSustento>
+	  <docSustento>
+	  	<codSustento>01</codSustento>
+		
+        <codDocSustento>01</codDocSustento>
+        <numDocSustento>001100000000151</numDocSustento>
+		<fechaEmisionDocSustento>21/09/2023</fechaEmisionDocSustento>
+		<numAutDocSustento>2109202301091455284900120011000000001516067676315</numAutDocSustento>
+		<pagoLocExt>01</pagoLocExt>
+		
+		<totalSinImpuestos>4550.00000</totalSinImpuestos>
+		<importeTotal>5096.00000</importeTotal>
+		<impuestosDocSustento>
+	      <impuestoDocSustento>
+	        <codImpuestoDocSustento>2</codImpuestoDocSustento>
+	        <codigoPorcentaje>2</codigoPorcentaje>
+	        <baseImponible>4550.00</baseImponible>
+	        <tarifa>12.00</tarifa>
+			<valorImpuesto>546.00000</valorImpuesto>
+	      </impuestoDocSustento>
+	      
+	      
+	    </impuestosDocSustento>
+		<retenciones>
+		  
+		  <retencion>
+		  	<codigo>1</codigo>
+			<codigoRetencion>343</codigoRetencion>
+			<baseImponible>4550.00000</baseImponible>
+			<porcentajeRetener>1.00</porcentajeRetener>
+			<valorRetenido>45.50000</valorRetenido>
+			
+			
+		  </retencion>
+		  
+		  <retencion>
+		  	<codigo>2</codigo>
+			<codigoRetencion>1</codigoRetencion>
+			<baseImponible>528.00000</baseImponible>
+			<porcentajeRetener>30.00</porcentajeRetener>
+			<valorRetenido>158.40000</valorRetenido>
+			
+			
+		  </retencion>
+		  
+		  <retencion>
+		  	<codigo>2</codigo>
+			<codigoRetencion>2</codigoRetencion>
+			<baseImponible>18.00000</baseImponible>
+			<porcentajeRetener>70.00</porcentajeRetener>
+			<valorRetenido>12.60000</valorRetenido>
+			
+			
+		  </retencion>
+		  
+		</retenciones>
+		
+		
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>5096.00</total>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+      </docSustento>
+	</docsSustento>
+	
+	
+    <infoAdicional>
+	
+		
+			<campoAdicional nombre="Descripción">LOPEZ MONTIEL STALIN NARCISO REF MANTENIMIENTO MENSUAL XEROX X 1000 Y MATERIALES</campoAdicional>
+		
+	
+	
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature481952">
+<ds:SignedInfo Id="Signature-SignedInfo912241">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID991436" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature481952-SignedProperties82716">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oqeFkmdrMHbKFzYwOMJ9aJI3V8c=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1897205">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yZ6CKtOkMnknXPNPc/EeEmbYhJg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-440282" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dBGqQHX0W3d/pq024ijLvyHg0u4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue432505">
+N2TN9JV7xiunate2z6bpq42O+0uz28IH5cZWG6tFOSEOQ5QQCUUgriYQeVqHqff46T19abhcQZ0d
+zLA99oZvVfHB8xhpf3xMzCGEp0CNTX2IcA+ScksVPFxA+8WyPM+jE1hndR6lhChdoOjSpnDWN1Wg
+NgcuGf2K7oxst65N5VhJx2pFAvgNShjRFsfSVe4t5rzh+7p0Y3kAsbniPKkfBmhYVuQS3neYW/kZ
+YDWUkdDN4TumtYN1PuPJwsQijgzOBACKxaVSxuSCoaWWD18yKzMtcPnKBOfSYbEvzJn/1zwsEPYD
+Dcg86VqzsdKk690CUUuKin3KL0Hegx8j9Z1TRw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1897205">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJfTCCB2WgAwIBAgIITVyVklaOKq0wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDEyNDE4MDAwMFoXDTI0MDEyNDE4MDAwMFowgdUxCzAJBgNVBAYTAkVDMSkwJwYDVQQKDCBD
+QVJSRVJBIEZFTElYIEJVQ0hFTEkgQ0lBLiBMVERBLjEQMA4GA1UEDAwHR0VSRU5URTEVMBMGA1UE
+BAwMQ0FSUkVSQSBSSU9TMRUwEwYDVQQqDAxIVUdPIFJPRFJJR08xGTAXBgNVBAUTEElEQ0VDLTE3
+MDI4Nzk5ODAxIjAgBgNVBAMMGUhVR08gUk9EUklHTyBDQVJSRVJBIFJJT1MxHDAaBgNVBGEME1ZB
+VEVDLTE3OTA4MjI3MzcwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCA6bx8SSqu
+IJ5cHjBVxR4ktI0vsLrmdhJfiy46MShZVsBepDbjrwEt6pLBqzxkiHj6LBU7dHlODb8BkCplO4OS
+17E3KDPGHKooZXECVph3O/hbQOlsSHUzCGH9498I8HL60YiIF17ND/yAeEX//tiV2/kdYL2ulFk7
+JK/c/hIrBQxhkjK/Yb/euK06n45mXoHRKZtccMWSee/5AqDNkYYU1JcfZg4baWycasA0JGfOrC1p
+PNA3WnF+OTaxlPSABlZDEl2ADBmXmUVTZmVt/lggBze2tayuKfJcbjOkyLZIB0sPCAL4QeArHi9m
+v6c2GLBhLK3lY6koxS50BVWt9dFHAgMBAAGjggRqMIIEZjAbBgsrBgEEAYLxNmYDAQQMDAoxNzAy
+ODc5OTgwMB4GCysGAQQBgvE2ZgMLBA8MDTE3OTA4MjI3MzcwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUlv4K+lHEeIae8lWWbwWDgUMM
+6IMwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBjgYDVR0g
+BIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJUSUZJQ0FETyBERSBS
+RVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0
+cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAO
+BgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBqwYDVR0RBIIB
+ojCCAZ6BFWpmY2FycmVyYUBjYXNoYm9vay5lY6AbBgsrBgEEAYLxNmYDAaAMDAoxNzAyODc5OTgw
+oB0GCysGAQQBgvE2ZgMCoA4MDEhVR08gUk9EUklHT6AYBgsrBgEEAYLxNmYDA6AJDAdDQVJSRVJB
+oBUGCysGAQQBgvE2ZgMEoAYMBFJJT1OgGAYLKwYBBAGC8TZmAwWgCQwHR0VSRU5URaAdBgsrBgEE
+AYLxNmYDB6AODAxMQSBWSUNFTlRJTkGgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5ODQxNDk0MzGg
+FgYLKwYBBAGC8TZmAwmgBwwFUVVJVE+gMQYLKwYBBAGC8TZmAwqgIgwgQ0FSUkVSQSBGRUxJWCBC
+VUNIRUxJIENJQS4gTFREQS6gHgYLKwYBBAGC8TZmAwugDwwNMTc5MDgyMjczNzAwMaATBgsrBgEE
+AYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysG
+AQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBABP8QUAr4WymVze9OqUMG4Q2
+nNhiNjkF0/9p8de4qEbtooxD7UBVDpenv26K1p1AcwtuagzcbgIQh/+2vs20h9Bhngy4eR1PUK8g
+rRbTk6PF3ykLOTKhjLZNyfb4uEVjunYj0OdKmaJuQdwLXsKX7znb8P/6X8/Sgk3TTvzeA0LOSYds
+QGsonTFPYdPQqLtS9dMVLKE5klw4XQO3LJ57mSjLlBW6TZA4wRqVXkHsQXgYRledmtKhfJo6N24v
+fI46t83ox3/g3EI4s3g5AoQ2L+4O918gv1Mf2JTCS8cuog4+zMwBJxj9njnnZEwtN7A68+gtkbv0
+9TPXPrY96UzmYZsSaaqtFKOl6qhIg+UmrkbcuWyuL6Nworogpg4uKPG/dTU5h00eZkzgoa3/Ywkj
+eAa2QzN6V/yv6WEEiLS7qJJvbv9Pxtr4gpxxSiyEogOB2KK8j8J3bah59H1ISxB76ONeSsxhXS3T
+SKdHjuVs1VrlzAl5u4u3GXFnYxtP10/P1XLTaFY7HGKL5oBqklMhz9cR8+mQez1aiVxWC22KgMT8
+Vg2VFIqqNkx2iGklRMW6GLt975tpcm+vC413SwOt2csTwra+/IRoDuO+W9KpULwWW7eiT+czkHpE
+1g5OKtouugS6kAK0o4F8pIhxnawYcC4nFxUKRVhC7tGlZsb1ydZS
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gOm8fEkqriCeXB4wVcUeJLSNL7C65nYSX4suOjEoWVbAXqQ2468BLeqSwas8ZIh4+iwVO3R5Tg2/
+AZAqZTuDktexNygzxhyqKGVxAlaYdzv4W0DpbEh1Mwhh/ePfCPBy+tGIiBdezQ/8gHhF//7Yldv5
+HWC9rpRZOySv3P4SKwUMYZIyv2G/3ritOp+OZl6B0SmbXHDFknnv+QKgzZGGFNSXH2YOG2lsnGrA
+NCRnzqwtaTzQN1pxfjk2sZT0gAZWQxJdgAwZl5lFU2Zlbf5YIAc3trWsrinyXG4zpMi2SAdLDwgC
++EHgKx4vZr+nNhiwYSyt5WOpKMUudAVVrfXRRw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature481952-Object76760"><etsi:QualifyingProperties Target="#Signature481952"><etsi:SignedProperties Id="Signature481952-SignedProperties82716"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-09-22T11:32:24-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>eapkpWDmH7syTdmB7HgZEypI36k=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>5574494894527752877</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></comprobanteRetencion>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

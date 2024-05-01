@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0407202301179129795400120010240003784860037848612</numeroAutorizacion>
+<fechaAutorizacion>2023-07-05T06:31:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura xmlns:ds="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.0.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>MEMORIAL INTERNATIONAL OF ECUADOR SA ECUAMEMORIAL</razonSocial>
+<nombreComercial>MEMORIAL INTERNATIONAL</nombreComercial>
+<ruc>1791297954001</ruc>
+<claveAcceso>0407202301179129795400120010240003784860037848612</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>024</ptoEmi>
+<secuencial>000378486</secuencial>
+<dirMatriz>AV. AMAZONAS 2817 Y ALEMANIA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>04/07/2023</fechaEmision>
+<contribuyenteEspecial>0176</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador> STALIN NARCISO LOPEZ MONTIEL</razonSocialComprador>
+<identificacionComprador>0914552849</identificacionComprador>
+<direccionComprador>ARTURO BORJA N2-35 MANOSALVAS</direccionComprador>
+<totalSinImpuestos>25.97</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>25.97</baseImponible>
+<tarifa>0</tarifa>
+<valor>0</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>25.97</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>25.97</total>
+<plazo>1</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>100</codigoPrincipal>
+<descripcion>SERVICIOS EXEQUIALES INDIRECTOS</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>25.97</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>25.97</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>25.97</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="DIRECCION">ARTURO BORJA N2-35 MANOSALVAS</campoAdicional>
+<campoAdicional nombre="TELEFONO">022284165</campoAdicional>
+<campoAdicional nombre="Email">stalin.lopez@xerox.com</campoAdicional>
+
+</infoAdicional>
+<ds:Signature xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature988444">
+<ds:SignedInfo Id="Signature-SignedInfo690821">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID831491" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature988444-SignedProperties134465">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>RQgeQ8tAk8Y1ov6JlJ/4iD+jo6A=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1730588">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>bk63lRJ4HUHRufCrEOhpf5Bcpc8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-916752" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8vRPC+V3DoU6tofwA+z0f/WmHXw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue845435">
+Xwb57lIckb5URG3qZQ4a3tdm4i5jIMGW3wJ5tjtNx/EKOeKJER9+FIaIZsMOBJhwt93kEmu7JAQy
+aYID0UuuRNEPaYhSw/wiH2ZN8uFvjYMD03vIkVNFDO57TS6VuYNrYxwHTnoEg/NCqrNdeU7Kar6C
+SdeF3PrUJjCa3qti04TrsgoGBLrimKUwwYvgJ9P39OBltFz99xxx7Kt/g89kZULxL/V3ud+5YZFn
+aeM+yYw86aO1+oXofej2UYLjka7ndQAMkpzKRA3w3D2xIljO+Jmm4TYHZLhBuL2id8VcxzALB6Qa
+9ldAlcvZ8vXTHJIiTnoybMlxiDPd+VWflnnd8g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1730588">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMHTCCCgWgAwIBAgIERQwsrzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTExMTcyMTMzMzRaFw0yMzExMTcyMTMzMzRaMIGcMSUw
+IwYDVQQDDBxMVUlTIEVESVNPTiBUT0FQQU5UQSBDQU1BQ0hPMRUwEwYDVQQFEwwxNzExMjExNjQz
+MzExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA0fxhNnG7LgBk6AO29X4ZAWeQaQjDmu0c2X8DVwaGbL1zSVPicpC7bN8s
+gs+ZwBm/s9SleYynAhITwQJkovDErFyALMags0SclsXUh7TnK2wF2RmXCZS42QCjz1x1YoVaIBqv
+0AVoHcs0ezmSNMMjLE8hcWEUf720wO/+kJCqcS5JTIEnsO5KA2DjnNPWEb3omJJ7XTiNBwclfyC6
+GfLDp8d6ZOPzEPPVxzSX8a8SHiVUcDPnGmgb3pWrms3Pu9KE2F22AnKELw6TCUbYGBU2iGXeMMUn
+tKO2SNWFTuwqE+J6+hJNru8dEJkODw0BH8bPoU6DmnFJDu/mlR5tmzsFuQIDAQABo4IHZjCCB2Iw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwJQYDVR0RBB4wHIEaZXRvYXBhbnRhQG1lbW9yaWFsY29ycC5jb20wggESBgNVHSAEggEJ
+MIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQA
+bwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKm
+cgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3At
+Y29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMg
+ZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkwggKVMIHl
+oEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1F
+Qz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRh
+bC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9j
+ZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUDsN7jJtqoUJAB9HWNsfp
+bC7RdyQwKwYDVR0QBCQwIoAPMjAyMTExMTcyMTMzMzRagQ8yMDIzMTExNzIxMzMzNFowCwYDVR0P
+BAQDAgXgMCMGCisGAQQBgqZyAwUEFQwTU1VCQ09OVEFET1IgR0VORVJBTDAaBgorBgEEAYKmcgMB
+BAwMCjE3MTYxNzAyMDIwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4w
+KwYKKwYBBAGCpnIDBwQdDBtBViBBTUFaT05BUyAyODE3IFkgQUxFTUFOSUEwGwYKKwYBBAGCpnID
+AgQNDAtMVUlTIEVESVNPTjAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDI3MTgyMDATBgorBgEE
+AYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYKKwYBBAGCpnIDAwQKDAhU
+T0FQQU5UQTBCBgorBgEEAYKmcgMKBDQMMk1FTU9SSUFMIElOVEVSTkFUSU9OQUwgT0YgRUNVQURP
+UiBTIEEgRUNVQU1FTU9SSUFMMB0GCisGAQQBgqZyAwsEDwwNMTc5MTI5Nzk1NDAwMTASBgorBgEE
+AYKmcgMdBAQMAk5vMBcGCisGAQQBgqZyAwQECQwHQ0FNQUNITzAaBgorBgEEAYKmcgMIBAwMCjA5
+OTA1OTU0MjUwDQYJKoZIhvcNAQELBQADggIBAGNy+AjD7YIkMzkFUbCTHK8RbkgRUvxPCOu/cQVp
+bpCIZizUrG1MLTkOAkq3ui2Tgijk8PmzviWUZ4/rK03LIjFyDyxIqDanWiKJ+70T4AvaJ97ICBwZ
+ZAiXjt9NmTW1WBfW6PaF/k6uwnwjWTj2D3I+fv/eCjP1PnIGR+QWgK0phjOxMWDDTY0D3nQjcawY
+qdGX2m9Z64U1PhHOOdzS8ZX9ghI+znAm/YKp//9JBqFqJ+rFdOiZmbgWCvvxxbqcP3HaAT7gGuuE
+WDYmIKburbTpm5UGSV5Y4eu5Y3ECpXvgHarSPLdj0bApIyBmplX0pd5GmIEjUZfJf+glrTnKVKnr
+KRHb4XzRt/2eYhiNaizyg8L6jUETWhKa0XNeAD4uWOIaWpoQ4hKgCGXOgdUf0mgp1ChKzSjgEtw9
+8o6ekIXWXN0a/+AhMKKDkSgijEjgdCcWvgeb0/Rek3JOwmtjT7ZJbV3MbrxWqq6A/MuY5CMJHGls
+Aog9uER18Ro+rXbAfu7VLatKm+FcA+r47zQRdYf88mrUqh11Rb+q4BOxIc6p1JsGPwLWafHB2nro
+E/DIVva0ym0TaeYKSH0TaTznyR5g0U3Xa9UhRtSLJDW49jXbliMMChLRSsPHs+Vcm4vPAWYYwh62
+Csx3D9bm+ORm6cvjxVbGH2jHsotVEqjYMp8g
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0fxhNnG7LgBk6AO29X4ZAWeQaQjDmu0c2X8DVwaGbL1zSVPicpC7bN8sgs+ZwBm/s9SleYynAhIT
+wQJkovDErFyALMags0SclsXUh7TnK2wF2RmXCZS42QCjz1x1YoVaIBqv0AVoHcs0ezmSNMMjLE8h
+cWEUf720wO/+kJCqcS5JTIEnsO5KA2DjnNPWEb3omJJ7XTiNBwclfyC6GfLDp8d6ZOPzEPPVxzSX
+8a8SHiVUcDPnGmgb3pWrms3Pu9KE2F22AnKELw6TCUbYGBU2iGXeMMUntKO2SNWFTuwqE+J6+hJN
+ru8dEJkODw0BH8bPoU6DmnFJDu/mlR5tmzsFuQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature988444-Object957249"><etsi:QualifyingProperties Target="#Signature988444"><etsi:SignedProperties Id="Signature988444-SignedProperties134465"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-05T06:31:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>zNtxEBcKTVicPfsDjT6n029YdNU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1158425775</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-916752"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

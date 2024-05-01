@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2301202401179199789100120230020005713512319185910</numeroAutorizacion>
+<fechaAutorizacion>2024-01-24T03:32:10-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ENMARSI S.A.</razonSocial>
+    <nombreComercial>CAMPERO</nombreComercial>
+    <ruc>1791997891001</ruc>
+    <claveAcceso>2301202401179199789100120230020005713512319185910</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>023</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000571351</secuencial>
+    <dirMatriz>YANEZ PINZON 678 Y AV. COLON</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>23/01/2024</fechaEmision>
+    <dirEstablecimiento>Luis Sodiro y Luis Saa (Alameda)</dirEstablecimiento>
+    <contribuyenteEspecial>571</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>STALIN LOPEZ</razonSocialComprador>
+    <identificacionComprador>0914552849</identificacionComprador>
+    <direccionComprador>LA TOLA</direccionComprador>
+    <totalSinImpuestos>11.11</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>6</codigoPorcentaje>
+        <baseImponible>0</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>11.11</baseImponible>
+        <tarifa>12</tarifa>
+        <valor>1.33</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>12.44</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>16</formaPago>
+        <total>12.44</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>NAP3</codigoPrincipal>
+      <descripcion>NO APLICA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BEPQC</codigoPrincipal>
+      <descripcion>BEBIDA PEQUENA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C5C</codigoPrincipal>
+      <descripcion>CON 5 CAMPERITOS</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CAC3PT</codigoPrincipal>
+      <descripcion>CON 3 PR POLLO TRADICIONAL</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CSMMN</codigoPrincipal>
+      <descripcion>CON SALSA MOSTAZA MIEL NORMAL</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CACC</codigoPrincipal>
+      <descripcion>CONO CAMPERO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.46</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>4.46</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>4.46</baseImponible>
+          <valor>0.53</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CAMCPL152</codigoPrincipal>
+      <descripcion>CAMCPL152</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CPCN</codigoPrincipal>
+      <descripcion>CON FRITA NOR</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CAMCPL171</codigoPrincipal>
+      <descripcion>CAMCPL171</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CCML</codigoPrincipal>
+      <descripcion>CON GASEOSA BOTELLA PQ</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CACSCN</codigoPrincipal>
+      <descripcion>CBO SUPER CAMPERO NORMAL</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>6.65</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.65</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>6.65</baseImponible>
+          <valor>0.80</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>NAP</codigoPrincipal>
+      <descripcion>NO APLICA PROMOCION</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+<ds:Signature Id="Signature179536" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo898071">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID966804" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature179536-SignedProperties172342">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XixJEB8dPaa5zJLxUzEaBXpQ2sw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1832401">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>b51/yxZQlkPP6SNw9NJp3IbddUs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-387398" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>i0gdLJiZHWYdzC9ai/SyNGAplJo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1032237">
+dMt4bJ1rurQZyREJZBE4S08HePYaAXoAeDxEkCzfxwq2f9s2tB9Ln9ZR4DPunNBxpbYEy7anBYKw
+Jtekf8ZgbYel1qmVJQVnZe8PJqQjuj38yuExLjaKkdcg60SjIEU1TW5cwG2C7IE5viyIeCwzHYHv
+GgFYN9MkptP/R5TuFis8ae3j6r7gd9pm2EYuOYHeRIfUys6tkw+zsKijIUIFVtmDEiU/t9/N4ptQ
+ggfqHYuvA6xXYfA3MFX1/XqaTHKCmN7D1D9tmY+lG+wMIke6rgLWaJUl2TwI87Jx4jsZusDPGh1i
+DuQJ2Jn+OZkyOwW6y1v57uk1r1r8+u8YJ5lGqQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1832401">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL6TCCCdGgAwIBAgIEVm3G8DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzEwMjQxOTA3MDZaFw0yNzEwMjQxOTA3MDZaMIGUMR0w
+GwYDVQQDDBRCRVJUSEEgSEVMTEVSIFZJR09EQTEVMBMGA1UEBRMMMjQxMDIzMTQxNjUwMTAwLgYD
+VQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNF
+Q1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAKHiY6SGEN8ixmCvbtLHCtoOROkrsD5XtKYXnfpE4Y+6aB2LYSo7Pg2uS2Y3u264antA
+rTxCUDXgNKhAj2d5PPLr6xfSYot8zcxGn8q8c7pDYRGY+TBtvN1/AExD7CXKMA/lToh8xMbW0U0S
+GJQGUs74L1Htz2o2Z1NHKXJKJpdTeMG4adO5pNV683/SZC8nYie4v1yjZuh5PoHUg+jFET1BlhjV
+HQv70FxZHyaM4M5h/94w4Gy+CdM/dSCecYtVoBpout3MRb1nw+T8go7xBLbKJFvIrAOZqX+ZWb9M
+7K/NrBX+MEl+rQujDy8HNywLsliOT4oK96s+LWWKkqfY3KMCAwEAAaOCBzowggc2MAwGA1UdEwEB
+/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkG
+CCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGlj
+d2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2Ey
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCQG
+A1UdEQQdMBuBGWJlcnRoYS5oZWxsZXJAaG90bWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgor
+BgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAg
+AFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIw
+gY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50
+L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0
+aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9
+aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CB
+xKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0
+aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVy
+YWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlz
+dD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89
+U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUKtsbQmtwc8VDcoseS8MPiEFVZ+kw
+KwYDVR0QBCQwIoAPMjAyMzEwMjQxOTA3MDZagQ8yMDI3MTAyNDE5MDcwNlowCwYDVR0PBAQDAgXg
+MB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcwNDE3
+MjI1MTAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZyAyIEAwwBLjAwBgorBgEEAYKm
+cgMHBCIMIFlBTkVaIFBJTlpPTiA2NzggWSBBVkVOSURBIENPTE9OMBYGCisGAQQBgqZyAwIECAwG
+QkVSVEhBMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNjk5Nzk4MBMGCisGAQQBgqZyAyEEBQwD
+UEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBkhFTExFUjAbBgor
+BgEEAYKmcgMKBA0MC0VOTUFSU0kgUyBBMB0GCisGAQQBgqZyAwsEDwwNMTc5MTk5Nzg5MTAwMTAS
+BgorBgEEAYKmcgMdBAQMAk5vMBYGCisGAQQBgqZyAwQECAwGVklHT0RBMBoGCisGAQQBgqZyAwgE
+DAwKMDk5OTc4NTU5MTANBgkqhkiG9w0BAQsFAAOCAgEADRuTe4t2duHCvuN5hZuoyZuQqxwpn9cv
+mQNau2uUAaZUXYJvZckdoM9LWV/m01CV9LoyUDSP6VLr1OEQrQ8RQZ8m6mVfoE13toNsNZIipRWb
+LUiSeWveI13tcXCsCXsP/u3WQhSSU3esbOi/RBYb/d1tmBzhnEw8Oc+ZfiPpnn+mZ18HPEKt+dQW
+Eo3Z5BrlhTKsDMY16ybIv1u5oueC6SrP7/+KSCwjwwgWjc7v74K+RESkTYwSjJo4GbFn4Y7NBzjH
+DnrtSYBDsMqAX18K5shu91ZSpY37lbN84vf0zbs4iDQuAahKg3XXdHU4eABXm6meCTmKAfQvLHWq
+ZaQCAOVKe5me4bBhuP/8FGfEy+2GS7hfrvn1ETqwYPtQBKfRLSWgk/VjR0ldM1FyPlP1U6/MCoZL
+7u/YhMfEdzpiF16rnRES+/eywsqXWNhLFdJW3N9vDy1FxKg/PDgZYbNNVT/bzZDeciH8xYlxTnhH
+Uri9bORG1pc03U3QsskX6gxyZdROgBW/NmDMC0mPZeLerMDx5IbbqdGOOEjDqW6+KaiXFPo7+0XQ
+rk2SuOLHNvgXyc8vHSG0iMtdnPvsD6zFyKsEc+rSgE1NI2dZDl9kpXqjQiwfqO2QP55aFWRtQq0V
+GYjTVqqU8+tQsXtd9Cj9CGqr1/zFSueKXpKMYgJhZWk=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oeJjpIYQ3yLGYK9u0scK2g5E6SuwPle0phed+kThj7poHYthKjs+Da5LZje7brhqe0CtPEJQNeA0
+qECPZ3k88uvrF9Jii3zNzEafyrxzukNhEZj5MG283X8ATEPsJcowD+VOiHzExtbRTRIYlAZSzvgv
+Ue3PajZnU0cpckoml1N4wbhp07mk1Xrzf9JkLydiJ7i/XKNm6Hk+gdSD6MURPUGWGNUdC/vQXFkf
+JozgzmH/3jDgbL4J0z91IJ5xi1WgGmi63cxFvWfD5PyCjvEEtsokW8isA5mpf5lZv0zsr82sFf4w
+SX6tC6MPLwc3LAuyWI5Pigr3qz4tZYqSp9jcow==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature179536-Object192250"><etsi:QualifyingProperties Target="#Signature179536"><etsi:SignedProperties Id="Signature179536-SignedProperties172342"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-01-24T03:32:21-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>oAtN3SnzZJ+FwIsubnmmLvkFf4U=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1450034928</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-387398"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2506202301179214148600120020500004916764126153312</numeroAutorizacion>
+<fechaAutorizacion>2023-06-26T00:52:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PROMOTORA ECUATORIANA DE CAFE DE COLOMBIA S.A. PROCAFECOL ECUADOR</razonSocial><nombreComercial>JUAN VALDEZ</nombreComercial><ruc>1792141486001</ruc><claveAcceso>2506202301179214148600120020500004916764126153312</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>050</ptoEmi><secuencial>000491676</secuencial><dirMatriz>PICHINCHA / QUITO / INAQUITO / COREA 126 Y AV. AMAZONAS</dirMatriz></infoTributaria><infoFactura><fechaEmision>25/06/2023</fechaEmision><dirEstablecimiento>PICHINCHA / QUITO / AV. AMAZONAS N6-114 Y AV. REPUBLICA</dirEstablecimiento><contribuyenteEspecial>826</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>STALIN LOPEZ  </razonSocialComprador><identificacionComprador>0914552849</identificacionComprador><totalSinImpuestos>8.03</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>8.03</baseImponible><tarifa>12</tarifa><valor>0.96</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>8.99</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>8.99</total><plazo>0</plazo><unidadTiempo>DÍAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>248</codigoPrincipal><descripcion>GALLETA CHOCO CHIPS</descripcion><cantidad>1.0</cantidad><precioUnitario>1.116000</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>1.12</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>1.12</baseImponible><valor>0.13</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>835</codigoPrincipal><descripcion>+ADIC.LECHE CONDENSADA                  </descripcion><cantidad>1.0</cantidad><precioUnitario>0.883900</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>0.88</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>0.88</baseImponible><valor>0.11</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>3889</codigoPrincipal><descripcion>RED VELVET  CAKE PORSION</descripcion><cantidad>1.0</cantidad><precioUnitario>3.125000</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>3.12</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>3.12</baseImponible><valor>0.38</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>4258</codigoPrincipal><descripcion>TE BUBBLE SANDIA MENTA FRIO 16 OZ</descripcion><cantidad>1.0</cantidad><precioUnitario>2.901700</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>2.90</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>2.90</baseImponible><valor>0.35</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="CORREO 1">stalin.lopez@hotmail.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature883893">
+<ds:SignedInfo Id="Signature-SignedInfo475741">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID681752" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature883893-SignedProperties403925">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0pvsYqa3XD55sk3gDSfsm+HKFdk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1263695">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>BCbolwfAS/W/hNBRK17FKL6M/C0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-408564" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>gyOA1IqRrSA7IXotUpwFHwJ5umI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue327134">
+K9uaCSRRjBJtKmFr8RrsH+NfzeLu9t1wJCSe+LTVG6SyUyLr3m07iMxeA2QJHqfUsYCU8yoI/7Er
+aQNLvoB3pQ9HkngwCg9dC3zfbb+7eKeuNNUZOnnP76QMgrFjidg0R6jS73EpJWZhKqXozanyBHS0
+2qHQ1n7UuDGp1kwheGKOffPaQ78lt/rUpn6uwOJ8h92oWfRTDCS/l7oaQDYbKK59Iavmx86Q4r4Q
+QVs2cmqzNuZXrsKxlR5sriAyQYVhR4k/Bvvb4n15jo/uihnuSpwqCAnKLYODjy14r0JbQNFOv4wz
+eeQydq8yWi/kqP1/wmYQbpRTCvnm5fVaPpFboA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1263695">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ3zCCB8egAwIBAgIIEhv4Mndi4NIwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMDQyMDIyMjgwMFoXDTI0MDQxOTIyMjgwMFowgf8xCzAJBgNVBAYTAkVDMUowSAYDVQQKDEFQ
+Uk9NT1RPUkEgRUNVQVRPUklBTkEgREUgQ0FGRSBERSBDT0xPTUJJQSBTLkEuIFBST0NBRkVDT0wg
+RUNVQURPUjEZMBcGA1UEDAwQQ09OVEFET1IgR0VORVJBTDETMBEGA1UEBAwKRElBWiBEQUxHTzEX
+MBUGA1UEKgwORElFR08gTUFVUklDSU8xGTAXBgNVBAUTEElEQ0VDLTE3MTMzNDE0MjYxIjAgBgNV
+BAMMGURJRUdPIE1BVVJJQ0lPIERJQVogREFMR08xHDAaBgNVBGEME1ZBVEVDLTE3OTIxNDE0ODYw
+MDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCgTY4vOKJsKnRyfQWAA+INuMWsI+Xj
+dcCpEO7VufnPuBZydwaxntSR5YbVbdPwhxMTDa63jYb1mSWItUlaKGeAOuAZ/7VI4eGzv5tY6liq
+b0LoYZb4kbzB3kJPnOFGbWS5mJGg/8NoZi2uhR7VGB4HinAPP8SEwQEyTz8I4QuaClbFSGbxTNvS
+3O0+aP9S70UCHXdtiBOLghg/4PDvIwpdvg9iQBgAMEJicnQJUswj4QzB3D9bVk3o6Ek3/nKYJGXJ
+MZUehIXTsVIDj6gQF5atjRMQBetibC95j4leLbgqMR8RoYTtDa1Ph3Vb8iJsErry8ZIXBJISa164
+/mBPbgI5AgMBAAGjggSiMIIEnjCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6
+Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9y
+ZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMv
+cGtpL29jc3AvMB0GA1UdDgQWBBSuy1m4kwmpNbETyc4nlRrOM+kCfzAMBgNVHRMBAf8EAjAAMB8G
+A1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGxBgNVHSAEgakwgaYwgaMGDCsGAQQBgvE2
+ZgICATCBkjA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kv
+ZHBjLWVjLzBXBggrBgEFBQcCAjBLDElDRVJUSUZJQ0FETyBERSBNSUVNQlJPIERFIEVNUFJFU0Eg
+TyBFTiBSRUxBQ0lPTiBERSBERVBFTkRFTkNJQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+
+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFk
+YS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJz
+dWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEF
+BQcDBDCCAf0GA1UdEQSCAfQwggHwgRVkaWVnby5kaWF6QGtmYy5jb20uZWOgGwYLKwYBBAGC8TZm
+AwGgDAwKMTcxMzM0MTQyNqAfBgsrBgEEAYLxNmYDAqAQDA5ESUVHTyBNQVVSSUNJT6AVBgsrBgEE
+AYLxNmYDA6AGDARESUFaoBYGCysGAQQBgvE2ZgMEoAcMBURBTEdPoCEGCysGAQQBgvE2ZgMFoBIM
+EENPTlRBRE9SIEdFTkVSQUygKQYLKwYBBAGC8TZmAwegGgwYQ09SRUEgMTI2IFkgQVYuIEFNQVpP
+TkFToB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTk0MDAyNDk2oBYGCysGAQQBgvE2ZgMJoAcMBVFV
+SVRPoFIGCysGAQQBgvE2ZgMKoEMMQVBST01PVE9SQSBFQ1VBVE9SSUFOQSBERSBDQUZFIERFIENP
+TE9NQklBIFMuQS4gUFJPQ0FGRUNPTCBFQ1VBRE9SoB4GCysGAQQBgvE2ZgMLoA8MDTE3OTIxNDE0
+ODYwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgQAYLKwYBBAGC8TZmAzKgMQwvTUlFTUJSTyBERSBF
+TVBSRVNBIE8gRU4gUkVMQUNJT04gREUgREVQRU5ERU5DSUGgGAYLKwYBBAGC8TZmAzOgCQwHQVJD
+SElWTzANBgkqhkiG9w0BAQsFAAOCAgEAiwAnNd3yK2JqhAb05kTYv9fy5ttAQqz8t4Ytp/916ZAs
+7VWbSVmMQ9y/qPhtSSJ54UYmfIPHbkphfb+dG85ZeJ4WF9XA0o9ZhBaGjNkDTnjDcpzn08j2X58p
+DlzpbZxPRje9+Hqf4M6fpdnsAOcIDKjg5AiqJpPdthOAD+LJo3XtoqvgDr3q2a89EBner183negn
+u7AqJtirSN5DOHDyfWiKbRZ4I1N6FMAzZbxm1TTsov9ZWsc2i+ihRjaDHODHe+J780CzU0xaXWgD
+VktVNCElhMvziGnFIdcxvKqhcJmstzsnUGxx6ye6fXd1Far8KkA1t6Ytab4g3pQSnbTBZWD1Rz6+
+Rj4h0RNrAHgdb1BUQliuxi+CwuLkLMfZAxQKlJZclztdop9bMBLCp/BZTFCcyxp9Ccbe0Vypm73y
+uFAHi2Lc3JzJb5t4utfP1ROUkSoO2mmmhf+OTO6CxoHzX4ermLEkw4gqzTBY8fFzc/PbT6V2jJqL
+uACDxyGW/D8yw67DhFcE8vOjAMWKduHzTmOEcRYM/qcv5VMnUeJkJy7uUV4sNq99TnKtaT+9wiX8
+7RY7PHUCFb7QcaNpxOOhUG0Nf7Y305cIB6eW8egO9r4zQrwwpos5KgIbuzum7N8f6DFA4ERA+PsT
+A+50WqVrTf4NHzqv+lj1K6g6DSUcrms=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oE2OLziibCp0cn0FgAPiDbjFrCPl43XAqRDu1bn5z7gWcncGsZ7UkeWG1W3T8IcTEw2ut42G9Zkl
+iLVJWihngDrgGf+1SOHhs7+bWOpYqm9C6GGW+JG8wd5CT5zhRm1kuZiRoP/DaGYtroUe1RgeB4pw
+Dz/EhMEBMk8/COELmgpWxUhm8Uzb0tztPmj/Uu9FAh13bYgTi4IYP+Dw7yMKXb4PYkAYADBCYnJ0
+CVLMI+EMwdw/W1ZN6OhJN/5ymCRlyTGVHoSF07FSA4+oEBeWrY0TEAXrYmwveY+JXi24KjEfEaGE
+7Q2tT4d1W/IibBK68vGSFwSSEmteuP5gT24COQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature883893-Object267196"><etsi:QualifyingProperties Target="#Signature883893"><etsi:SignedProperties Id="Signature883893-SignedProperties403925"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-06-26T00:47:47-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Jgvua2jizhEDwYlK+wheIqRkz6I=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1304909412688912594</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-408564"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

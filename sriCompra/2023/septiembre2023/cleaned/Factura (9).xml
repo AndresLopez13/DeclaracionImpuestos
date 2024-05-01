@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0509202301010269195300120040020000007789846951115</numeroAutorizacion>
+<fechaAutorizacion>2023-09-05T20:34:29-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>VASQUEZ ESPINOZA MARIA DEL CARMEN</razonSocial>
+    <nombreComercial>VASQUEZ ESPINOZA MARIA DEL CARMEN</nombreComercial>
+    <ruc>0102691953001</ruc>
+    <claveAcceso>0509202301010269195300120040020000007789846951115</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>004</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000000778</secuencial>
+    <dirMatriz>GRAN COLOMBIA #12-104 Y JUAN MONTALVO / SAN SEBASTIAN / CUENCA / AZUAY</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>05/09/2023</fechaEmision>
+    <dirEstablecimiento>GRAN COLOMBIA #12-104 Y JUAN MONTALVO / SAN SEBASTIAN / CUENCA / AZUAY</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>LOPEZ MONTIEL STALIN NARCISO</razonSocialComprador>
+    <identificacionComprador>0914552849</identificacionComprador>
+    <direccionComprador>ARTURO BORJA #N2-08 Y MANOSALVAS, QUITO DISTRITO METROPOLITANO</direccionComprador>
+    <totalSinImpuestos>35.71</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>35.71</baseImponible>
+        <valor>4.29</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>40.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>40.00</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>HBT 2</codigoPrincipal>
+      <descripcion>HABITACION MATRIMONIAL</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>35.710000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>35.71</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>35.71</baseImponible>
+          <valor>4.29</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">ARTURO BORJA #N2-08 Y MANOSALVAS, QUITO DISTRITO METROPOLITANO</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0997699575</campoAdicional>
+    <campoAdicional nombre="EMAIL">stalin.lopez@hotmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature789978">
+<ds:SignedInfo Id="Signature-SignedInfo249878">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID218326" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature789978-SignedProperties1007964">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1FJbIOUessoe3TchKNC6gV5BsWM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1323125">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>9TGqUtwpMrcOw5j8edKBN3O5krk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-790192" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>QQF30uHHwPPmtHnxR8SPwhPrtMA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue824582">
+dTJi5HkO55N8J0mnM/UYhcmV0MULUGM+Zc8DR+Fo4iaSshkVxsIEtmvmFZmaKR+raGIISJiaCbm9
+cNCModZQlJirqspycqGMg5TUotD+yAf21/WDdxx9TDYgYyOiV18j3ru7NdLVoVkeeeoT27Rw9oOf
+XtPZw5vL9rGyj5nU8lB37SnV4xgtw9NClVLk9xLGlAY2SQHe8TJ9rx4z1LnWLicqoxMtMIh/3foc
+/i6IQ5uefPpbEoU0dWdf8jrljbNZ+OGnThRudOjCw1iAvXLg997pIgciJVdg1X2y6Ka7eh/+oX8N
+ZULjX1JReNlhtkzUTeAbCw0mEKH32K+vdXp6pA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1323125">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJWjCCB0KgAwIBAgIIbDLSlvbozVAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDYxMDE5NTMwMFoXDTI0MDYwOTE5NTMwMFowgagxCzAJBgNVBAYTAkVDMRkwFwYDVQQEDBBW
+QVNRVUVaIEVTUElOT1pBMRkwFwYDVQQqDBBNQVJJQSBERUwgQ0FSTUVOMRkwFwYDVQQFExBJRENF
+Qy0wMTAyNjkxOTUzMSowKAYDVQQDDCFNQVJJQSBERUwgQ0FSTUVOIFZBU1FVRVogRVNQSU5PWkEx
+HDAaBgNVBGEME1RJTkVDLTAxMDI2OTE5NTMwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQCJQpceDjnTmgNcRacaRyGpbxU7OywQjyAaKnnTHLamHJJEkoId4brmh/AhJiu0RbzdGuFw
+8KpqEJOGHTLqrdZtOo/2kbvZ9eVI26AgiwxoHUxyuyjX8kVR4eNL+ZR+IEMDDeI8AQRjOPboT7+X
+Rdwti5GqEd8UgXpNC7BtYjpdF5h394027HIgblt9NXazRlHsTCCrTE2iikweY07dGA92Z6Gw455g
+JCY6nL2UyJxEo1yKMq9pkep8Kyf8rwWYERkFfAXGnrw9MnJjf3QCJba1SmfWb87FfxAv51aaX+n/
+YmduxzXQpb3ZqZs+qj3fh2/2W1P9oVnAX/ZMm+5r+uW7AgMBAAGjggR0MIIEcDAbBgsrBgEEAYLx
+NmYDAQQMDAowMTAyNjkxOTUzMB4GCysGAQQBgvE2ZgMLBA8MDTAxMDI2OTE5NTMwMDEwgdcGCCsG
+AQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMv
+ZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipo
+dHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0
+dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQU7qQ+PV5W
+X8fMX+wGWx/YKXCtljswDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGy
+dJJz/TCBmQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6
+Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJU
+SUZJQ0FETyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGH
+MIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vi
+b3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9j
+cmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcD
+AgYIKwYBBQUHAwQwggGqBgNVHREEggGhMIIBnYEZZmFjdHVyYWNpb25odHBqQGdtYWlsLmNvbaAb
+BgsrBgEEAYLxNmYDAaAMDAowMTAyNjkxOTUzoCEGCysGAQQBgvE2ZgMCoBIMEE1BUklBIERFTCBD
+QVJNRU6gGAYLKwYBBAGC8TZmAwOgCQwHVkFTUVVFWqAZBgsrBgEEAYLxNmYDBKAKDAhFU1BJTk9a
+QaBXBgsrBgEEAYLxNmYDB6BIDEZHUkFOIENPTE9NQklBICMxMi0xMDQgWSBKVUFOIE1PTlRBTFZP
+IC8gU0FOIFNFQkFTVElBTiAvIENVRU5DQSAvIEFaVUFZoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkz
+OTg3MTMyMzgwoBcGCysGAQQBgvE2ZgMJoAgMBkNVRU5DQaAeBgsrBgEEAYLxNmYDC6APDA0wMTAy
+NjkxOTUzMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEg
+TkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUA
+A4ICAQAUbQUniVDct8+SE/CwcvaUtleRcbw3uKxPiOem53QLe0oi0Wm1ZSRJ4cjdoBerEbwVNsLi
+LiVdgQn0yD5FAxNXwex5w8WxMXjsMuTL/9jpFEiQGXr+dEMotRECuiGYh18lJt9/ufaEflLhroRQ
+ZylrI5UH8DgtOCw+CKGe1nDOcaivMnRfqbXTbxHspXs+Mh3BTOHvSDZ0WiesnwCqzYj4T3rJuXKG
+0fni5T6jqx9H3U9M/wWYE+zNGv/FzgC7rtMAFucIGcEcCzC1BJ9eG0dTKhvP4rNq0SE0Bz8Wmq3r
+YChtI+8Pexk2eUTH2QK5t8/ZMyo/BpYSNNxt02kkIZKriJTjldajfujFOqEX6cBKzSZADG2dryPU
+/9AGEyEhCevBcWETKVqdR+W0gildsblkC3TKQsOsDbKHtyVeuPoACP9Q6QvdPlIide0j8tIjtI5t
+FC8noGwPZuL7gunpCc2PGEBnM9lGljT2GHJ+rtp5KVE3lsvUGF34nLiYIx0fIFGq6LQFX6vHWn86
+bkARS1QCSiGJBs7PuBCGZ35RdcZsPVEcve0y5/4vS3HCKw6/gE1zPehkLgDMyH1EiGBlbFLl4fJ4
+MyNtK7EsCym6I9fnY2+Ue5CiUZEMfBSUSoIzy284VqnCM2cj/P4V8FYoZNx3RvL7GaaZh5F5x0/i
+sQsepQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iUKXHg4505oDXEWnGkchqW8VOzssEI8gGip50xy2phySRJKCHeG65ofwISYrtEW83RrhcPCqahCT
+hh0y6q3WbTqP9pG72fXlSNugIIsMaB1Mcrso1/JFUeHjS/mUfiBDAw3iPAEEYzj26E+/l0XcLYuR
+qhHfFIF6TQuwbWI6XReYd/eNNuxyIG5bfTV2s0ZR7Ewgq0xNoopMHmNO3RgPdmehsOOeYCQmOpy9
+lMicRKNcijKvaZHqfCsn/K8FmBEZBXwFxp68PTJyY390AiW2tUpn1m/OxX8QL+dWml/p/2Jnbsc1
+0KW92ambPqo934dv9ltT/aFZwF/2TJvua/rluw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature789978-Object451271"><etsi:QualifyingProperties Target="#Signature789978"><etsi:SignedProperties Id="Signature789978-SignedProperties1007964"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-09-05T20:34:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>kVZiCo7PDgMH3NKAcpiC6YjdOqU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7796525450761129296</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-790192"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

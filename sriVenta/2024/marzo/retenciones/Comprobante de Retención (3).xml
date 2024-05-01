@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1203202407179215520700120010010000183300000000115</numeroAutorizacion>
+<fechaAutorizacion>2024-03-18T11:52:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<comprobanteRetencion id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>IMAGENCOLOR CIA LTDA</razonSocial>
+        <nombreComercial>IMAGENCOLOR CIA LTDA</nombreComercial>
+        <ruc>1792155207001</ruc>
+        <claveAcceso>1203202407179215520700120010010000183300000000115</claveAcceso>
+        <codDoc>07</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000018330</secuencial>
+        <dirMatriz>AV AMAZONAS N 35 13 JUAN PABLO SANZ</dirMatriz>  </infoTributaria>
+<infoCompRetencion>
+        <fechaEmision>12/03/2024</fechaEmision>
+        <dirEstablecimiento>AV AMAZONAS N3513 Y JUAN PABLO SANZ</dirEstablecimiento>        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+        <razonSocialSujetoRetenido>LOPEZ MONTIEL STALIN NARCISO</razonSocialSujetoRetenido>
+        <identificacionSujetoRetenido>0914552849001</identificacionSujetoRetenido>
+<periodoFiscal>03/2024</periodoFiscal>
+</infoCompRetencion>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoRetencion>2</codigoRetencion>
+<baseImponible>6.00</baseImponible>
+<porcentajeRetener>70</porcentajeRetener>
+<valorRetenido>4.20</valorRetenido>
+<codDocSustento>01</codDocSustento>
+<numDocSustento>001100000000239</numDocSustento>
+<fechaEmisionDocSustento>12/03/2024</fechaEmisionDocSustento>
+</impuesto>
+<impuesto>
+<codigo>1</codigo>
+<codigoRetencion>343</codigoRetencion>
+<baseImponible>50.00</baseImponible>
+<porcentajeRetener>1.00</porcentajeRetener>
+<valorRetenido>0.50</valorRetenido>
+<codDocSustento>01</codDocSustento>
+<numDocSustento>001100000000239</numDocSustento>
+<fechaEmisionDocSustento>12/03/2024</fechaEmisionDocSustento>
+</impuesto>
+ 
+</impuestos>
+    <infoAdicional>
+        <campoAdicional nombre="eMail">stalin.lopez@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Sistema">FenixPRO</campoAdicional>
+        <campoAdicional nombre="Telefono">022469411</campoAdicional>
+        <campoAdicional nombre="Correo">info@megadocucentro.com</campoAdicional>
+        <campoAdicional nombre="Agente de Retencion">Resolucion No 1</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature970200"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-769405" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>LhWocz88UNu65CqRnsejb+oAutg=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate582588"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>mpLCpZKEAfeEJRARftDhBt/YYOI=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID207774" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature970200-SignedProperties373446"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>YiE0pUkq8CY6AHlrKGx7y1L3/fI=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue908161">ENOz08UXUOI/EcQwL5tCEdJIXiDaSLKlxgNnHvVsGwg2SbDC3sF5XksbnZVBoXVNPrLjRsWxIpl3XceG3XcaC6o92cFyuSJJeany28Q2schUc6aqyIGSNyoNtjIA7eaubXZQCv007Y3WyOET7oB3ghrOUX9w9cmtna5jO4Eba5UtAIaXPMjLprbI6o3J68ERhBoRRuT51hmNV4N5wrDL5ostUIep5f7UKs8D/nQNNZ+XWbCXDgpPlt8kJDoleSZxx/9aJpYDOn6Sum2vNMqIfpspx53QYygT23c96yJdpkZINm7wDtfiEihbKbRE7d/L/Wjl5V/ggK/OaJpJh4CVlw==</ds:SignatureValue><ds:KeyInfo Id="Certificate582588"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>kWYEAAzCKOrWwoRBkh+tyElRnIUICTHmYxWgRy40CXnySqi7e82Bs1h1KGgUAu2e2oWqI04Qa50YcjBCvy2pbk5sq/V6eDSFAkr9qKyKzfup2NBEW62DNUyyO0XT0VaV8EgdKwihWzNo6/F60a7cxyllz4uK/i7IpsF7dJ/nUC/OUJLbY98H/5JD3OGMgsqDjiszn6eBqm6l2IozkrEVow2RF3CkcFojbV6Us1Ax6LL72QtaDa8j5jVBV97lMjrev5zpEzdgVB86dE8/nNfvlU1Db3Ntu1vYz+fLasSgRpJH6dNqP83d03JuDi7BZ9Uyi948wLUwaD+cvV1+TdwgCQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature970200-Object955657"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature970200"><etsi:SignedProperties Id="Signature970200-SignedProperties373446"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-03-18T11:52:15-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>j1yrshY5wm3Voq/Q9xsu+xjR/P0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>7246371351576617990</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-769405"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></comprobanteRetencion>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

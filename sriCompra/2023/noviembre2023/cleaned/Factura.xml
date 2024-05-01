@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0111202301170877069600120010020000023329846951119</numeroAutorizacion>
+<fechaAutorizacion>2023-11-12T11:52:39-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>HINOJOSA TAMAYO JUDITH ELENA</razonSocial>
+    <nombreComercial>FERRETERIA UNIVERSO JUNIOR</nombreComercial>
+    <ruc>1708770696001</ruc>
+    <claveAcceso>0111202301170877069600120010020000023329846951119</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000002332</secuencial>
+    <dirMatriz>VALPARAISO #N2-61 Y JOSE AGUIRRE / CENTRO HISTÓRICO / QUITO / PICHINCHA</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/11/2023</fechaEmision>
+    <dirEstablecimiento>VALPARAISO #N2-61 Y JOSE AGUIRRE / CENTRO HISTÓRICO / QUITO / PICHINCHA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>LOPEZ MONTIEL STALIN NARCISO</razonSocialComprador>
+    <identificacionComprador>0914552849</identificacionComprador>
+    <direccionComprador>ARTURO BORJA #N2-08 Y MANOSALVAS, QUITO DISTRITO METROPOLITANO</direccionComprador>
+    <totalSinImpuestos>15.93</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>15.93</baseImponible>
+        <valor>1.92</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>17.84</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>17.84</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>29010</codigoPrincipal>
+      <codigoAuxiliar>1007  28/09/2023</codigoAuxiliar>
+      <descripcion>PLMX CODO DE 1/2 X 90 COD.:167037</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>0.491100</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>0.98</baseImponible>
+          <valor>0.12</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>22600</codigoPrincipal>
+      <codigoAuxiliar>1001  26/10/2023</codigoAuxiliar>
+      <descripcion>FV LLAVE PASO 1/2" REFORZAD BRONCE 471.04   181129</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>10.267857</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.27</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>10.27</baseImponible>
+          <valor>1.23</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>12874</codigoPrincipal>
+      <codigoAuxiliar>1027</codigoAuxiliar>
+      <descripcion>BISAGRA DORADA REFORZADA 2 1/2" PAR</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>0.535700</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.07</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>1.07</baseImponible>
+          <valor>0.13</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>33450</codigoPrincipal>
+      <codigoAuxiliar>1006  25/10/2023</codigoAuxiliar>
+      <descripcion>TORNILLO AGLOMERADO MDF 7 X 1 1/4" ()</descripcion>
+      <cantidad>18.000000</cantidad>
+      <precioUnitario>0.026780</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.48</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>0.48</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>35598</codigoPrincipal>
+      <codigoAuxiliar>1039     21/08/2023</codigoAuxiliar>
+      <descripcion>UNIDAS UNICOLATEX BLANCO LT</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.125000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.13</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>3.13</baseImponible>
+          <valor>0.38</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">ARTURO BORJA #N2-08 Y MANOSALVAS, QUITO DISTRITO METROPOLITANO</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0997699575</campoAdicional>
+    <campoAdicional nombre="EMAIL">stalin.lopez@hotmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature799446">
+<ds:SignedInfo Id="Signature-SignedInfo850675">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID355328" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature799446-SignedProperties498070">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>BgEOenl4KQ4TVW4aGYYCXIuebuA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1675495">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>gEIvhOeB0qvqxuUhulOW8AhlB/E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-597360" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>c894/cjktlyNo7ibyYFKrvOAVRU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue717272">
+NcIuhz5j97dYybVYTiJ00plb55rUxxU9af0507xVAvA+3WJINEJop0G4NnULm0baUofI1S43F9sJ
+2VbOgjPZUGYS0PCRE+6DbCc5d3nZo0KWnywtpQZZ1Du6obA4xiuoIumLcEDF4mTMOYugjvySRUMb
+lhpVGk5QQvZHzo0pQDNJICUHlU1AASylkX8//8bCCCOvxbPliz1XHSFMjBMeMUQ41s33F7rMOndy
+FQXqLlRYWXLfkORgFQciKJuaA6JVt9Tg9WD02QO1Uz8q6TcRsLoEQQw7aD8HhkbygggzQ+DRPBVi
+9yRAiy/739D9jiK0pVIouWXwzjh/2wnbu+uGYA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1675495">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJTTCCBzWgAwIBAgIIE1tn+LLTqxAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTIwOTE4MDIwMFoXDTIzMTIwOTE4MDIwMFowgZ4xCzAJBgNVBAYTAkVDMRgwFgYDVQQEDA9I
+SU5PSk9TQSBUQU1BWU8xFTATBgNVBCoMDEpVRElUSCBFTEVOQTEZMBcGA1UEBRMQSURDRUMtMTcw
+ODc3MDY5NjElMCMGA1UEAwwcSlVESVRIIEVMRU5BIEhJTk9KT1NBIFRBTUFZTzEcMBoGA1UEYQwT
+VElORUMtMTcwODc3MDY5NjAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ2f4qUg
+LxuJeGarnHnlY0wgtxKd+S6vhy+f+icB+oOl8sm4xgghRgMjIAy3ZmY3ZnyDPWp7ozVHUggUgFAz
+dBqg1XpmjJ+94oXf+kJsqXw0bxrGTtC+legEIKahHVmWe8A9c+c5WcRicmensvVj+mbmr2OE6mBg
+k6sizvCiyDCT3Pac5DYk9PBoGHwitgGx//9FMNrtmoQAp5/o3sQnP/LtJPsiTq+yLy7AbGJ9xJ4f
+DQpIkPs4SBG5s0U+z3lyBilXRRjgIhvhdGP5R/GASvT+NYTPvzc9tCp27GLQoTkjD5ZeHz/v9BUi
+KVfuq+HsXVWnbmE9BErkun0DjVmXWTMCAwEAAaOCBHEwggRtMBsGCysGAQQBgvE2ZgMBBAwMCjE3
+MDg3NzA2OTYwHgYLKwYBBAGC8TZmAwsEDwwNMTcwODc3MDY5NjAwMTCB1wYIKwYBBQUHAQEEgcow
+gccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90
+c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ay
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQ2lO+wTyt10yvGn015XK9I
+OSfmjDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGZBgNV
+HSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklDQURPIERF
+IFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyG
+Omh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJv
+cmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDCCAacGA1UdEQSCAZ4wggGagRxmZXJyZV91bml2ZXJzb2pyQGhvdG1haWwuY29toBsGCysGAQQB
+gvE2ZgMBoAwMCjE3MDg3NzA2OTagHQYLKwYBBAGC8TZmAwKgDgwMSlVESVRIIEVMRU5BoBkGCysG
+AQQBgvE2ZgMDoAoMCEhJTk9KT1NBoBcGCysGAQQBgvE2ZgMEoAgMBlRBTUFZT6BXBgsrBgEEAYLx
+NmYDB6BIDEZWQUxQQVJBSVNPICNOMi02MSBZIEpPU0UgQUdVSVJSRSAvIENFTlRSTyBISVNUUklD
+TyAvIFFVSVRPIC8gUElDSElOQ0hBoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTc5MTA0MzI5oBYG
+CysGAQQBgvE2ZgMJoAcMBVFVSVRPoB4GCysGAQQBgvE2ZgMLoA8MDTE3MDg3NzA2OTYwMDGgEwYL
+KwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZmAzKgGgwYUEVSU09OQSBOQVRVUkFMIE8gRklT
+SUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBAFQiLAwLj0oG
+geFOb80jGn/yXEIMCAWCCoDQV/gxdTT/0XIrB0fIzdQBgM1nJ0AKzJ+FqQ81ib5QE6NGwyRVNRRp
+v80w6nH/tq0xRui4FeHxIPcheXv2QVinDhLPATFSN2MLi8TvQjh3NmDYa0ikzljhuMcJuOfyu7IU
+4f9knS+rj0IeRhzI26VxMDk02Bn/0pU89929X5HsoRf5uMiLBU3q3Y0sOGDkZgMrO1jsYgho/CMg
+76n/+MD7oKaRkgoJeA8vIqcriYaQE9g36aALEUT6vb60AeBM+OuOh5UG9TED8jaajTTy59rWpaHy
+Bt+fWwrT1lfgLcfv7jV5B6LlbbJjkDW/AF6C2mSIrCpCuhZqoTr3/Z8nDq/sdQGyR7iZl8ZS7clf
++1tZIyAaEwNvPhVJsHp22DjBVD0eT7x+uXoEzdF0dFRYKc0rsp2e8tpxPJraB2MvUhBL9rwdKNhg
+CEumO3E85IUaITg7NniMdMoyUp8Aatu6VCessaF9oyQ53Rr+guMWNHdFw1CGMGiHtezCrLOSbJ5q
+xB29qOFCizA4KeSMJuoWkEU2+z348JaKDqpfj5+J6bEk+XNJ5IIrDWFdfME94/RH6tm9T30Ujw5X
+NAWDD3Db+bWafXzvUWLtB9gyh0F3Sf1i34b/7DOzD3dGkOyMAG6yzx4ryP+7UYAR
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nZ/ipSAvG4l4ZquceeVjTCC3Ep35Lq+HL5/6JwH6g6XyybjGCCFGAyMgDLdmZjdmfIM9anujNUdS
+CBSAUDN0GqDVemaMn73ihd/6QmypfDRvGsZO0L6V6AQgpqEdWZZ7wD1z5zlZxGJyZ6ey9WP6Zuav
+Y4TqYGCTqyLO8KLIMJPc9pzkNiT08GgYfCK2AbH//0Uw2u2ahACnn+jexCc/8u0k+yJOr7IvLsBs
+Yn3Enh8NCkiQ+zhIEbmzRT7PeXIGKVdFGOAiG+F0Y/lH8YBK9P41hM+/Nz20KnbsYtChOSMPll4f
+P+/0FSIpV+6r4exdVaduYT0ESuS6fQONWZdZMw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature799446-Object926606"><etsi:QualifyingProperties Target="#Signature799446"><etsi:SignedProperties Id="Signature799446-SignedProperties498070"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-11-12T11:52:34-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>VzQRAZCimXbHKyYjxr3zj9LPsls=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1394822827451067152</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-597360"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

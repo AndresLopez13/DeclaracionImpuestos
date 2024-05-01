@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1802202301179212891900120010090008367470083674719</numeroAutorizacion>
+<fechaAutorizacion>2023-02-18T20:53:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>ALOAGAS CIA LTDA FacturaElectronicaEcuador.com</razonSocial><nombreComercial>PETROCOMERCIAL ALOAG</nombreComercial><ruc>1792128919001</ruc><claveAcceso>1802202301179212891900120010090008367470083674719</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>009</ptoEmi><secuencial>000836747</secuencial><dirMatriz>KM 36 VIA A LATACUNGA AV PANAMERICANA SUR SN</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura>
+		<fechaEmision>18/02/2023</fechaEmision><dirEstablecimiento>KM 36 VIA A LATACUNGA AV PANAMERICANA SUR SN</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>STALIN LOPEZ</razonSocialComprador><identificacionComprador>0914552849001</identificacionComprador><totalSinImpuestos>32.14</totalSinImpuestos><totalSubsidio>5.18</totalSubsidio><totalDescuento>0.00</totalDescuento><totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><descuentoAdicional>0</descuentoAdicional><baseImponible>32.14</baseImponible><tarifa>12</tarifa><valor>3.86</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>36.00</importeTotal><moneda>DOLAR</moneda><placa>PCB6634</placa><pagos>
+			<pago>
+				<formaPago>01</formaPago><total>36.00</total></pago></pagos></infoFactura><detalles>
+		<detalle>
+			<codigoPrincipal>0101</codigoPrincipal><codigoAuxiliar>0101</codigoAuxiliar><descripcion>EXTRA</descripcion><cantidad>15.002000</cantidad><precioUnitario>2.142857</precioUnitario><precioSinSubsidio>2.488</precioSinSubsidio><descuento>0</descuento><precioTotalSinImpuesto>32.15</precioTotalSinImpuesto><detallesAdicionales>
+				<detAdicional nombre="Unidad" valor="GLS"/><detAdicional nombre="Maquina" valor="C12"/><detAdicional nombre="Despachado por" valor="008 - SEBASTIAN CORO"/></detallesAdicionales><impuestos>
+				<impuesto>
+					<codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>32.14</baseImponible><valor>3.86</valor></impuesto></impuestos></detalle></detalles><infoAdicional>
+		<campoAdicional nombre="Correo">sinenviar</campoAdicional><campoAdicional nombre="Despacho">2023-02-18T20:53:28</campoAdicional><campoAdicional nombre="Embarcacion">ninguna</campoAdicional><campoAdicional nombre="Placas Adicionales">.NULL.</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="SignatureN0"><ds:SignedInfo Id="Signature-SignedInfo379688"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedPropertiesID429911" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignatureN0-SignedPropertiesN0"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ewuu5kKs06z9ebVWK8zLLvVvaLA=</ds:DigestValue></ds:Reference><ds:Reference URI="#CertificateN0"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>iSWf6cOoYok7QJLSOacLZWVCzQk=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-N0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ny03NPsc4lNVgitG1VzZXxzTl6I=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValueN0">fUK9LETuJ9t0xykWqUK1fyK0JF1Wfl3Mfr/eImMhCjaOTwsRrXAnA21u+l4NLcrL
++Rrp5D7XoaDLc595AvGyZIAaavPMo9BPGnWogXAfQgLuwFiqTGLvGlrv2xTzCrLI
+gA1PpKBDzAp2hKEpqCLIVG9A8x8exPDmcwy4tGQCYT00uefUxNQqukTKqQ1KMS+1
+jfqHRbIdfuuaiyixtZU2tsXt5LcOMhFvUaOPd74j2A3ZLhTci7KfQMG4uObCN1q9
+klEhl5BvdHcR+LtOfRIFh33FFRY5aiGBguW/JUDnGm+GHWn9DQVPZ7AeRUdhYYAo
+Cuablopus+Exxrj/Y1OF0Q==</ds:SignatureValue><ds:KeyInfo Id="CertificateN0"><ds:X509Data><ds:X509Certificate>MIIJ+TCCB+GgAwIBAgIEW2ukfzANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMC
+RUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsT
+LkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0Ux
+DjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBF
+Q1VBRE9SMB4XDTIyMDEwNjE0MDgyNFoXDTI0MDEwNjE0MzgyNFowgbcxCzAJBgNV
+BAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYD
+VQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJ
+QkNFMQ4wDAYDVQQHEwVRVUlUTzE7MBEGA1UEBRMKMDAwMDQzMDgyNDAmBgNVBAMT
+H01BTlVFTCBGUkVEWSBTQU5UQU1BUklBIEJPTklMTEEwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCu5/3heszkICvbfiVtnbn7fUJqT0YFaH/SP1m3wDIp
+BAntJOn2UACwtYOEC/kRAWJ1uVJVuJKb1N0waxvAcYRY3S82A/khb2OAUSpA6rPO
+C8deTB6RJOyCwdZOs6XvpQj1yHWF5cEQ+qdJFDdiyjbbny32W0k5lQ5Zin/sNOjK
+6jVpff8oyozz5FOkx/TfCWF1bDS73oWveu7mhm39+uPSNilughO/zceMLTstZ4bo
+90Zq7+dmor0Y3ll0eYpzHgc1VdwUgN4iiIf0WVVunVjyiAZ4PWBNHTTP79iJlOUZ
+yhPVQohw51xGpHP8pQBIOyJNuGlTE2PNLmrzLLZNFoybAgMBAAGjggUfMIIFGzAL
+BgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBcBgsrBgEEAYKoOwICATBNMEsGCCsGAQUF
+BwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRpY2EtY2VydGlmaWNhZG8v
+cGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsGAQUF
+BzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0
+dXMvb2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCMGCisGAQQBgqg7AwoEFRMTQUxPQUdB
+UyBDSUEgTFREQUxPQTAdBgorBgEEAYKoOwMLBA8TDTE3OTIxMjg5MTkwMDEwGgYK
+KwYBBAGCqDsDAQQMEwoxNzA2NTU4NzM5MBwGCisGAQQBgqg7AwIEDhMMTUFOVUVM
+IEZSRURZMBoGCisGAQQBgqg7AwMEDBMKU0FOVEFNQVJJQTAXBgorBgEEAYKoOwME
+BAkTB0JPTklMTEEwHwYKKwYBBAGCqDsDBQQREw9HRVJFTlRFIEdFTkVSQUwwNAYK
+KwYBBAGCqDsDBwQmEyRBViBQQU5BRVJJQ0FOQSBTVVIgU04gWSBLSUxPTUVUUk8g
+MzYwGQYKKwYBBAGCqDsDCAQLEwkwMjM2NzI0NDQwFQYKKwYBBAGCqDsDCQQHEwVN
+ZWppYTAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBT
+T0ZUV0FSRS1BUkNISVZPMCAGA1UdEQQZMBeBFXNhbnQuZnJlZGR5QGdtYWlsLmNv
+bTCCAeEGA1UdHwSCAdgwggHUMIIB0KCCAcygggHIhoHWbGRhcDovL2JjZXFsZGFw
+c3VicDEuYmNlLmVjL2NuPUNSTDE0MDYsY249QUMlMjBCQU5DTyUyMENFTlRSQUwl
+MjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElG
+SUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5U
+UkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxp
+c3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2Ny
+bGZpbGVjb21iLmNybKSBtjCBszELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNP
+IENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUw
+IwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdD
+UkwxNDA2MCsGA1UdEAQkMCKADzIwMjIwMTA2MTQwODI0WoEPMjAyNDAxMDYxNDM4
+MjRaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBRu
+VpiY2Gq4aEyduatD9Vr2xqVTcTAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAob
+BFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQBEmEeMz/6wF6nkkf70Oyq+fVA1
+qVKnOnVoN0dIZwSc6MKC/LFGjUKfv++VspyUA3lnFoZC/dur9cCZ3ZO4ed1VJZ3U
+fRdIs7QFRHKIalgR71HKgFH4/bUEnpXiEYkYx+fqAcYNT/KF28uZeRVrOtihtq9V
+DKQmenXrbWPkRmXGHR+1ouVLijua3AzkPn8Db842thpTqBD8AnPNxO3xY+A7WtfO
+e0rbdYBWqCWadWGkYL+X/5m5xhIkpFSiQYoFDTy+5G3OtPY7HKn2nOSlcJK+rm4V
+lpn4scDryzU6b4MGaHzGtuAeD9zO9nlEoSGd4+xjLgt5nd2iYmEkErRRJtRyoSbD
+SbS5XFYif2vF0hsMv2o1Ebp/LqrI6Sv+Nwx9iYvk/qv52yY9YB4a3nvSZhV7knpt
+ffCYUn30F+SUKfQRr+D9hePbEHrTiD3VdG6cuR96FAPUMFwDu+U8KbFQcKOx8sQF
+dSALX7PYBunjf8Vb3kuqssN3SvmTZsrA5UK1SeNTp0NTu8hCmj699/OrbeoglgYy
+qM4pYsydwn7XHJBOY1Gk7QZ1OzCp3IDSs9WAYfMkaK79V9/2MwnfvluSmh9TZcAL
+qB5JTLnj92/MPNOkYN6divQDhohkb8fOxjuqYtwSkSknV8E5toJgWI2Sv5bHODhO
+thb+qAzJvMoaPniH6A==</ds:X509Certificate></ds:X509Data><ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ruf94XrM5CAr234lbZ25+31Cak9GBWh/0j9Zt8AyKQQJ7STp9lAAsLWDhAv5EQFi
+dblSVbiSm9TdMGsbwHGEWN0vNgP5IW9jgFEqQOqzzgvHXkwekSTsgsHWTrOl76UI
+9ch1heXBEPqnSRQ3Yso2258t9ltJOZUOWYp/7DToyuo1aX3/KMqM8+RTpMf03wlh
+dWw0u96Fr3ru5oZt/frj0jYpboITv83HjC07LWeG6PdGau/nZqK9GN5ZdHmKcx4H
+NVXcFIDeIoiH9FlVbp1Y8ogGeD1gTR00z+/YiZTlGcoT1UKIcOdcRqRz/KUASDsi
+TbhpUxNjzS5q8yy2TRaMmw==
+</ds:Modulus>
+<ds:Exponent>
+AQAB
+</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue></ds:KeyInfo><ds:Object Id="SignatureN0-ObjectN0"><etsi:QualifyingProperties Target="#SignatureN0"><etsi:SignedProperties Id="SignatureN0-SignedPropertiesN0"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-02-18T20:43:29</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>aTvhygCe69nQg/+2R7wVdv0aDfg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533781119</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-N0"><etsi:Description>documento de ejemplo generado por  FacturaElectronicaEcuador.com</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+
+<mensajes/>
+</autorizacion>
+

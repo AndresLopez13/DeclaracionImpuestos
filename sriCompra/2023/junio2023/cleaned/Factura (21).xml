@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1206202301179185700300120010010000352560003525616</numeroAutorizacion>
+<fechaAutorizacion>2023-06-12T16:08:28-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>Global Graphic Cia Ltda</razonSocial>
+		<nombreComercial>Global Graphic</nombreComercial>
+		<ruc>1791857003001</ruc>
+		<claveAcceso>1206202301179185700300120010010000352560003525616</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000035256</secuencial>
+		<dirMatriz>Isla San Cristobal N41-57 E Isla Floreana</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>12/06/2023</fechaEmision>
+		<dirEstablecimiento>Isla San Cristobal N41-57 E Isla Floreana</dirEstablecimiento>
+		<contribuyenteEspecial>0648E</contribuyenteEspecial>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>Lopez Montiel Stalin Narciso</razonSocialComprador>
+		<identificacionComprador>0914552849001</identificacionComprador>
+		<direccionComprador>Arturo Borja N2-08 Y Manosalvas</direccionComprador>
+		<totalSinImpuestos>149.32</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>
+				<baseImponible>149.32</baseImponible>
+				<valor>17.92</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>167.24</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>167.24</total>
+				<plazo>1</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>013E35431</codigoPrincipal>
+			<descripcion>Fuse Roll Beari</descripcion>
+			<cantidad>4.0000</cantidad>
+			<precioUnitario>37.33000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>149.32</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12</tarifa>
+					<baseImponible>149.32</baseImponible>
+					<valor>17.92</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature642991">
+<ds:SignedInfo Id="Signature-SignedInfo521564">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1017333" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature642991-SignedProperties867021">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>lR6K9efLxPL93Zpr+fi0ubB2qcg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1123601">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ssAFlI8EMF6aNerNQby/5zqWLZ4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-298343" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>VsVvbzikC4kunYTNVqw2CSvugvk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue565492">
+nqhGeUtdLfD2J80m/a0Pm9iZO0piEdBw8l6ZsxeYNaJ3ogYoziHX89af61YTFEbh35ir0SCbMGO6
+yMt4g+6FWLzQx5kv8GEbL2PHM0T48RvEOtTkza6+u/ZDIgpCw9M6sDtgdbJyS+5cHXbj9oLQ4PXk
+4RU6RETMXnen/eubNdehdNX/BVPue/GIieFz0YOanF/bc1Tf+K50qFxW6bBJU+c/bVpXW2Tg3+zX
+CXO+VWn2hVtAGJb+xceHo45NSW7RMOiC1PZG4acVwcl9DIKc3V4oVqpmeG+wYr0DGaOKdpOt20pi
+3CjyrJDb8KJxuEjZXLaKen47PRYi2hWxZwPQTg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1123601">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMGTCCCgGgAwIBAgIEEl4P0zANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEyMDgxNDExMDhaFw0yNDEyMDcxNDExMDhaMIGfMSgw
+JgYDVQQDDB9NQVJDTyBBTlRPTklPIEdVRVZBUkEgTUVSSVpBTERFMRUwEwYDVQQFEwwwODEyMjIw
+OTIwNDcxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAyASacjQMavWoyw1BhrZm5V4Co8OPpXOjdtXgLnfuGWfgd+mgFVs2
+Iog+L1ltd5Xfy4g1RmBrHPdErPvbgG7v8jYTAEGRXOXYQ1cN8oWAai93CscyRJmyWe4wMzsjPAyB
+HxAK2SaHUbNKIlnbkso7791Zsg9fovZ23q9FAhYvE4Oqz/XtbsKp33Tm/PUy/4GyeRQykjgFKWUD
+aUoX495q4YlDTtKTSs81YnRzDiyH1VRMVfuvwg7cGv4zFuZzOGhJa7utT/yIZGsL9+tGrTdrDF3D
++iCb+93+NvDXs9WQNXzFZFM1G6DUnInkTWkKAq8OsWn2wcchEb+xazIJqWmA2wIDAQABo4IHXzCC
+B1swDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEF
+BQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6
+Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25M
+aXN0P2Jhc2UwKAYDVR0RBCEwH4EdbWd1ZXZhcmFAZ2xvYmFsZ3JhcGhpYy5jb20uZWMwggEVBgNV
+HSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkA
+YwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEG
+CisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1Bv
+bGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSC
+ApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQsw
+CQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRw
+czovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+d2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUgX8fILO0
+2xut44kScPD9tNTaanAwKwYDVR0QBCQwIoAPMjAyMjEyMDgxNDExMDhagQ8yMDI0MTIwNzE0MTEw
+OFowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQB
+gqZyAwEEDAwKMTcwNDM4MDA1MjAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZyAyIE
+AwwBLjA5BgorBgEEAYKmcgMHBCsMKUlTTEEgU0FOIENSSVNUT0JBTCBONDEgNTcgWSBJU0xBIEZM
+T1JFQU5BMB0GCisGAQQBgqZyAwIEDwwNTUFSQ08gQU5UT05JTzAfBgorBgEEAYKmcgMgBBEMDzAw
+MjAwMTAwMDUwOTE5MzATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFE
+T1IwFwYKKwYBBAGCpnIDAwQJDAdHVUVWQVJBMCcGCisGAQQBgqZyAwoEGQwXR0xPQkFMIEdSQVBI
+SUMgQ0lBIExUREEwHQYKKwYBBAGCpnIDCwQPDA0xNzkxODU3MDAzMDAxMBIGCisGAQQBgqZyAx0E
+BAwCTm8wGQYKKwYBBAGCpnIDBAQLDAlNRVJJWkFMREUwGwYKKwYBBAGCpnIDCAQNDAs1OTMyMjQ2
+MDIyMDANBgkqhkiG9w0BAQsFAAOCAgEAuenesmiYbv85YSlsIDg0f5xxCLUX0Q/W+SSIupYbhwEr
+/VPnXmhawK+DdAWCfevfy6zP0W9ukgXD+GZ2BgxpnmFXdh+FZFgrCj5B2Lh66orwsgeetoWLLwf3
+ll62siMCdp6TNtHg3PDR/KUcn5Z6E3IYUGx3I0HOtSvlLq9Uzw7/uxmcjm0HMkSitYikn1bwNsCo
+H2BjG8cxoeD41sllH2Ei4KQOeyYfHyoSyJzX39ZuZRWUofPKl3qGL5+l+jBFKnCp04YRQi5zeLdH
+AYMwNFT7yFcWaGq8qNTS9eaAXC7I5enS6gE5R8ntzjcuFhSNPeSP+uOk2Ft/xMKFl009I33IURnp
+CT7N1ClTnNgO/NECfBGu9KXKMH7bxGMOytRjFARu3+6nGKQqpoyOWCuyUFqBwCJp8XUwSeNrevvq
+EASfWhEuOVVHai3NTtcbDizeUoe7CARZObP7IEIfkPo72zeKqN1f36L380CkHuwc95QdxmHRhxpF
+ml4e8fotHrCgBe3URxwHQsh0SCVPUwUQrpyb9TIe80wmc3z9hj2wuUZ067A/vFIeA3v/EPRf9f+Y
+gH/UZy67eqH1IG4nG9egZo9xVX2tzc41ITxWC6HV9jyNVYTKZxdB6PV1whY08DxQ6Uor6Z93FS76
+mvsd9BvADri6kiqSJpgEPw/0M9BjrpQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yASacjQMavWoyw1BhrZm5V4Co8OPpXOjdtXgLnfuGWfgd+mgFVs2Iog+L1ltd5Xfy4g1RmBrHPdE
+rPvbgG7v8jYTAEGRXOXYQ1cN8oWAai93CscyRJmyWe4wMzsjPAyBHxAK2SaHUbNKIlnbkso7791Z
+sg9fovZ23q9FAhYvE4Oqz/XtbsKp33Tm/PUy/4GyeRQykjgFKWUDaUoX495q4YlDTtKTSs81YnRz
+DiyH1VRMVfuvwg7cGv4zFuZzOGhJa7utT/yIZGsL9+tGrTdrDF3D+iCb+93+NvDXs9WQNXzFZFM1
+G6DUnInkTWkKAq8OsWn2wcchEb+xazIJqWmA2w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature642991-Object85726"><etsi:QualifyingProperties Target="#Signature642991"><etsi:SignedProperties Id="Signature642991-SignedProperties867021"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-06-12T16:07:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>v1+EwRxkFW8kt0QOWY3rEPbYoiM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>308154323</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-298343"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2403202401099338589900120932000000015035472138611</numeroAutorizacion>
+<fechaAutorizacion>2024-03-24T12:56:48-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CRESA-RETAIL S.A.S</razonSocial>
+    <nombreComercial>CRESA-RETAIL S.A.S</nombreComercial>
+    <ruc>0993385899001</ruc>
+    <claveAcceso>2403202401099338589900120932000000015035472138611</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>093</estab>
+    <ptoEmi>200</ptoEmi>
+    <secuencial>000001503</secuencial>
+    <dirMatriz>EMILO ROMERO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/03/2024</fechaEmision>
+    <dirEstablecimiento>Calle Fray Gerundio E7-39 y Av. El Tiempo</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>STALIN NARCISO LOPEZ MONTIEL</razonSocialComprador>
+    <identificacionComprador>0914552849</identificacionComprador>
+    <direccionComprador>ARTURO BORJA N2 08 MANOSALVAS</direccionComprador>
+    <totalSinImpuestos>541.84</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>541.84</baseImponible>
+        <tarifa>12.00</tarifa>
+        <valor>65.02</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>606.86</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>606.86</total>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>9952</codigoPrincipal>
+      <codigoAuxiliar>883049388861</codigoAuxiliar>
+      <descripcion>LAVADORA CS WHIRLPOOL 7MWTW1700EM </descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>535.710000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>535.71</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>535.71</baseImponible>
+          <valor>64.29</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>S178</codigoPrincipal>
+      <codigoAuxiliar>2600100013139</codigoAuxiliar>
+      <descripcion>SERVICIO ENTREGA A DOMICILIO ICESA SERV </descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.130000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.13</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>6.13</baseImponible>
+          <valor>0.74</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email">stalynlopez@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Comentarios">MBACASE FC</campoAdicional>
+    <campoAdicional nombre="SUCURSAL">QUITO - ECUADOR - ALMACENES JAPON - JAPON NACIONES UNIDAS IV</campoAdicional>
+    <campoAdicional nombre="TELEFONO">02-2573854</campoAdicional>
+    <campoAdicional nombre="logo">JAPON</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature193949">
+<ds:SignedInfo Id="Signature-SignedInfo604756">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID436646" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature193949-SignedProperties969412">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rUpsA27suHSD1pYlxubONastupQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1754790">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>E7Szm0VWWm14yCnassSU7czwnxY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-523305" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2m5FzhiB/Y/02PsCVvskj7K2O/E=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue956595">
+ebfSVC2c9JMa8WDelmwdNsDdBdT6Kci5UGjVHu3SkQ2GzTjZBUzgllUQS1llWXW1Z9pYhyqgGB6E
+VFnosP0ZbchbShM3AxWUgjrFm1fTDvvFzDIkrL0GgQ586oqGAdI3ELnEA+UKKOpQVCMw7DUUiuEG
+jnbXXBm6Bach6GgXSfOIa+FMfHF7nnxzrMlES9xYjvp6EUE9TTzBM7XkW978iE0PE9F7wGIv358C
+K+txRpf3if6OeUaX+4ejHjAT/Ia7IHpG604Tn6JwbU9Xs07VJBn30cmYGcnGBMFC1MgyUwJfObaH
+kjp38Z7dr3KRIqmVTuHBkvFqwig1hmF/n4IpXw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1754790">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMBDCCCeygAwIBAgIEUHo+QDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzEwMjcyMDU3MDdaFw0yNDEwMjYyMDU3MDdaMIGdMSYw
+JAYDVQQDDB1ST0JFUlRPIEFORFJFUyBDQUxERVJPTiBPUlRJWjEVMBMGA1UEBRMMMjcxMDIzMTYw
+NjU0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAJzLyHENNq2LbySR4amAZcsIkOY7BuzG0LWZ05RT9HxaplQsnsgIXsQn
+0gmNLLa/hDjSmSsjRGbaJ4SAx/tCCMEtUtHuOK7QmeKhFI4suD3DkmHB2QhbA3w783e0SfxuZNkD
+Coqyxjsi8KJPhtm5qWTeL227p/kgRAlSSIOITdc8QgsJkTg/4utAiqreIDEiqRSPfB+6p514hQEF
+lPXxGCVuuhLtO2UhvTMXbZPSsKB6oG1vtlOvfXmmb8diE/6LlouJJnfeUw9esx9wqSMr/5oOLMO4
+TxXkXJ1Zke90lPzfsxeu8TBpIwls87XwihoglufIN1zMoeEu4Kw1sXKxWDMCAwEAAaOCB0wwggdI
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMCEGA1UdEQQaMBiBFnJhY2FsZGVyb244NkBnbWFpbC5jb20wggESBgNVHSAEggEJMIIB
+BTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIE
+MIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29u
+dGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUg
+Q2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGg
+P4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0
+dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCB
+x6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBD
+RVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9j
+ZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1v
+cGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0
+ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0y
+IFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+LE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUT1ekRgM8yG6EYVO6RbNywwF6
+oxYwKwYDVR0QBCQwIoAPMjAyMzEwMjcyMDU3MDdagQ8yMDI0MTAyNjIwNTcwN1owCwYDVR0PBAQD
+AgXgMBgGCisGAQQBgqZyAwUECgwIQ09OVEFET1IwGgYKKwYBBAGCpnIDAQQMDAowOTI1NTQ2NjE2
+MBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZyAyIEAwwBLjA7BgorBgEEAYKm
+cgMHBC0MK0VNSUxJTyBST01FUk8gU09MQVIgMiBZIEFWIEJFTkpBTUlOIENBUlJJT04wHgYKKwYB
+BAGCpnIDAgQQDA5ST0JFUlRPIEFORFJFUzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDQ3NDIz
+MDATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYKKwYBBAGC
+pnIDAwQKDAhDQUxERVJPTjAiBgorBgEEAYKmcgMKBBQMEkNSRVNBIFJFVEFJTCBTIEEgUzAdBgor
+BgEEAYKmcgMLBA8MDTA5OTMzODU4OTkwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAVBgorBgEEAYKm
+cgMEBAcMBU9SVElaMBoGCisGAQQBgqZyAwgEDAwKMDk3ODgxMzg0NTANBgkqhkiG9w0BAQsFAAOC
+AgEAW7BYHbehI0oGWqDJbxuYC23c6S5E0AtAPH6vHRdQMYAaCoKzgSwNbhwqtpQQZmVnOOTlPeyr
+6LS1vmFDnxyZE0Dxt+5TkmxmqLROFlo9nXvG4OgLeRs3itoTjsDKqa32+sq36fWep3rF3e2yatSw
+cukNvwXgF8oznHgQKVlXyL9uQpCuHCtrl6q8aa3icaVnbMKBwIdpb1YnANJNGJz04Byu+rPLzITn
+t2YkpNFHIZYHkVba6OzwkvECuf0x26+6YbwGyy4yPyu9gfN7EYUO0oTwXw8nz5WDtek0nHb0yiy2
+XRwasjqMzlWBf6i71oV/m5ZlMI9ONI10zyj+ZGJi1y9Vd67TlH13Y3jgkTUq83Ou4+ThAtbP8TnS
+uI9g5T8fP7phpObsWswjCrmC5X3Ii80q0+H46Y4B0mJS+jrMRhVwEEBymyqXsDlviOObI1J68H2L
+XRqOWaB8gfLC6FvetPZeXHJNUKzmuRq7iES8VufrtXMjqjXpT/RxDOlso5WDIa0O4NRyNH1hXCze
+5tUfCz3Ee97r+1SKJjULLZmr98f5qNbZ/4BrPdQsvqucggkc3PjLADd2u3kLf4Iit9XonYlEVV6b
+0bzVmInBSZbzGTUmb25UBrsAPCBZ7H8CMOdcV6WT091B/U2H+8NPfLrS8ZaTgpknLcXJA+jStyCz
+UBQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nMvIcQ02rYtvJJHhqYBlywiQ5jsG7MbQtZnTlFP0fFqmVCyeyAhexCfSCY0str+EONKZKyNEZton
+hIDH+0IIwS1S0e44rtCZ4qEUjiy4PcOSYcHZCFsDfDvzd7RJ/G5k2QMKirLGOyLwok+G2bmpZN4v
+bbun+SBECVJIg4hN1zxCCwmROD/i60CKqt4gMSKpFI98H7qnnXiFAQWU9fEYJW66Eu07ZSG9Mxdt
+k9KwoHqgbW+2U699eaZvx2IT/ouWi4kmd95TD16zH3CpIyv/mg4sw7hPFeRcnVmR73SU/N+zF67x
+MGkjCWzztfCKGiCW58g3XMyh4S7grDWxcrFYMw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature193949-Object106551"><etsi:QualifyingProperties Target="#Signature193949"><etsi:SignedProperties Id="Signature193949-SignedProperties969412"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-03-24T12:54:36-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>yP1PFHYvn9qDWMsiCACcpWQejJE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1350188608</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-523305"><etsi:Description>GuruSoft S.A Tel.045109312</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3007202301139177772800120010030010654500000099912</numeroAutorizacion>
+<fechaAutorizacion>2023-07-30T14:50:16-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PETROLEOS DE FLAVIO ALFARO S A PETROFLAVIO</razonSocial><nombreComercial>EST. DE SERV. PETROFLAVIO</nombreComercial><ruc>1391777728001</ruc><claveAcceso>3007202301139177772800120010030010654500000099912</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>003</ptoEmi><secuencial>001065450</secuencial><dirMatriz>AV CARLOS ALBERTO ARAY</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>30/07/2023</fechaEmision><dirEstablecimiento>MANABI/FLAVIO ALFARO/ AV. CARLOS ALBERTO ARAY S/N</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>LOPEZ MONTIEL STALIN NARCISO</razonSocialComprador><identificacionComprador>0914552849</identificacionComprador><direccionComprador>SIN DIRECCION</direccionComprador><totalSinImpuestos>17.86</totalSinImpuestos><totalSubsidio>2.55</totalSubsidio><totalDescuento>0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>17.86</baseImponible><valor>2.14</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>20.00</importeTotal><placa>PCB6634</placa><pagos><pago><formaPago>01</formaPago><total>20.00</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>0101</codigoPrincipal><codigoAuxiliar>1</codigoAuxiliar><descripcion>EXTRA</descripcion><cantidad>8.333</cantidad><precioUnitario>2.142857</precioUnitario><precioSinSubsidio>2.448508</precioSinSubsidio><descuento>0</descuento><precioTotalSinImpuesto>17.86</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>17.86</baseImponible><valor>2.14</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Num_Factura">001-003-001065450</campoAdicional><campoAdicional nombre="E_MAIL">factura.petroflavio@gmail.com</campoAdicional><campoAdicional nombre="Direccion_Cliente">SIN DIRECCION</campoAdicional><campoAdicional nombre="Telefono_Cliente">0</campoAdicional><campoAdicional nombre="Codigo_Cliente">96157</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature829081">
+<ds:SignedInfo Id="Signature-SignedInfo118024">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID317732" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature829081-SignedProperties688626">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WoiScFDvOiAm1oh1mV9uSMMITOY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1577260">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8tudBCud/rTuSP6+8JG9CRE/pqI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1018653" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>l5KD7aNcHqIpRbR64qzDaVwjvsg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue631416">
+evVX3R4ELh2viA999yCrblQ7ryJNlFjJ6wDH6uLYJFGFWY6oEq34zazGqiPp6/xuOd8I0SYxbLSA
+3+605BOF9FXCwH+2HCLNrpfbaOvzILV6OYvlwrkEutKjpisoPVVi/Byw7C5gP/L4Ut7KGqTvbZzR
+XcaNG6W+qIXNWrm+qZ9flo4Y6GFi0SAcK9mizc5fIHhFEuJ11FLE4NG9u/liXxPjjeB7vfSmUUcq
+Bqzqd1Dxi9z8hZjnc42mfFrDlP2tpIT127EWXx9vmavoqiUzlc0QJ8hPiY6uCjNCw7CradFME+DH
+pcMwPM853jvMQ3viD4tjl3YifJZX7ay5WlhFtg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1577260">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL2jCCCcKgAwIBAgIMAzc1xHnnRQ1KtgATMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjMwNTE2MTYzMDU2WhcNMjgwNTA5MTYzMDU2WjCCAdUxNDAyBgNVBAoMK1BFVFJPTEVP
+UyBERSBGTEFWSU8gQUxGQVJPIFMuQS4gUEVUUk9GTEFWSU8xGjAYBgorBgEEAYKkQgoEDAoxMzA5
+MDU1MjY1MTAwLgYDVQQLDCdDZXJ0aWZpY2FkbyBQZXJzb25hIEp1cmlkaWNhIEVDIChGSVJNQSkx
+FDASBgNVBCoMC0pVTElPIENFU0FSMRYwFAYDVQRhEw0xMzkxNzc3NzI4MDAxMQswCQYDVQQGEwJF
+QzETMBEGA1UEBRMKMTMwOTA1NTI2NTEYMBYGA1UEBAwPUEFSUkFHQSBDT1JET1ZBMS8wLQYDVQQD
+DCYxMzA5MDU1MjY1IEpVTElPIENFU0FSIFBBUlJBR0EgQ09SRE9WQTEcMBoGA1UEDAwTUkVQUkVT
+RU5UQU5URSBMRUdBTDEtMCsGCSqGSIb3DQEJARYeanVsaW8ucGFycmFnYUBncnVwb3BhcnJhZ2Eu
+Y29tMT0wOwYDVQQNDDRDYXJnbzpSRVBSRVNFTlRBTlRFIExFR0FMIEZlY2hhIGRlIE90b3JnYW1p
+ZW50bzpudWxsMRAwDgYDVQQIDAdNQU5BQsONMRYwFAYDVQQHDA1GbGF2aW8gQWxmYXJvMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmDkEot/KuUsxromYptn7vaT5JMQEaoLiKXrSlYQc
+iMDbRKsd/5cCR63pzgeVRxROpp1p/sWTbD9LZpqi9WrTGIWy1r4jmWP86Dvt3SGvpGEMwkV7N6Lc
+a+pXBQZg0cRpcuWAr3IFV6JHcZSss6bmyoMoMBTdctUQOxpXlZfXbWUeSYhZRevlyU5Q5I18uU5Y
+VCsiKHfT5O3sowTWealO+haJRLhHLsgIgERkGwIOW9r5jcvw4OG1v+d1714qbCWUYmiwZRIn5vq0
+mPWeTBlPPI0k7/YbRVW+IVm+x4JjKN0yMAihnCDrTznKFrxd/uxjrV8OzSCYKmcLxOcOBNlu5QID
+AQABo4IFwTCCBb0wHwYDVR0jBBgwFoAUkq7Uy4K0mcbRexFsZerFTWgh+awwHQYDVR0OBBYEFCjc
+cLy5gmEkUP1bwSfjkIfK70YbMIH9BgNVHREEgfUwgfKBHmp1bGlvLnBhcnJhZ2FAZ3J1cG9wYXJy
+YWdhLmNvbaSBzzCBzDEbMBkGCisGAQQBgqRCCgEMC0pVTElPIENFU0FSMRcwFQYKKwYBBAGCpEIK
+AgwHUEFSUkFHQTEXMBUGCisGAQQBgqRCCgMMB0NPUkRPVkExGjAYBgorBgEEAYKkQgoEDAoxMzA5
+MDU1MjY1MRkwFwYJKwYBBAGDvW4BDApBLTE2MDUyMDIzMS8wLQYDVQQDDCYxMzA5MDU1MjY1IEpV
+TElPIENFU0FSIFBBUlJBR0EgQ09SRE9WQTETMBEGA1UEBQwKMTMwOTA1NTI2NTAOBgNVHQ8BAf8E
+BAMCBsAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMFAGA1UdHwRJMEcwRaBDoEGGP2h0
+dHA6Ly9jcmwuYW5mLmVzL2NybC9BTkZIaWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0ZUNB
+LmNybDCCAQMGA1UdIASB+zCB+DCB3wYMKwYBBAGCpEICBQEDMIHOMCgGCCsGAQUFBwIBFhxodHRw
+Oi8vd3d3LmFuZi5lcy9kb2N1bWVudG9zMIGhBggrBgEFBQcCAjCBlAyBkUNlcnRpZmljYWRvIGNv
+bmZvcm1lIGEgbGEgbGVnaXNsYWNpw7NuIGRlIGZpcm1hIGVsZWN0csOzbmljYS4gQW50ZXMgZGUg
+YWNlcHRhcmxvIGNvbXBydWViZSBpbnRlZ3JpZGFkLCBsaW1pdGFjaW9uZXMsIHZpZ2VuY2lhIHkg
+dXNvcyBhdXRvcml6YWRvcy4wCQYHBACL7EABATAJBgdghVQBAwUIMIGbBggrBgEFBQcBAQSBjjCB
+izAnBggrBgEFBQcwAYYbaHR0cDovL29jc3AuYW5mLmVzL3NwYWluL0FWMGAGCCsGAQUFBzAChlRo
+dHRwOi8vd3d3LmFuZi5lcy9lcy9jZXJ0aWZpY2F0ZXMtZG93bmxvYWQvQU5GSGlnaEFzc3VyYW5j
+ZUVjdWFkb3JJbnRlcm1lZGlhdGVDQS5jZXIwDAYDVR0TAQH/BAIwADAoBgkrBgEEAYGPHBMEGwwZ
+NTc3MDM2NzY1MDE1LTQ4OTU5ODQ1NDA0MjAdBgorBgEEAYGPHBMCBA8MDTEzOTE3Nzc3MjgwMDEw
+KQYKKwYBBAGCpEITAQQbDBk0ODk1OTg0NTQwNDItNDg3MDY1MTIyMzQ4MBoGCisGAQQBgqRCAwEE
+DAwKMTMwOTA1NTI2NTA7BgorBgEEAYKkQgMKBC0MK1BFVFJPTEVPUyBERSBGTEFWSU8gQUxGQVJP
+IFMuQS4gUEVUUk9GTEFWSU8wHQYKKwYBBAGCpEIDCwQPDA0xMzkxNzc3NzI4MDAxMBIGCisGAQQB
+gqRCAwwEBAwCRUMwGwYKKwYBBAGCpEIDAgQNDAtKVUxJTyBDRVNBUjAfBgorBgEEAYKkQgMDBBEM
+D1BBUlJBR0EgQ09SRE9WQTAjBgorBgEEAYKkQgMFBBUME1JFUFJFU0VOVEFOVEUgTEVHQUwwHQYK
+KwYBBAGCpEIDCQQPDA1GbGF2aW8gQWxmYXJvMBcGCisGAQQBgqRCKgEECQwHVUlPLTAyMjAUBgor
+BgEEAYKkQi4BBAYMBDE4MjAwUAYKKwYBBAGCpEIvAQRCDEAwODhhNGY1OWFmMjA1ZDZjMjRmMDk5
+Nzg1YzRjNWQ2NzgxNWFlYzgxODZiNWY3YWE4NWZhNTE3MjFlMjYwOTA1MEQGCCsGAQUFBwEDBDgw
+NjAIBgYEAI5GAQEwEwYGBACORgEGMAkGBwQAjkYBBgEwCQYHBACL7EkBATAKBggrBgEFBQcLAjAN
+BgkqhkiG9w0BAQsFAAOCAgEAmIoTU9ibMkUeaWODOUn4SgRe0bWvp8iBHnlk2VmSdzXf6EbA95Z+
+AnYOcsQONy6kiPC7Ji1+kWiyU5EWWipvOV+dervUk8OdttGmE6wnb65dnTBE6U/0iJlGtkFWvYde
+6fDQ6vDl9UzTaK3JTt8hA6OnDzz/c9z41gFyGe74DsJHu/OZ5eF8bNu6/9zZavtp0wjoVSrzQeI5
+3+1CP3q+U1LuEraOges2AYmf9qxVlpQKRuvP6lmqwbEVtGdCutk3lBkbUSWk6Os7JyzD+D+c1UVN
+TctJEdh9ywwVg2Gg8K+PIO8BranhxmIiLYpkh/VXKOMAMbE8U2brwF8UP76Bvs7qy85Wft4e8VCj
+ggpOmdgcln1f1wFsqWD8Mdx+jr45ywmyO72/mZJkPXF1l4QjXSi2VfW9UdQlZzDpuO9mYzWbvmx/
+8S9OYeKY7vwqG/E6n7klmBb2spFuToXGPCVL6jyIyMngPHpLhRVBxpKA02kK7zOqauRtrbmRr0n/
+IJQj8r3wY7MPDXzeSlV/s1Gsd9IhfosBOFF7tRBxB8Qsk76CId+76lREBRvoShi5WId9JBXV4dkH
+sHZTNXLWUkJ7Wnad+5hUrag9QC+bdMhENd+Noa6q5qY5w3nOkm79B02jQZx6+1g6iSaC8ES/RBT9
+O0ZuVBBfXG2T1PsPo5n39Xs=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mDkEot/KuUsxromYptn7vaT5JMQEaoLiKXrSlYQciMDbRKsd/5cCR63pzgeVRxROpp1p/sWTbD9L
+Zpqi9WrTGIWy1r4jmWP86Dvt3SGvpGEMwkV7N6Lca+pXBQZg0cRpcuWAr3IFV6JHcZSss6bmyoMo
+MBTdctUQOxpXlZfXbWUeSYhZRevlyU5Q5I18uU5YVCsiKHfT5O3sowTWealO+haJRLhHLsgIgERk
+GwIOW9r5jcvw4OG1v+d1714qbCWUYmiwZRIn5vq0mPWeTBlPPI0k7/YbRVW+IVm+x4JjKN0yMAih
+nCDrTznKFrxd/uxjrV8OzSCYKmcLxOcOBNlu5Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature829081-Object820648"><etsi:QualifyingProperties Target="#Signature829081"><etsi:SignedProperties Id="Signature829081-SignedProperties688626"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-07-30T14:50:16-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>1tK1ADYpIojyNLM4JT00VPo1hjc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>995199859312335870651400211</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1018653"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

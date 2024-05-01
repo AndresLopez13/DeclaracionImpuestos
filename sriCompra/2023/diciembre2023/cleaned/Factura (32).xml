@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2612202301179222387300120010070010314681234567815</numeroAutorizacion>
+<fechaAutorizacion>2023-12-27T07:10:09-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PETROPLATINUM CIA. LTDA.</razonSocial>
+    <nombreComercial>E/S SAUCES</nombreComercial>
+    <ruc>1792223873001</ruc>
+    <claveAcceso>2612202301179222387300120010070010314681234567815</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>007</ptoEmi>
+    <secuencial>001031468</secuencial>
+    <dirMatriz>Av. 6 de Diciembre s/n</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>26/12/2023</fechaEmision>
+    <dirEstablecimiento>Av. 6 de Diciembre s/n</dirEstablecimiento>
+    <contribuyenteEspecial>1552E</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ELIZABETH ALMEIDA</razonSocialComprador>
+    <identificacionComprador>0914552849001</identificacionComprador>
+    <direccionComprador>QUITO</direccionComprador>
+    <totalSinImpuestos>17.78</totalSinImpuestos>
+    <totalSubsidio>5.67</totalSubsidio>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>17.78</baseImponible>
+        <valor>2.13</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>19.91</importeTotal>
+    <moneda>DOLAR</moneda>
+    <placa>PDL8549</placa>
+    <pagos>
+      <pago>
+        <formaPago>16</formaPago>
+        <total>19.91</total>
+        <plazo>0</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>0101</codigoPrincipal>
+      <descripcion>Extra</descripcion>
+      <cantidad>8.296000</cantidad>
+      <precioUnitario>2.142857</precioUnitario>
+      <precioSinSubsidio>2.826697</precioSinSubsidio>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>17.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>17.78</baseImponible>
+          <valor>2.13</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">QUITO</campoAdicional>
+    <campoAdicional nombre="Email">
+    </campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-4a901372-b788-49ef-a022-8c7616564a33"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-6c9a3da1-af15-414e-9fe7-c80cc8158921" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>ypo2dkg2Z0XVxTc8NXqooBFYgistMkfF07HHkyqdaUM=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-4a901372-b788-49ef-a022-8c7616564a33"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>AYjbA8OU4s73Hrzq3aJfD3whw+NzAPrlEt0lilNgHPs=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-4a901372-b788-49ef-a022-8c7616564a33"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>bg3e6f6J5ybuKMN1+TxUN8b4umJX77H8ixy3NyRyb3o=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-4a901372-b788-49ef-a022-8c7616564a33">hYun0+FQMdYz4SToAej4oNF90U5zNjhPP19NU7KSkdFyO5lHBRrB3MO2A5bevq4cUnf2XyNHBM7zbi8feypAds3Lx4IXxJf27rJ+8Y1cp6Wr9lqw67/Ip43dZiu3ZY8wilVoCj2qv26bc0YlJiEstf4CNJRcZJ5dIap06Q+JBcZCQIoA2LBLw8ff+051P1o7XdCGXieLHeyUuaaINccRurrVaqSCUv5Bs+Tb4zSLDqjtRHbRGku3VI1DO3cuKUFZGfn3i2+m2y4S2aUA65W68HAFKq77ebO//4egwrzvHhh14cum6r/9Kwj821HlthHYsOGyeB0q6P0TJbiQtC566g==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-4a901372-b788-49ef-a022-8c7616564a33"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>nAHjHifWmwycj98yl8LC6DDAvOKYhoeDqvqnX9tp4XLseqwMR/Y87oo/WHXHj6Sv8u66RuM/C2JUrQ/QuAOQEmYOQvyzQVdEmNei3mp+DmRpriJ7KkjPwKvVzOLb0Q+0NnRkXpGPob339Stm+gwYNjhwyq5fqH5dkqHEuExE2jqnvhmB70h7XXn+kajrmBuaZ4Fd9pN/3TDrZgsOIpGlTJUgEu1NmOiANlrGbhQ5Q3rlUPhyOON3ny3p8E8HWWw65wrMijBDohMY98wPXbGCimmP13JlBoSRyjeMeIUhGQ9PqvmIWW34IILaE93xT4bEXspgvmtmFA2OB+Dq5cm7UQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-8f4ddc11-6022-4679-a43d-cdb4f4c2cd7c"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-f2386693-402d-4b2e-8185-7424b0c6e8e8" Target="#Signature-4a901372-b788-49ef-a022-8c7616564a33"><xades:SignedProperties Id="SignedProperties-Signature-4a901372-b788-49ef-a022-8c7616564a33"><xades:SignedSignatureProperties><xades:SigningTime>2023-12-27T07:10:08-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>pHFowMJ8tcGyjCIe0BabDY2WrzO3f1IxFXuXT5eCreM=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>1064589938787682170</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-6c9a3da1-af15-414e-9fe7-c80cc8158921"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1110202301099276597600120010010001710830031509111</numeroAutorizacion>
+<fechaAutorizacion>2023-10-11T17:40:32-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>IC MONGE C LTDA</razonSocial>
+	    <nombreComercial>Chokolat Patisserie</nombreComercial>
+	    <ruc>0992765976001</ruc>
+	    <claveAcceso>1110202301099276597600120010010001710830031509111</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000171083</secuencial>
+	    <dirMatriz>CC Rio Centro Entre Rios Oficina C-10</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>11/10/2023</fechaEmision>
+		
+			<dirEstablecimiento>CC Rio Centro Entre Rios Oficina C-10</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Stalin Lopez Montiel </razonSocialComprador>
+	    <identificacionComprador>0914552849</identificacionComprador>
+		<direccionComprador>arturo borja n2-08</direccionComprador>
+	    
+	    <totalSinImpuestos>10.48000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>10.48</baseImponible>
+				<valor>1.26000</valor>
+			</totalImpuesto>
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>11.74000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>11.74</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>BE004</codigoPrincipal>
+		<codigoAuxiliar>BE004</codigoAuxiliar>
+      	<descripcion>Capuccino</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.232100</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.23</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.23000</baseImponible>
+          <valor>0.27</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PP080</codigoPrincipal>
+		<codigoAuxiliar>PP080</codigoAuxiliar>
+      	<descripcion>Profiterol de haba tonka local</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.651790</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.30</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.30000</baseImponible>
+          <valor>0.40</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PP082</codigoPrincipal>
+		<codigoAuxiliar>PP082</codigoAuxiliar>
+      	<descripcion>Profiterol de pie de naranjilla local</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.651790</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.30</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>3.30000</baseImponible>
+          <valor>0.40</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PP083</codigoPrincipal>
+		<codigoAuxiliar>PP083</codigoAuxiliar>
+      	<descripcion>Profiterol de tiramisu local</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.651790</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.65</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>1.65000</baseImponible>
+          <valor>0.20</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    			<campoAdicional nombre="Adicional 1">ll</campoAdicional>
+    		
+    	
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature705909">
+<ds:SignedInfo Id="Signature-SignedInfo953684">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID108559" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature705909-SignedProperties802060">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YtHUOdrpbgRJRZs0L8w16iOjG1E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1463825">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xTkqufekZP12qButwUD8HhsHGpE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-811608" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>J4Vivsg27EljnzEqfN5SgGF+wkc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue712567">
+bvVk+vcIDo8D4cXlNS4EGMeFMlP4quAXI1SEUhkwjeV0EbGe2M6wa8HADOwxqbdx44AYf6meesYg
+OZSftosbwfuuMcgbylfC04hzrkoM9Jdzo9Q59ONxsH0EQNqk4AnoNRVxY0M6j0G34zHUvKs3bK9Y
+wc05vzthw8KRJfsdqEvBZ2JS2MKcWRcdjhCebKNpDav57DXrgjNbMcAU2kcKqoTFg6qWldPc9s4e
+cT/uYCtypXDprEcNjlBj6veGIq5Ci+UGcO+QgLkwKJKUFpOBTXalW1s85bj+tI4ZZHptbAmhW3JO
+91vn2gvI6JfRxk1ZZENpe1URGsEkrvzraDVC6g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1463825">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILKzCCCROgAwIBAgIEcBoleDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTEgU0VDVVJJVFkgREFUQTAeFw0yMDA5MjIxNTAxMTVaFw0yNTA5MjIxNTAxMTVaMIGVMQsw
+CQYDVQQGEwJFQzEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEVMBMGA1UEBRMMMjIwOTIwMTAxMTE0
+MR4wHAYDVQQDDBVJUkVORSBNT05HRSBGRVJSRVlST1MwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCH7DhzR7+wj4W77UFmkHyFmwqekVkg5Q/1SX1YKpKIjA0n+A87+Za4ScvRSDiyUQoC
+AEhJz9+xRQ/BxF3Bewuq6NSCr67bHO1tjqA5GY6oS17UOji70dH6jmc82hlroQLJb8C0vSr6i0PA
+vE7i5ZjxJMmuuanXB0LAfQ+iW2MAfLYNS+8Vbtfim0liSZAsQeJmx/TmAhvUkSKx2P7WGyoDTunZ
+fvPFnRKhDC8y9Rm6wAee2EKwSVXWV9zLcZQibZtBnGz5yaf5tn7mCa13bPDl7fKKr/a1NOWJk8Op
+0UtZQN+9rb786c5TeBkT/H+qE/I/KUD1mss3ixxtHJ03wZWfAgMBAAGjggZ7MIIGdzBZBggrBgEF
+BQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwHQYDVR0OBBYEFMNHyps3iixkKobYRnJ1Qk6MC/cI
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUXA+FpHQQ/K0BLBoAPZMXCfo5AdYwKwYDVR0QBCQw
+IoAPMjAyMDA5MjIxNTAxMTVagQ8yMDI1MDkyMjE1MDExNVowgcwGA1UdLgSBxDCBwTCBvqCBu6CB
+uIaBtWxkYXA6Ly9sZGFwc2Quc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDEsQz1FQz9kZWx0YVJldm9j
+YXRpb25MaXN0P2Jhc2UwbQYDVR0gBGYwZDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5E
+AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUA
+IABMAGUAZwBhAGwwggKeBgNVHR8EggKVMIICkTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNV
+BAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQTEwMC4G
+A1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRT
+RUNVUklUWSBEQVRBIFMuQS4gMTELMAkGA1UEBhMCRUMwgcSggcGggb6GgbtsZGFwOi8vbGRhcHNk
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MSBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TixPPVNFQ1VSSVRZIERBVEEgUy5BLiAxLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9i
+YXNlMIHfoIHcoIHZhoHWaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3Iuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDEsQz1F
+QzALBgNVHQ8EBAMCBeAwKQYDVR0RBCIwIIEeYWRtaW5pc3RyYWNpb25AY2hva29sYXQuY29tLmVj
+MBoGCisGAQQBgqZyAwEEDAwKMDkxNTMyMzY1MzAVBgorBgEEAYKmcgMCBAcMBUlSRU5FMBUGCisG
+AQQBgqZyAwMEBwwFTU9OR0UwGQYKKwYBBAGCpnIDBAQLDAlGRVJSRVlST1MwHwYKKwYBBAGCpnID
+BQQRDA9HRVJFTlRFIEdFTkVSQUwwEwYKKwYBBAGCpnIDBwQFDAMgU04wGwYKKwYBBAGCpnIDCAQN
+DAs1OTM0NDAwMTA1NTAbBgorBgEEAYKmcgMJBA0MC1NBTUJPUk9ORE9OMB0GCisGAQQBgqZyAwoE
+DwwNSUNNT05HRSBDTFREQTAdBgorBgEEAYKmcgMLBA8MDTA5OTI3NjU5NzYwMDEwFwYKKwYBBAGC
+pnIDDAQJDAdFQ1VBRE9SMBIGCisGAQQBgqZyAx0EBAwCTm8wHwYKKwYBBAGCpnIDIAQRDA8wMDEw
+MDIwMDAwNjAyNjAwEwYKKwYBBAGCpnIDIQQFDANQRlgwEQYKKwYBBAGCpnIDIgQDDAEuMA0GCSqG
+SIb3DQEBCwUAA4ICAQAf5xC1mqUCYB8Kz+o4aMmsGHXfrUNZRddfGgj56WplQjkK2yL4llVcMiv3
+M6olH3De1/LWyT4rPrjtLOE9CV6mMRcbevaTpsEU2AcMaA/X1XC6duO5/y5WIhNUuv3eHMLPsdxR
+yEc6ZLGJaAXiMBmDFYWR6ER1FlMv+D/M4rbtblnNNiwK9vYsY8wWYW316C5cziRbjNc8nRrvvEbg
+ctxYgpcEO0E+wZuLZIcR3uXlIDSNGZkGrvJMjlk2EGGj26tLdSzVZ0PYJlb3sot5oybsf+FBtsI4
+jczPbrZVduI2unOpTfH6UlVjp7NP0fR2btF4PuO3qjLhNZhV5XQ7esffifSt3ZcLJHM7CzDTfWvA
+IVXQbMoTE+1k4z7tbpQKPteteC6DkQ61yYI4rSg9lqc3jcGpe2Lf3xMuzmqA5q1LAfn2p5ODscPT
+9uyX/1THOqE2tQIgo+PmTeHfXTKkMvL934HBUV1Tv1cGPap0fUEtlxdjsw9TCOztSnUjtZlISDS2
+e79SuB+HjwZQyS1e1h3OEilV2NZeKtie3cGPvs1f/XCREB8l5h2YxCVeVvc4vRd3H2AWGVtVAQhw
+Anf6b1FOU+Tx7jhXdZTkeApM60yhsqXjkzXLuXMptNDEHxY503r4+yDuTqIwmakw26gSN9g3jHft
++Q4yHkCpz03tntjzPw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+h+w4c0e/sI+Fu+1BZpB8hZsKnpFZIOUP9Ul9WCqSiIwNJ/gPO/mWuEnL0Ug4slEKAgBISc/fsUUP
+wcRdwXsLqujUgq+u2xztbY6gORmOqEte1Do4u9HR+o5nPNoZa6ECyW/AtL0q+otDwLxO4uWY8STJ
+rrmp1wdCwH0PoltjAHy2DUvvFW7X4ptJYkmQLEHiZsf05gIb1JEisdj+1hsqA07p2X7zxZ0SoQwv
+MvUZusAHnthCsElV1lfcy3GUIm2bQZxs+cmn+bZ+5gmtd2zw5e3yiq/2tTTliZPDqdFLWUDfva2+
+/OnOU3gZE/x/qhPyPylA9ZrLN4scbRydN8GVnw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature705909-Object954557"><etsi:QualifyingProperties Target="#Signature705909"><etsi:SignedProperties Id="Signature705909-SignedProperties802060"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-10-11T17:40:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>CMwszhjnEyi5tZtSkjPwp/YfIXY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 1,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1880761720</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

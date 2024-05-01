@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1811202301110367918700120010100000286940000000014</numeroAutorizacion>
+<fechaAutorizacion>2023-11-18T14:03:14-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>VALAREZO VALAREZO LORENA BEATRIZ</razonSocial>
+        <nombreComercial>LA HUMITA LOJANA</nombreComercial>
+        <ruc>1103679187001</ruc>
+        <claveAcceso>1811202301110367918700120010100000286940000000014</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>010</ptoEmi>
+        <secuencial>000028694</secuencial>
+        <dirMatriz>PICHINCHA / QUITO / ITCHIMBIA / E6 VALPARAIS N2-164 Y N2G J M AGUIRRE</dirMatriz>
+        <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>18/11/2023</fechaEmision>
+        <dirEstablecimiento>PICHINCHA / QUITO / KENNEDY / JOSE BUSTAMANTE E6-211 Y GONZALO ZALDUMIDE</dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>STALIN LOPEZ</razonSocialComprador>
+        <identificacionComprador>0914552849001</identificacionComprador>
+        <direccionComprador>LA TOLA / QUITO</direccionComprador>
+        <totalSinImpuestos>9.42</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>9.42</baseImponible>
+                <valor>1.13</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>10.55</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>10.55</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>Limonada</codigoPrincipal>
+            <descripcion>Limonada</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>0.892857</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.89</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>0.89</baseImponible>
+                    <valor>0.11</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>Café</codigoPrincipal>
+            <descripcion>Café</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>0.714286</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.71</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>0.71</baseImponible>
+                    <valor>0.09</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>TamalCerdoFrito</codigoPrincipal>
+            <descripcion>Tamal de Cerdo Frito</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>1.339286</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1.34</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>1.34</baseImponible>
+                    <valor>0.16</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>Churrasco </codigoPrincipal>
+            <descripcion>Churrasco </descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>3.571429</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>3.57</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>3.57</baseImponible>
+                    <valor>0.43</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>EnvaseComida</codigoPrincipal>
+            <descripcion>Envase de comida</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>0.223214</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.22</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>0.22</baseImponible>
+                    <valor>0.03</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>Almuerzo</codigoPrincipal>
+            <descripcion>Almuerzo</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>2.678571</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.68</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>2.68</baseImponible>
+                    <valor>0.32</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Atendido por">Kevin Humberto Ramírez Guajala</campoAdicional>
+        <campoAdicional nombre="Observación Venta">pollo</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature607245">
+<ds:SignedInfo Id="Signature-SignedInfo117128">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID749768" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature607245-SignedProperties544308">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>h+KCViWYBy0FblV1KXwOn0oNlTA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1151871">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hzc8qKHQRTeczFgea/5WiVjNETQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-712115" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yt16hHO3bCOXFU1iAKXbm1LXvhM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue267352">
+ln+7pavIBSlJYBmZaPCsiC1iStUPvr6s3LvWuu4N9+QZhZI6Af3a5iHxzf0dUtAc1g45QPL9hwLv
+IGJJkkjKl/3kYuFaRMTCYUlqhLDEe+f2JdyNeIpvgHRU8Cs/Vktsd11gPib/ZpE/AMQzbMTTnEQp
+K2Rm9rVnPOAGRYRV456+7zgx0YMY9expyB24bW78JVyn9LFh1zx0qCLIS82vqM8XZKSjuDRzzLFd
+m/0QiZ0xox3Quq/SaO8D3Tnb8z5SBqm+YYa0LAOkBv/kOeV6KKt2a+F/SkNiCB+k20W+JnXX36Oj
+38Zc27rP1vD158JsTRra7vWKE9gJXW5Kt4ibpw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1151871">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL0DCCCbigAwIBAgIEZc/EjTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjExMTEwMjQ5MDRaFw0yNDExMTAwMjQ5MDRaMIGgMSkw
+JwYDVQQDDCBMT1JFTkEgQkVBVFJJWiBWQUxBUkVaTyBWQUxBUkVaTzEVMBMGA1UEBRMMMTAxMTIy
+MjE1ODQ4MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKUhbBnCNm1EKa82ATuCu0m9vHEUHG8j+Vn3IOeHvz6tEG5vpOoe
+ZLskOcXcBK1fe1zZOQOnv+2uTYs6hIT2J+swanAXOzDC/L2GBfG/xSvlBz6xEwhg9nOsOAZTy468
+2mDrLIA1lMUkJH6gOos9B8KxLudTudTiLEg8Al7Q1CfsOfUsCipVrAI9iLRq2kBcnaNpnOF8cCif
+CURMHOI0iRZNMuKqrBfCi+x3iZk4Y0RtWjfIkZ0uCR9FPZBkOgykQVZRRO8nGB0KBcM5wriDCspH
+BGxfbziCaEqqQkX3cPc9fLKqT4aB4xATnWY0uUbEWDngAsvICihIbw4sljaNnP8CAwEAAaOCBxUw
+ggcRMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMB0GA1UdEQQWMBSBEmplbGVpdmF2QGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBa
+BgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQA
+ZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggr
+BgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25s
+b2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2Fk
+byBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2Nz
+cGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGc
+MIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZ
+IERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRh
+cDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2
+b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwm
+aXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBE
+QVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSi7yWZj2/RVFEjsDkpqqj/iHgu9DArBgNVHRAEJDAi
+gA8yMDIyMTExMTAyNDkwNFqBDzIwMjQxMTEwMDI0OTA0WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGC
+pnIDAQQMDAoxMTAzNjc5MTg3MBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQD
+DAEuMC4GCisGAQQBgqZyAwcEIAweVkFMUEFSQUlTTyBOMjIwIFkgUkFGQUVMIFRST1lBMB4GCisG
+AQQBgqZyAwIEEAwOTE9SRU5BIEJFQVRSSVowHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA0NzA0
+ODAwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwE
+CQwHRUNVQURPUjAYBgorBgEEAYKmcgMDBAoMCFZBTEFSRVpPMBEGCisGAQQBgqZyAx4EAwwBLjAd
+BgorBgEEAYKmcgMLBA8MDTExMDM2NzkxODcwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBgGCisGAQQB
+gqZyAwQECgwIVkFMQVJFWk8wGgYKKwYBBAGCpnIDCAQMDAowOTg1MzM5MjE2MA0GCSqGSIb3DQEB
+CwUAA4ICAQAFWTyUC+zG/PYN+l95LOvOhrEigT7nMgSfTXc/qEZ/aSg+kxnidW48W5cMqeBkXcSv
+HJ9O46Gj2oxmr/j0rmOslcr0cGTN00fn26nEUdjpMAaTl1PTPXE/uRtpQ3nJW6mev6liQpL42qfD
+PObhd3W41zhVb0qYmKMpd+Q4lygVwz8zF7sNFtfn34TZDkT3+Lwu9tKyUXlMxaKOtSbTF6YOY7JJ
+Ag6EpqaHywVIzsErB9/rThfa5W1Z3Z64v4/O//WAL9j/BLZJIMpC3o0iDiAORSdtkaDzLl0Bxidk
+5fuIGfc96rZ9Ef9pvGenwEGsff3AdjQq7kLA4Q8YrMjRRXcPbPrO7esgi8cE/WCAd8gWX7c0SARA
+jnLIu8OqZ6Uj1/5st80nu68VGkI6lrl28xwIW0/UNA+QBR2yOu/g9HNscZMW4zobdIEJmGUpggS7
+FyC68zccMVRcOxAwD3SWPa2FsqUAK3Up7JUYvS63yVDkr/unKiRsumWonxIqZW6FeoNrmRSPbYcL
+U9eBZNC818qyhkQlxwpVXAs3DiwShadxCYK7t94oNG0YVPSXta2hQTyC5pzqejIXl/tov9s4S1kZ
+fpMzkjbq1vxkE5Rbtin/HbY+KD2V35dlERckQs0iMDkz5po1qKF6PuA+7U2fP44uKZPzQbq2qUj+
+OOMlu3bq3A==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pSFsGcI2bUQprzYBO4K7Sb28cRQcbyP5Wfcg54e/Pq0Qbm+k6h5kuyQ5xdwErV97XNk5A6e/7a5N
+izqEhPYn6zBqcBc7MML8vYYF8b/FK+UHPrETCGD2c6w4BlPLjrzaYOssgDWUxSQkfqA6iz0HwrEu
+51O51OIsSDwCXtDUJ+w59SwKKlWsAj2ItGraQFydo2mc4XxwKJ8JREwc4jSJFk0y4qqsF8KL7HeJ
+mThjRG1aN8iRnS4JH0U9kGQ6DKRBVlFE7ycYHQoFwznCuIMKykcEbF9vOIJoSqpCRfdw9z18sqpP
+hoHjEBOdZjS5RsRYOeACy8gKKEhvDiyWNo2c/w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature607245-Object16224"><etsi:QualifyingProperties Target="#Signature607245"><etsi:SignedProperties Id="Signature607245-SignedProperties544308"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-11-18T14:02:21-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Aq1kqfGNcb/cAHo/WftxDY6MQ0A=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1708115085</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-712115"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

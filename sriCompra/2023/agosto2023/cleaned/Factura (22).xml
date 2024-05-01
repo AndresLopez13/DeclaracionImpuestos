@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1608202301170816101100120032020000644690000000116</numeroAutorizacion>
+<fechaAutorizacion>2023-08-17T16:36:08-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ARIAS HERNANDEZ RUBI MARIA PATRICIA</razonSocial>
+        <nombreComercial>PANIFICADORA MEXICO</nombreComercial>
+        <ruc>1708161011001</ruc>
+        <claveAcceso>1608202301170816101100120032020000644690000000116</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>003</estab>
+        <ptoEmi>202</ptoEmi>
+        <secuencial>000064469</secuencial>
+        <dirMatriz>JOSE RIOFRIO OE4-39 VENEZUELA - BARRIO AMERICA</dirMatriz>    </infoTributaria>
+<infoFactura>
+<fechaEmision>16/08/2023</fechaEmision>
+<dirEstablecimiento>JOSE RIOFRIO OE4-39 VENEZUELA - BARRIO AMERICA</dirEstablecimiento>        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>LOPEZ MONTIEL STALIN NARCISO</razonSocialComprador>
+        <identificacionComprador>0914552849001</identificacionComprador>
+        <direccionComprador>QUITO DISTRITO METROPOLITANO  ARTURO BORJA N2-08 Y MANOSALVAS</direccionComprador>
+        <totalSinImpuestos>4.02</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos> 
+                    <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>2</codigoPorcentaje>
+                <baseImponible>4.02</baseImponible>
+                <valor>0.48</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>4.50</importeTotal>
+        <moneda>DOLAR</moneda>
+        
+        <pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>4.50</total>
+   </pago>         </pagos>
+         </infoFactura>
+         <detalles>
+        <detalle>
+            <codigoPrincipal>TO41</codigoPrincipal>
+            <codigoAuxiliar>TO41</codigoAuxiliar>
+            <descripcion>TORTA MINI HUMEDA 4P</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>4.017857</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>4.02</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>2</codigoPorcentaje>
+                    <tarifa>12.00</tarifa>
+                    <baseImponible>4.02</baseImponible>
+                    <valor>0.48</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+    </detalles>    <infoAdicional>
+        <campoAdicional nombre="eMail">eli.almeida.ec@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Sistema">FenixPRO</campoAdicional>
+        <campoAdicional nombre="Vendedor">G. CALERO</campoAdicional>
+        <campoAdicional nombre="Telefono">2525273</campoAdicional>
+        <campoAdicional nombre="Correo">contabilidad@panificadoramexico.com</campoAdicional>
+        <campoAdicional nombre="AGENTE DE RETENCION">No. RESOLUCION 1</campoAdicional>
+        <campoAdicional nombre="Forma Pago">OTROS CON UTILIZACION DEL SISTEMA FINANCIERO USD-4.50</campoAdicional>
+        <campoAdicional nombre="Plazo">0 DIAS</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature166425"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-245260" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>p8MnPO5qSxx/LPZ3s90A+6QsCdE=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate241319"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>HvKV+C1+GJ/lmt3G3m/KMxlCV0Y=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID824751" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature166425-SignedProperties615902"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>9UQo87oyk9EBmBd6yad1f1JeA4c=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue603775">lpzmomnhsFgFgJX+1YSG4zAcm3ymP1YzUiyHdIXhmx26NGhcHYVCAsSJjTXgYJRukqwM7M4dRcvJQhHrUjUPh9VpU+5xnREexMv8FLNj+0yOZTngCBMqpLPBkO8jmkhwmYwt4Pm7CCib+Nc26HZftm/aZJRsh0xkU8MO6g56BfaDNSsTPahXL//YPU7I/jP0GLxCmHG6jx6Us8WtaVazeRO3rKyr8kq99gjk/nHvuZ9t/VW811/Z3GB3Fpbtfw7Fuc+Jr1jSLxtcjOKxas3y3EYrse9X7MFEjf79iZIXxop+BqAAyEoGlk6pEdMKI2QHhgF+mzJoVekPqdcyGQLbFQ==</ds:SignatureValue><ds:KeyInfo Id="Certificate241319"><ds:X509Data><ds:X509Certificate>MIIL2jCCCcKgAwIBAgIEOhJYLjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEyMjQxMjQ4NDVaFw0yNTEyMjMxMjQ4NDVaMIGjMSwwKgYDVQQDDCNSVUJJIE1BUklBIFBBVFJJQ0lBIEFSSUFTIEhFUk5BTkRFWjEVMBMGA1UEBRMMMjQxMjIyMDc1ODE5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM5+0WcT+xcdDXDj0scHefvQUSa12adBQBDUcL6c79/d48zaTG4T9EanK53Jb2HZeqVcm7esqbdw7+rXHlk4FZHF2JFzyrYaoqsoifIWXcYBUIOJ5pSNZ7uy+kqutU6b08aUI4HIFMGjCbnoejQfaSE05aDcAGwwVjcdwQAMNTED9adZ+CZcGabpKE9d8ELbDyDx6yBt+8V/8SuH/gaDKMdbpHiakG/TTP4ab9syjFePyVsdQZFOj2mnaNtbUcblc/ZLBKoxMU2PP3YU+2e+ib6g6f4ITyuZRhPk0sE7FT6r5u2kFxYlbA9vC1zPbZhdupAsMH3MK3eTi1Z6IBorfvUCAwEAAaOCBxwwggcYMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCIGA1UdEQQbMBmBF3BhdHlhcmlhczExQGhvdG1haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFCv5oEklDykHk6hdihZjy57HTgKoMCsGA1UdEAQkMCKADzIwMjIxMjI0MTI0ODQ1WoEPMjAyNTEyMjMxMjQ4NDVaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjE3MDgxNjEwMTEwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4wLQYKKwYBBAGCpnIDBwQfDB1NRVhJQ08gIE4xNi0xOSBZIEJVRU5PUyBBSVJFUzAjBgorBgEEAYKmcgMCBBUME1JVQkkgTUFSSUEgUEFUUklDSUEwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA1MzAzODYwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAVBgorBgEEAYKmcgMDBAcMBUFSSUFTMBEGCisGAQQBgqZyAx4EAwwBLjAdBgorBgEEAYKmcgMLBA8MDTE3MDgxNjEwMTEwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBkGCisGAQQBgqZyAwQECwwJSEVSTkFOREVaMBoGCisGAQQBgqZyAwgEDAwKMDk5MDY0MjE2OTANBgkqhkiG9w0BAQsFAAOCAgEAYZQrtaMGz6tkCUEmY4vj+hYRDxYIfrvVswCJiG+J1Nwik+kyB6B/pnPPmibp8+0dbo3z/kjZS2z1D3gc5HbwhIi7ViIAld3YV/Y9YAWasyNFKdNz8qQ9y1A125eM14Zrv8tuDLKiTNKJMC63jsIKNgLFzJZ9dB3zUJk9ELqqe+H7QB24HxsFrCvyW4Kc7V9EyuREPY15M3DvQ4nKBP7e8fbdYaaYZgxDw/2VTZ23yPaR02kPbTctjpvXHrfM+ZwUdz2V+WYv3NNmTKMTowMCdpMyt1p9aH16kA5zhL5xKAbiFZ/J8ZhTHFVOMu0AxCeI6RBt5QL1wDM4HYNBnaBw6DNdN8x72CIeMsG7acBXlXotBocUxq6hdPJAImoMyNGg1XvI4fx1nT1HX8jEvmG1toDoLhaBHu3EeTXPFYky7oxYEeT6HzduRL+uxAhLgWLxLtXvQaz+N4uAw+wHZcdo/nA+wlEBqZ6xBTJcZQ90ozbtnVgFNvFeRVNkCRSCrRIwJLmlRdmTiQ7oFd3g/3E1xaFv7OHCpeFiYAyqQXC59z+jEeUoJmvF/Io/UWrw/KGtoK0t65uctCu0u4ZEiZ/+xpWvpRq8rwHvtIsryh2mpRdvhhlLXkGCwmJvbcGHq0oFmUPeNtJePKiaII3V1c2x23+miBRvdUrLb8nSbX4TSms=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>zn7RZxP7Fx0NcOPSxwd5+9BRJrXZp0FAENRwvpzv393jzNpMbhP0RqcrnclvYdl6pVybt6ypt3Dv6tceWTgVkcXYkXPKthqiqyiJ8hZdxgFQg4nmlI1nu7L6Sq61TpvTxpQjgcgUwaMJueh6NB9pITTloNwAbDBWNx3BAAw1MQP1p1n4JlwZpukoT13wQtsPIPHrIG37xX/xK4f+BoMox1ukeJqQb9NM/hpv2zKMV4/JWx1BkU6Paado21tRxuVz9ksEqjExTY8/dhT7Z76JvqDp/ghPK5lGE+TSwTsVPqvm7aQXFiVsD28LXM9tmF26kCwwfcwrd5OLVnogGit+9Q==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature166425-Object670147"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature166425"><etsi:SignedProperties Id="Signature166425-SignedProperties615902"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-08-17T16:43:39-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>+0GeG6N5dvsBweSXtaEGh/s6NjM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>974280750</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-245260"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+
+<mensajes/>
+</autorizacion>
+

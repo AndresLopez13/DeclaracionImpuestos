@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2111202301170735385800120010020000779861234567814</numeroAutorizacion>
+<fechaAutorizacion>2023-11-21T11:44:03-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PUEBLA ALVAREZ LIZBETH ALEXANDRA</razonSocial><nombreComercial>PUEBLA ALVAREZ LIZBETH ALEXANDRA</nombreComercial><ruc>1707353858001</ruc><claveAcceso>2111202301170735385800120010020000779861234567814</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000077986</secuencial><dirMatriz>IMBABURA N4 21 Y MIDEROS EL TEJAR</dirMatriz><agenteRetencion>1</agenteRetencion><contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe></infoTributaria><infoFactura><fechaEmision>21/11/2023</fechaEmision><dirEstablecimiento>IMBABURA N4 21 Y MIDEROS EL TEJAR</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>STALIN LOPEZ</razonSocialComprador><identificacionComprador>0914552849001</identificacionComprador><direccionComprador>LA TOLA</direccionComprador><totalSinImpuestos>7.96</totalSinImpuestos><totalDescuento>0.89</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>7.96</baseImponible><valor>0.96</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>8.92</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>8.92</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>198</codigoPrincipal><descripcion>TELA FELPA PELO LARGO</descripcion><cantidad>0.75</cantidad><precioUnitario>11.8</precioUnitario><descuento>0.89</descuento><precioTotalSinImpuesto>7.97</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>7.97</baseImponible><valor>0.96</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="direcciÃ³n">LA TOLA</campoAdicional><campoAdicional nombre="Teléfono">099498993</campoAdicional><campoAdicional nombre="Email">stlain.lopez@hotmail.com</campoAdicional><campoAdicional nombre=".">Agente de Retención / Regimen Rimpe Emprendedor</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature279611">
+<ds:SignedInfo Id="Signature-SignedInfo510900">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID307757" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature279611-SignedProperties777208">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>/yhRnmNORWIYHb3nFCSpwHYCCVc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1110514">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>bzNvQaG1ti6dqI/ozCgN3zGygQ4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1037512" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>P8Wd2w8JuVRmaCJDUF6bIAZTbWo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue456949">
+tCgyZiHGZewY6G/kUa+k5iZ2PHLAel+nwFE/WSOt5Xyvon2qtHqL+iOSpsgU5SvOtA1NYBpZ+JxI
+KvUle/kM87Vc+On/ZVPhbQtlT1pw4Ea5Rjsj1klWmrbyn+xiiLrq5FrZjqlkAhrhyKDwN0YlO9lb
+zeKxDXYy18Wsb+3gDNAwtOUGWBI8MT9d1My+5wFxQayg48DIEG+c4iPgM+xHe/M94nzFWJI61d3u
+Mi712M0PHD5kAfDyZLmddURH6Tox4lWzVhoDn4KPXVyg1qMhA8eo6S+/xq3SnLnR08mAtC4aM8sj
+np3fiaU2Z74mLN8P+wTwNfiHcovz6y2lBfQMQA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1110514">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILqDCCCZCgAwIBAgIEETSmSDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTEgU0VDVVJJVFkgREFUQTAeFw0yMTAxMTIyMTU5NDJaFw0yNjAxMTIyMTU5NDJaMIGgMQsw
+CQYDVQQGEwJFQzEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEVMBMGA1UEBRMMMTIwMTIxMTcwOTQy
+MSkwJwYDVQQDDCBMSVpCRVRIIEFMRVhBTkRSQSBQVUVCTEEgQUxWQVJFWjCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBANLB7QpsOzU/YCxkw0nOTtXDFLpqjb8YS8DCSENOndIBlzkcMOzT
+pEWfvvTlHIiLN20r2r4ONqvK4XeCentPXYCkptvHDPynli5IIXsE6EHu6WmeZU3caA01tc3I1073
+ckQO1Y8j129gRUKPS6MrrM8UAWcdXTe1Beb3VSfD2CH+8IE4V6xNbPba1BKfmgJoyBxNR5FO9K2B
+N82r6Ddwg4ghe1igXOGp2UGNg3+deUHAH96MpPxbaK/1rQcL5UypzQ7Tc+nO/+pp2V0iUO8CMjQq
+aZMJ2yvS7GwtLuO0NJsH5qRrmL6v9uKvzHgmRIySf1uOnN9g1vb5AKLpODEBL3cCAwEAAaOCBu0w
+ggbpMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAdBgNVHQ4EFgQUIPrETl5jBLKw
+a68Zv3pAyKf2nPQwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBRcD4WkdBD8rQEsGgA9kxcJ+jkB
+1jArBgNVHRAEJDAigA8yMDIxMDExMjIxNTk0MlqBDzIwMjYwMTEyMjE1OTQyWjCBzAYDVR0uBIHE
+MIHBMIG+oIG7oIG4hoG1bGRhcDovL2xkYXBzZC5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9S
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERF
+IENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMSxDPUVD
+P2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4gYDVR0gBIHaMIHXMFoGCisGAQQBgqZyAgcwTDBK
+BggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4A
+YQAgAE4AYQB0AHUAcgBhAGwweQYKKwYBBAGCpnICATBrMGkGCCsGAQUFBwIBFl1odHRwczovL3d3
+dy5zZWN1cml0eWRhdGEubmV0LmVjL2xleWVzX25vcm1hdGl2YXMvUG9saXRpY2FzIGRlIENlcnRp
+ZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKeBgNVHR8EggKVMIICkTCB5aBBoD+GPWh0dHA6
+Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Ci
+gZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VD
+VVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMTELMAkGA1UEBhMCRUMwgcSggcGggb6G
+gbtsZGFwOi8vbGRhcHNkLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMSBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAxLEM9RUM/Y2VydGlmaWNhdGVS
+ZXZvY2F0aW9uTGlzdD9iYXNlMIHfoIHcoIHZhoHWaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3Iuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3Js
+Jmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERB
+VEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkg
+REFUQSBTLkEuIDEsQz1FQzALBgNVHQ8EBAMCBeAwJQYDVR0RBB4wHIEaZ29uemFsb19wYXVjYXJA
+aG90bWFpbC5jb20wGgYKKwYBBAGCpnIDAQQMDAoxNzA3MzUzODU4MCEGCisGAQQBgqZyAwIEEwwR
+TElaQkVUSCBBTEVYQU5EUkEwFgYKKwYBBAGCpnIDAwQIDAZQVUVCTEEwFwYKKwYBBAGCpnIDBAQJ
+DAdBTFZBUkVaMCkGCisGAQQBgqZyAwcEGwwZIENISUxFIE9FNi0yNTMgWSBJTUJBQlVSQTAbBgor
+BgEEAYKmcgMIBA0MCzU5MzIyMjg0NjEwMBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wHQYKKwYBBAGC
+pnIDCwQPDA0xNzA3MzUzODU4MDAxMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjARBgorBgEEAYKm
+cgMdBAMMAS4wEQYKKwYBBAGCpnIDHgQDDAEuMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwMTQx
+NDQzMBMGCisGAQQBgqZyAyEEBQwDUEZYMBEGCisGAQQBgqZyAyIEAwwBLjARBgorBgEEAYKmcgMj
+BAMMAS4wDQYJKoZIhvcNAQELBQADggIBAFezdO1F0FLLkoX8/Es/EZN/XG0i8Bak/DFRqrQ6dYiF
+hGzbwHfKZCpzF4us7NEd9Ki+Z2130RPkTEBqDJi7aVwEAUnTZlkW6PGFYgJ3xaxm67Vj8/Fistj6
+rj7Cy9xQkPgWrK81Vb93ueU0/v63+Tez3FuVEmc169ONGWubIW3scrPzdWZ3VQnb63k/yfnL7Wmi
+o3sFIKHNZVJbKDNwh6I0oipzvDJ6JKbmw1VmtH4LjggZSaXhy3wWOYKwS+ADeqJT0RdI3jFfNU+g
+oa7XvcOHf6yT7MtAS9/qyvznjbGn6OCpAj/8nBknz2U/VwZ168D+dGTviX5DXFqBfHj0l/1eQVAD
+GonOfiEtmVf0+72SELPF9tE53ENR3of8Rz3M4R3hybiUS5PYrEMDKOhiOr8HAEgFiCzTjPw1bYDD
+i9SSxEKO32uJdWV6xfX7E3jr2CewPoMa8VWsdhPDG9YmIv3iSd7+5raTrPyy1mkAAiYX1bsIb6oj
+Zcn7pgren9PYvl74KxKTX/DSR2u/60NihnnsHX2/szOR6GFo/eeDasW+TE9hnzlpprf7mCZJkKlc
+vX0XWPWKTyuEgSAQ8ldanv2l9hYwBCqWErLqwxfuEF/LhYl4oyTuS95b2/cjRmWgKbouCmM1ZnWO
+62WIxcq3TAHE3IOEkcxmzDX/dFpnhvDi
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0sHtCmw7NT9gLGTDSc5O1cMUumqNvxhLwMJIQ06d0gGXORww7NOkRZ++9OUciIs3bSvavg42q8rh
+d4J6e09dgKSm28cM/KeWLkghewToQe7paZ5lTdxoDTW1zcjXTvdyRA7VjyPXb2BFQo9LoyuszxQB
+Zx1dN7UF5vdVJ8PYIf7wgThXrE1s9trUEp+aAmjIHE1HkU70rYE3zavoN3CDiCF7WKBc4anZQY2D
+f515QcAf3oyk/Ftor/WtBwvlTKnNDtNz6c7/6mnZXSJQ7wIyNCppkwnbK9LsbC0u47Q0mwfmpGuY
+vq/24q/MeCZEjJJ/W46c32DW9vkAouk4MQEvdw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature279611-Object307482"><etsi:QualifyingProperties Target="#Signature279611"><etsi:SignedProperties Id="Signature279611-SignedProperties777208"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-11-21T11:43:39-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>yQdTA7F184lENst6IhxOf6BRCCA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 1,C=EC</ds:X509IssuerName><ds:X509SerialNumber>288663112</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1037512"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+

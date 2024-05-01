@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2506202301179207201800120570500002805944126153310</numeroAutorizacion>
+<fechaAutorizacion>2023-06-26T00:37:41-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>DELI INTERNACIONAL S.A.</razonSocial><nombreComercial>EL ESPAÑOL                              </nombreComercial><ruc>1792072018001</ruc><claveAcceso>2506202301179207201800120570500002805944126153310</claveAcceso><codDoc>01</codDoc><estab>057</estab><ptoEmi>050</ptoEmi><secuencial>000280594</secuencial><dirMatriz>PICHINCHA / QUITO / INAQUITO / COREA 126 Y AV. AMAZONAS</dirMatriz></infoTributaria><infoFactura><fechaEmision>25/06/2023</fechaEmision><dirEstablecimiento>PICHINCHA / QUITO / AV. AMAZONAS Y AV. REPUBLICA</dirEstablecimiento><contribuyenteEspecial>1308</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>STALIN LOPEZ  </razonSocialComprador><identificacionComprador>0914552849</identificacionComprador><totalSinImpuestos>6.92</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>6.92</baseImponible><tarifa>12</tarifa><valor>0.83</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>7.75</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>7.75</total><plazo>0</plazo><unidadTiempo>DÍAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>7212</codigoPrincipal><descripcion>Chocolate Tradicional 8oz Sin Crema</descripcion><cantidad>1.0</cantidad><precioUnitario>2.410700</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>2.41</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>2.41</baseImponible><valor>0.29</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>10305</codigoPrincipal><descripcion>1/4 Sanduche americano prom</descripcion><cantidad>1.0</cantidad><precioUnitario>3.348200</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>3.35</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>3.35</baseImponible><valor>0.40</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>54481</codigoPrincipal><descripcion>DOTS APPLE 72G EUROP</descripcion><cantidad>1.0</cantidad><precioUnitario>1.160700</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>1.16</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>1.16</baseImponible><valor>0.14</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="CORREO 1">STALIN.LOPEZ@HOTMAIL.COM</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature702138">
+<ds:SignedInfo Id="Signature-SignedInfo216628">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID302831" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature702138-SignedProperties143082">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>AZkQVjJP+ihLGuVHDQr8I2+wjVM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1828696">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3rlL9CGKj1huJJAXcLVt48WoweQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-5850" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>I2izm2qlPnRQgoiNJXnJJ/uxNQ0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue549844">
+XSBPykH+wyXQAD9raCOE6c028Jw7ZJxC9HxyNOSweXjnSjiWItNaV98y7aqiZBBmPIPjKvy4c706
+PGM8nWckYbVyQEg0BiUWaDpGag8Se+shBr3kw8wru/KbNFtnVJt/HaRjRLFXW9HzBUDov3f4vBzo
+oWLBhAIobyQApM4qR4kQjvtrJ0OW/+X2ZYkN5SieY1wHohU/wQz3rtp8iKTYo0xI7WsBQVePKGqL
+oHY96l2MO2rySvs/7gkI2nxaDOEaIx5WuiAmzsYX9V5+jnkJu/5Ph08md/f3bKsvK3ryOmxC7oPF
+h2XCJlhe2PETFc1YitnqXdHKzDmlpMY9c5ReLA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1828696">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJpzCCB4+gAwIBAgIIJDGMmQDXq2QwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMDgxMDE0NTgwMFoXDTI1MDgwOTE0NTgwMFowgdsxCzAJBgNVBAYTAkVDMSAwHgYDVQQKDBdE
+RUxJIElOVEVSTkFDSU9OQUwgUy5BLjEZMBcGA1UEDAwQQ09OVEFET1IgR0VORVJBTDETMBEGA1UE
+BAwKRVJBWk8gVkFDQTEaMBgGA1UEKgwRU0FOVElBR08gTEVPTkFSRE8xGTAXBgNVBAUTEElEQ0VD
+LTE3MTgzNzI2MjQxJTAjBgNVBAMMHFNBTlRJQUdPIExFT05BUkRPIEVSQVpPIFZBQ0ExHDAaBgNV
+BGEME1ZBVEVDLTE3OTIwNzIwMTgwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC1
+A3iDDLTyGCcHycg7TLcvSWwE1G38HWkrhs/tY0M/iXPpEBNHRFawa9JGztR9aaTmZK5ucEbzTIFH
+VpPtyLeEMuOgPo4QHRSVoZSPMOo9YQsvI75P096KWGhFCDXiRQts0Yz1WsHUx2DglIxRnMvnMiEz
+dtxceUsX6SNLfe06lngzgHTXf8utHTZMiyuIjpPdrXFIPtpzXdIS+OpgysCjWGRnCqOdnnP5o7k7
+SN3rdngqJsMk7xVMgSmymz4iUW3IEp1aJq8cyHqrl5tKiBIEtsLcXCw+LASZcff9I0YTZCsx7H4W
+y0B8Owfyeg39f99jAjb2PEv/QEyfhHxevNS7AgMBAAGjggSOMIIEijCB1wYIKwYBBQUHAQEEgcow
+gccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90
+c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ay
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBRE8C2EuvC1vUSRnU58z4ui
+hMMkljAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGxBgNV
+HSAEgakwgaYwgaMGDCsGAQQBgvE2ZgICATCBkjA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFu
+YXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBXBggrBgEFBQcCAjBLDElDRVJUSUZJQ0FETyBE
+RSBNSUVNQlJPIERFIEVNUFJFU0EgTyBFTiBSRUxBQ0lPTiBERSBERVBFTkRFTkNJQSBFTiBBUkNI
+SVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMv
+cGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNv
+bS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAekGA1UdEQSCAeAwggHcgRlzYW50aWFnby5lcmF6
+b0BrZmMuY29tLmVjoBsGCysGAQQBgvE2ZgMBoAwMCjE3MTgzNzI2MjSgIgYLKwYBBAGC8TZmAwKg
+EwwRU0FOVElBR08gTEVPTkFSRE+gFgYLKwYBBAGC8TZmAwOgBwwFRVJBWk+gFQYLKwYBBAGC8TZm
+AwSgBgwEVkFDQaAhBgsrBgEEAYLxNmYDBaASDBBDT05UQURPUiBHRU5FUkFMoDgGCysGAQQBgvE2
+ZgMHoCkMJ0NPUkVBIE5STyAxMjYgSU5URVJTRUNDSU9OIEFWLiBBTUFaT05BU6AfBgsrBgEEAYLx
+NmYDCKAQDA4wMDU5Mzk4ODA2MTM5OKAWBgsrBgEEAYLxNmYDCaAHDAVRVUlUT6AoBgsrBgEEAYLx
+NmYDCqAZDBdERUxJIElOVEVSTkFDSU9OQUwgUy5BLqAeBgsrBgEEAYLxNmYDC6APDA0xNzkyMDcy
+MDE4MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoEAGCysGAQQBgvE2ZgMyoDEML01JRU1CUk8gREUg
+RU1QUkVTQSBPIEVOIFJFTEFDSU9OIERFIERFUEVOREVOQ0lBoBgGCysGAQQBgvE2ZgMzoAkMB0FS
+Q0hJVk8wDQYJKoZIhvcNAQELBQADggIBAAwvWzDa2Uk7ZCG+QuFloiz5t/F9mjxXDBKI60pbsaMw
+V3uI8mxPwj8BJvJclWphwIDXCQ5F8jidfcOo56B4Xi6mFjNc8+ERqawMzeu1jS2W886J8DRQfQfH
+XW6lARtoiHcl7RNMK5pwGYKgbWqUlxL7EpFR2p/WocqXDkZJdtkwIjDhfjgU6DDT1Rhjf6IdRMkj
+xsBIDDI6m92/iP0ohl6Ty1Zqog+NHHDTJC1p3XCxnJnTgZvonejWgJMGs4WSUzFJocZqbIbsaXDA
+X2rWDzDex9YyhP1DOM0EeQasjo2WuynE8GGCwPyKl5ExCRpTnPgPJ7baDTP/AhrlwQ1/kqz4W9/j
+I5/OdOGG9jbEly1L9xWA+hjfl1DDFkMNE5/BCe3WJJydCLaNzI2KkrhUZsKhrj6ylZ/pibKDUs2v
+UuZIiMT6sUvr9UPK0RcUMFlVrHee/YQaP5Ix6AG4v0ds6ydDcHdAfxWKZv/mHKCwKHNEgfSfNdWM
+Dw9MbjdfeuA/n/Ud+cluq2WIfcERnyB3InjKtZwhrvYa3uAik+jAAkb5EdrBmAlkSJpB50HozkD8
+wvIiV7+D25GZpOcqdXpNW6NJSo3hXjJS/CLIOLXHqsBecSVJOlS85S26n3ocGlNtSGFTif87LThW
+uHKBibw7P8WiM+rk5t8bFI4ga7Jx9vkj
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tQN4gwy08hgnB8nIO0y3L0lsBNRt/B1pK4bP7WNDP4lz6RATR0RWsGvSRs7UfWmk5mSubnBG80yB
+R1aT7ci3hDLjoD6OEB0UlaGUjzDqPWELLyO+T9PeilhoRQg14kULbNGM9VrB1Mdg4JSMUZzL5zIh
+M3bcXHlLF+kjS33tOpZ4M4B013/LrR02TIsriI6T3a1xSD7ac13SEvjqYMrAo1hkZwqjnZ5z+aO5
+O0jd63Z4KibDJO8VTIEpsps+IlFtyBKdWiavHMh6q5ebSogSBLbC3FwsPiwEmXH3/SNGE2QrMex+
+FstAfDsH8noN/X/fYwI29jxL/0BMn4R8XrzUuw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature702138-Object383701"><etsi:QualifyingProperties Target="#Signature702138"><etsi:SignedProperties Id="Signature702138-SignedProperties143082"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-06-26T00:23:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>c1F+C/WGBZhtooXKK9PqbHfBDMo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2608020247996246884</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-5850"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+<mensajes/>
+</autorizacion>
+
