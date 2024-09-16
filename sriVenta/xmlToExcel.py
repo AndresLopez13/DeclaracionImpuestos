@@ -59,7 +59,7 @@ def add_totals(factura):
 
 if __name__ == '__main__':
     path_name = 'marzo'
-    folder_path = r'C:/Users/Andres/Documents/USB/DeclaracionImpuestos/sriVenta/2024/' + path_name
+    folder_path = r'C:/Users/Acer/Documents/DeclaracionImpuestos/sriVenta/2024/' + path_name
     folder_path_retenciones = folder_path + '/retenciones'
     folder_name = os.path.basename(folder_path)
 
